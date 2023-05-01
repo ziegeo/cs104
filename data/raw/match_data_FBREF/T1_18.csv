@@ -1,0 +1,340 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+1.0,Fri,2017-08-11,21:45,Başakşehir,1–0,Bursaspor,,Başakşehir Fatih Terim Stadium,Umit Öztürk,Match Report,,18,T1
+1.0,Sat,2017-08-12,20:00,Gençlerbirliği,1–1,Karabükspor,,Ankara 19 Mayıs Stadyumu,Koray Gençerler,Match Report,,18,T1
+1.0,Sat,2017-08-12,20:00,Akhisarspor,1–0,Sivasspor,,19 Mayıs Stadyumu,Baris Şimşek,Match Report,,18,T1
+1.0,Sat,2017-08-12,21:45,Alanyaspor,1–3,Kasımpaşa,,Bahçeşehir Okulları Stadyumu,Suat Arslanboga,Match Report,,18,T1
+1.0,Sat,2017-08-12,21:45,Göztepe,2–2,Fenerbahçe,,Bornova Doğanlar Stadı,Yaşar Kemal Uğurlu,Match Report,,18,T1
+1.0,Sun,2017-08-13,20:00,Trabzonspor,2–1,Konyaspor,,Şenol Güneş Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+1.0,Sun,2017-08-13,20:00,Yeni Mal'spor,3–1,Osmanlıspor,,Malatya İnönü Stadyumu,Mete Kalkavan,Match Report,,18,T1
+1.0,Sun,2017-08-13,21:45,Beşiktaş,2–0,Antalyaspor,41903.0,Vodafone Arena,Cüneyt Çakιr,Match Report,,18,T1
+1.0,Mon,2017-08-14,21:45,Galatasaray,4–1,Kayserispor,,Türk Telekom Arena,Halis Özkahya,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+2.0,Fri,2017-08-18,21:45,Kasımpaşa,2–2,Beşiktaş,14234.0,Recep Tayyip Erdoğan Stadyumu,Alper Ulusoy,Match Report,,18,T1
+2.0,Sat,2017-08-19,19:00,Karabükspor,3–1,Başakşehir,,Dr. Necmettin Şeyhoğlu Stadı,Fırat Aydınus,Match Report,,18,T1
+2.0,Sat,2017-08-19,19:45,Bursaspor,3–2,Alanyaspor,,Timsah Arena,Serkan Tokat,Match Report,,18,T1
+2.0,Sat,2017-08-19,21:45,Osmanlıspor,1–3,Galatasaray,6704.0,Osmanlı Stadı,Halil Meler,Match Report,,18,T1
+2.0,Sat,2017-08-19,21:45,Sivasspor,2–0,Yeni Mal'spor,,Sivas Arena,Serkan Çınar,Match Report,,18,T1
+2.0,Sun,2017-08-20,20:00,Kayserispor,1–0,Göztepe,,Kadir Has Şehir Stadı,Özgür Yankaya,Match Report,,18,T1
+2.0,Sun,2017-08-20,21:45,Fenerbahçe,2–2,Trabzonspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Ali Palabıyık,Match Report,,18,T1
+2.0,Sun,2017-08-20,21:45,Antalyaspor,2–2,Akhisarspor,,Antalya 100.yıl Stadyumu,Bülent Yildirim,Match Report,,18,T1
+2.0,Mon,2017-08-21,21:45,Konyaspor,3–0,Gençlerbirliği,,Konya Büyükşehir Stadı,Arda Kardeşler,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+3.0,Fri,2017-08-25,21:45,Galatasaray,3–0,Sivasspor,,Türk Telekom Arena,Ali Palabıyık,Match Report,,18,T1
+3.0,Fri,2017-08-25,21:45,Alanyaspor,1–1,Karabükspor,,Bahçeşehir Okulları Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+3.0,Sat,2017-08-26,19:45,Yeni Mal'spor,1–1,Antalyaspor,,Malatya İnönü Stadyumu,Baris Şimşek,Match Report,,18,T1
+3.0,Sat,2017-08-26,19:45,Beşiktaş,2–1,Bursaspor,36216.0,Vodafone Arena,Mete Kalkavan,Match Report,,18,T1
+3.0,Sat,2017-08-26,21:45,Göztepe,3–2,Trabzonspor,,Bornova Doğanlar Stadı,Serkan Çınar,Match Report,,18,T1
+3.0,Sat,2017-08-26,21:45,Kayserispor,2–2,Osmanlıspor,,Kadir Has Şehir Stadı,Fırat Aydınus,Match Report,,18,T1
+3.0,Sun,2017-08-27,19:45,Başakşehir,2–1,Konyaspor,,Başakşehir Fatih Terim Stadium,Cüneyt Çakιr,Match Report,,18,T1
+3.0,Sun,2017-08-27,21:45,Akhisarspor,2–1,Kasımpaşa,,19 Mayıs Stadyumu,Mustafa Ogretmenoglu,Match Report,,18,T1
+3.0,Sun,2017-08-27,21:45,Gençlerbirliği,1–2,Fenerbahçe,,Ankara 19 Mayıs Stadyumu,Umit Öztürk,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+4.0,Sat,2017-09-09,17:00,Karabükspor,0–1,Beşiktaş,11000.0,Dr. Necmettin Şeyhoğlu Stadı,Ali Palabıyık,Match Report,,18,T1
+4.0,Sat,2017-09-09,17:00,Sivasspor,0–2,Kayserispor,,Sivas Arena,Halil Meler,Match Report,,18,T1
+4.0,Sat,2017-09-09,20:00,Konyaspor,0–2,Alanyaspor,,Konya Büyükşehir Stadı,Bülent Yildirim,Match Report,,18,T1
+4.0,Sat,2017-09-09,20:00,Fenerbahçe,2–3,Başakşehir,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Fırat Aydınus,Match Report,,18,T1
+4.0,Sun,2017-09-10,17:00,Trabzonspor,3–1,Gençlerbirliği,,Şenol Güneş Stadyumu,Özgür Yankaya,Match Report,,18,T1
+4.0,Sun,2017-09-10,17:00,Osmanlıspor,0–2,Göztepe,,Osmanlı Stadı,Suat Arslanboga,Match Report,,18,T1
+4.0,Sun,2017-09-10,20:00,Antalyaspor,1–1,Galatasaray,26271.0,Antalya 100.yıl Stadyumu,Halis Özkahya,Match Report,,18,T1
+4.0,Sun,2017-09-10,20:00,Bursaspor,3–0,Akhisarspor,20024.0,Timsah Arena,Alper Ulusoy,Match Report,,18,T1
+4.0,Mon,2017-09-11,20:00,Kasımpaşa,3–2,Yeni Mal'spor,,Recep Tayyip Erdoğan Stadyumu,Arda Kardeşler,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+5.0,Fri,2017-09-15,20:00,Kayserispor,2–0,Antalyaspor,,Kadir Has Şehir Stadı,Yaşar Kemal Uğurlu,Match Report,,18,T1
+5.0,Sat,2017-09-16,17:00,Yeni Mal'spor,2–4,Bursaspor,,Malatya İnönü Stadyumu,Bülent Yildirim,Match Report,,18,T1
+5.0,Sat,2017-09-16,20:00,Galatasaray,2–0,Kasımpaşa,41688.0,Türk Telekom Arena,Cüneyt Çakιr,Match Report,,18,T1
+5.0,Sat,2017-09-16,20:00,Akhisarspor,2–1,Karabükspor,,19 Mayıs Stadyumu,Umit Öztürk,Match Report,,18,T1
+5.0,Sun,2017-09-17,17:00,Başakşehir,2–2,Trabzonspor,,Başakşehir Fatih Terim Stadium,Halis Özkahya,Match Report,,18,T1
+5.0,Sun,2017-09-17,17:00,Osmanlıspor,2–4,Sivasspor,1414.0,Osmanlı Stadı,Hüseyin Göçek,Match Report,,18,T1
+5.0,Sun,2017-09-17,20:00,Göztepe,3–2,Gençlerbirliği,,Bornova Doğanlar Stadı,Mustafa Ogretmenoglu,Match Report,,18,T1
+5.0,Sun,2017-09-17,20:00,Alanyaspor,1–4,Fenerbahçe,,Bahçeşehir Okulları Stadyumu,Mete Kalkavan,Match Report,,18,T1
+5.0,Mon,2017-09-18,20:00,Beşiktaş,2–0,Konyaspor,,Vodafone Arena,Serkan Çınar,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+6.0,Fri,2017-09-22,20:00,Trabzonspor,3–4,Alanyaspor,,Şenol Güneş Stadyumu,Alper Ulusoy,Match Report,,18,T1
+6.0,Sat,2017-09-23,14:00,Konyaspor,2–0,Akhisarspor,,Konya Büyükşehir Stadı,Özgür Yankaya,Match Report,,18,T1
+6.0,Sat,2017-09-23,16:30,Gençlerbirliği,1–0,Başakşehir,19209.0,Ankara 19 Mayıs Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+6.0,Sat,2017-09-23,19:30,Fenerbahçe,2–1,Beşiktaş,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Ali Palabıyık,Match Report,,18,T1
+6.0,Sun,2017-09-24,14:00,Sivasspor,2–3,Göztepe,27532.0,Sivas Arena,Halis Özkahya,Match Report,,18,T1
+6.0,Sun,2017-09-24,14:00,Karabükspor,2–4,Yeni Mal'spor,12400.0,Dr. Necmettin Şeyhoğlu Stadı,Serkan Tokat,Match Report,,18,T1
+6.0,Sun,2017-09-24,16:30,Kasımpaşa,1–1,Kayserispor,15000.0,Recep Tayyip Erdoğan Stadyumu,Umit Öztürk,Match Report,,18,T1
+6.0,Sun,2017-09-24,19:30,Bursaspor,1–2,Galatasaray,,Timsah Arena,Fırat Aydınus,Match Report,,18,T1
+6.0,Mon,2017-09-25,20:00,Antalyaspor,3–0,Osmanlıspor,,Antalya 100.yıl Stadyumu,Mete Kalkavan,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+7.0,Fri,2017-09-29,20:00,Akhisarspor,1–0,Fenerbahçe,,19 Mayıs Stadyumu,Bülent Yildirim,Match Report,,18,T1
+7.0,Sat,2017-09-30,14:00,Sivasspor,3–1,Antalyaspor,27532.0,Sivas Arena,Cüneyt Çakιr,Match Report,,18,T1
+7.0,Sat,2017-09-30,14:00,Osmanlıspor,3–0,Kasımpaşa,19626.0,Osmanlı Stadı,Özgür Yankaya,Match Report,,18,T1
+7.0,Sat,2017-09-30,16:30,Kayserispor,3–1,Bursaspor,,Kadir Has Şehir Stadı,Hüseyin Göçek,Match Report,,18,T1
+7.0,Sat,2017-09-30,19:30,Galatasaray,3–2,Karabükspor,,Türk Telekom Arena,Alper Ulusoy,Match Report,,18,T1
+7.0,Sun,2017-10-01,14:00,Yeni Mal'spor,1–1,Konyaspor,,Malatya İnönü Stadyumu,Koray Gençerler,Match Report,,18,T1
+7.0,Sun,2017-10-01,16:30,Alanyaspor,4–1,Gençlerbirliği,10842.0,Bahçeşehir Okulları Stadyumu,Halil Meler,Match Report,,18,T1
+7.0,Sun,2017-10-01,19:30,Beşiktaş,2–2,Trabzonspor,,Vodafone Arena,Fırat Aydınus,Match Report,,18,T1
+7.0,Sun,2017-10-01,19:30,Göztepe,1–2,Başakşehir,,Bornova Doğanlar Stadı,Yaşar Kemal Uğurlu,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+8.0,Fri,2017-10-13,20:00,Gençlerbirliği,2–1,Beşiktaş,,Ankara 19 Mayıs Stadyumu,Halis Özkahya,Match Report,,18,T1
+8.0,Sat,2017-10-14,14:00,Karabükspor,1–0,Kayserispor,,Dr. Necmettin Şeyhoğlu Stadı,Ali Şansalan,Match Report,,18,T1
+8.0,Sat,2017-10-14,16:30,Başakşehir,2–1,Alanyaspor,,Başakşehir Fatih Terim Stadium,Serkan Çınar,Match Report,,18,T1
+8.0,Sat,2017-10-14,16:30,Antalyaspor,1–3,Göztepe,,Antalya 100.yıl Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+8.0,Sat,2017-10-14,19:30,Konyaspor,0–2,Galatasaray,1862.0,Konya Büyükşehir Stadı,Özgür Yankaya,Match Report,,18,T1
+8.0,Sun,2017-10-15,14:00,Kasımpaşa,2–3,Sivasspor,,Recep Tayyip Erdoğan Stadyumu,Mete Kalkavan,Match Report,,18,T1
+8.0,Sun,2017-10-15,16:30,Trabzonspor,1–6,Akhisarspor,,Şenol Güneş Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+8.0,Sun,2017-10-15,19:30,Fenerbahçe,3–1,Yeni Mal'spor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Alper Ulusoy,Match Report,,18,T1
+8.0,Mon,2017-10-16,20:00,Bursaspor,3–1,Osmanlıspor,,Timsah Arena,Cüneyt Çakιr,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+9.0,Fri,2017-10-20,20:00,Göztepe,3–3,Alanyaspor,,Bornova Doğanlar Stadı,Fırat Aydınus,Match Report,,18,T1
+9.0,Fri,2017-10-20,20:00,Antalyaspor,2–1,Kasımpaşa,,Antalya 100.yıl Stadyumu,Umit Öztürk,Match Report,,18,T1
+9.0,Sat,2017-10-21,14:00,Osmanlıspor,3–0,Karabükspor,,Osmanlı Stadı,Halis Özkahya,Match Report,,18,T1
+9.0,Sat,2017-10-21,16:30,Akhisarspor,3–3,Gençlerbirliği,,19 Mayıs Stadyumu,Suat Arslanboga,Match Report,,18,T1
+9.0,Sat,2017-10-21,19:30,Yeni Mal'spor,1–0,Trabzonspor,,Malatya İnönü Stadyumu,Halil Meler,Match Report,,18,T1
+9.0,Sun,2017-10-22,14:00,Sivasspor,0–0,Bursaspor,,Sivas Arena,Yaşar Kemal Uğurlu,Match Report,,18,T1
+9.0,Sun,2017-10-22,16:30,Kayserispor,2–1,Konyaspor,,Kadir Has Şehir Stadı,Ali Palabıyık,Match Report,,18,T1
+9.0,Sun,2017-10-22,19:30,Galatasaray,0–0,Fenerbahçe,,Türk Telekom Arena,Cüneyt Çakιr,Match Report,,18,T1
+9.0,Mon,2017-10-23,20:00,Beşiktaş,1–1,Başakşehir,,Vodafone Arena,Mete Kalkavan,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+10.0,Fri,2017-10-27,20:00,Kasımpaşa,3–1,Göztepe,,Recep Tayyip Erdoğan Stadyumu,Bülent Yildirim,Match Report,,18,T1
+10.0,Sat,2017-10-28,14:00,Gençlerbirliği,0–1,Yeni Mal'spor,,Ankara 19 Mayıs Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+10.0,Sat,2017-10-28,16:30,Başakşehir,2–1,Akhisarspor,,Başakşehir Fatih Terim Stadium,Fırat Aydınus,Match Report,,18,T1
+10.0,Sat,2017-10-28,19:30,Alanyaspor,1–2,Beşiktaş,,Bahçeşehir Okulları Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+10.0,Sun,2017-10-29,14:00,Karabükspor,0–1,Sivasspor,,Dr. Necmettin Şeyhoğlu Stadı,Özgür Yankaya,Match Report,,18,T1
+10.0,Sun,2017-10-29,14:00,Konyaspor,1–0,Osmanlıspor,,Konya Büyükşehir Stadı,Arda Kardeşler,Match Report,,18,T1
+10.0,Sun,2017-10-29,16:30,Bursaspor,4–0,Antalyaspor,,Timsah Arena,Ali Palabıyık,Match Report,,18,T1
+10.0,Sun,2017-10-29,19:30,Trabzonspor,2–1,Galatasaray,,Şenol Güneş Stadyumu,Halis Özkahya,Match Report,,18,T1
+10.0,Mon,2017-10-30,20:00,Fenerbahçe,3–3,Kayserispor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Halil Meler,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+11.0,Fri,2017-11-03,20:00,Galatasaray,5–1,Gençlerbirliği,,Türk Telekom Arena,Serkan Çınar,Match Report,,18,T1
+11.0,Sat,2017-11-04,14:00,Kayserispor,0–0,Trabzonspor,,Kadir Has Şehir Stadı,Özgür Yankaya,Match Report,,18,T1
+11.0,Sat,2017-11-04,14:00,Kasımpaşa,2–2,Bursaspor,,Recep Tayyip Erdoğan Stadyumu,Suat Arslanboga,Match Report,,18,T1
+11.0,Sat,2017-11-04,16:30,Antalyaspor,2–1,Karabükspor,,Antalya 100.yıl Stadyumu,Arda Kardeşler,Match Report,,18,T1
+11.0,Sat,2017-11-04,19:30,Osmanlıspor,1–1,Fenerbahçe,,Osmanlı Stadı,Fırat Aydınus,Match Report,,18,T1
+11.0,Sun,2017-11-05,14:00,Akhisarspor,0–4,Alanyaspor,,19 Mayıs Stadyumu,Ali Palabıyık,Match Report,,18,T1
+11.0,Sun,2017-11-05,16:30,Yeni Mal'spor,0–2,Başakşehir,,Malatya İnönü Stadyumu,Bülent Yildirim,Match Report,,18,T1
+11.0,Sun,2017-11-05,19:30,Göztepe,1–3,Beşiktaş,,Bornova Doğanlar Stadı,Hüseyin Göçek,Match Report,,18,T1
+11.0,Sun,2017-11-05,19:30,Sivasspor,2–1,Konyaspor,,Sivas Arena,Cüneyt Çakιr,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+12.0,Fri,2017-11-17,20:00,Beşiktaş,0–0,Akhisarspor,,Vodafone Arena,Serkan Çınar,Match Report,,18,T1
+12.0,Sat,2017-11-18,14:00,Bursaspor,0–0,Göztepe,,Timsah Arena,Mete Kalkavan,Match Report,,18,T1
+12.0,Sat,2017-11-18,16:30,Konyaspor,1–1,Antalyaspor,,Konya Büyükşehir Stadı,Bülent Yildirim,Match Report,,18,T1
+12.0,Sat,2017-11-18,19:30,Başakşehir,5–1,Galatasaray,,Başakşehir Fatih Terim Stadium,Ali Palabıyık,Match Report,,18,T1
+12.0,Sun,2017-11-19,14:00,Alanyaspor,1–0,Yeni Mal'spor,,Bahçeşehir Okulları Stadyumu,Halis Özkahya,Match Report,,18,T1
+12.0,Sun,2017-11-19,14:00,Gençlerbirliği,1–2,Kayserispor,,Ankara 19 Mayıs Stadyumu,Fırat Aydınus,Match Report,,18,T1
+12.0,Sun,2017-11-19,16:30,Trabzonspor,4–3,Osmanlıspor,,Şenol Güneş Stadyumu,Umit Öztürk,Match Report,,18,T1
+12.0,Sun,2017-11-19,19:30,Fenerbahçe,4–1,Sivasspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Yaşar Kemal Uğurlu,Match Report,,18,T1
+12.0,Mon,2017-11-20,20:00,Karabükspor,0–2,Kasımpaşa,,Dr. Necmettin Şeyhoğlu Stadı,Halil Meler,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+13.0,Fri,2017-11-24,20:00,Osmanlıspor,2–0,Gençlerbirliği,,Osmanlı Stadı,Özgür Yankaya,Match Report,,18,T1
+13.0,Sat,2017-11-25,14:00,Göztepe,2–0,Akhisarspor,,Bornova Doğanlar Stadı,Arda Kardeşler,Match Report,,18,T1
+13.0,Sat,2017-11-25,16:30,Yeni Mal'spor,0–0,Beşiktaş,,Malatya İnönü Stadyumu,Bülent Yildirim,Match Report,,18,T1
+13.0,Sat,2017-11-25,19:30,Galatasaray,2–0,Alanyaspor,,Türk Telekom Arena,Hüseyin Göçek,Match Report,,18,T1
+13.0,Sun,2017-11-26,14:00,Bursaspor,2–1,Karabükspor,,Timsah Arena,Mustafa Ogretmenoglu,Match Report,,18,T1
+13.0,Sun,2017-11-26,14:00,Sivasspor,1–2,Trabzonspor,,Sivas Arena,Ali Palabıyık,Match Report,,18,T1
+13.0,Sun,2017-11-26,16:30,Kasımpaşa,2–1,Konyaspor,,Recep Tayyip Erdoğan Stadyumu,Halis Özkahya,Match Report,,18,T1
+13.0,Sun,2017-11-26,19:30,Antalyaspor,0–1,Fenerbahçe,,Antalya 100.yıl Stadyumu,Mete Kalkavan,Match Report,,18,T1
+13.0,Mon,2017-11-27,20:00,Kayserispor,1–1,Başakşehir,,Kadir Has Şehir Stadı,Alper Ulusoy,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+14.0,Sat,2017-12-02,14:00,Akhisarspor,0–0,Yeni Mal'spor,,19 Mayıs Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+14.0,Sat,2017-12-02,16:30,Karabükspor,0–1,Göztepe,,Dr. Necmettin Şeyhoğlu Stadı,Bahattin Şimşek,Match Report,,18,T1
+14.0,Sat,2017-12-02,19:30,Beşiktaş,3–0,Galatasaray,,Vodafone Arena,Fırat Aydınus,Match Report,,18,T1
+14.0,Sun,2017-12-03,14:00,Konyaspor,0–3,Bursaspor,,Konya Büyükşehir Stadı,Halil Meler,Match Report,,18,T1
+14.0,Sun,2017-12-03,14:00,Gençlerbirliği,4–0,Sivasspor,,Ankara 19 Mayıs Stadyumu,Mete Kalkavan,Match Report,,18,T1
+14.0,Sun,2017-12-03,16:30,Başakşehir,1–0,Osmanlıspor,,Başakşehir Fatih Terim Stadium,Halis Özkahya,Match Report,,18,T1
+14.0,Sun,2017-12-03,19:30,Fenerbahçe,4–2,Kasımpaşa,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Umit Öztürk,Match Report,,18,T1
+14.0,Mon,2017-12-04,20:00,Trabzonspor,3–0,Antalyaspor,,Şenol Güneş Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+14.0,Mon,2017-12-04,20:00,Alanyaspor,1–2,Kayserispor,,Bahçeşehir Okulları Stadyumu,Bülent Yildirim,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+15.0,Fri,2017-12-08,20:00,Bursaspor,0–1,Fenerbahçe,,Timsah Arena,Ali Palabıyık,Match Report,,18,T1
+15.0,Sat,2017-12-09,14:00,Yeni Mal'spor,2–3,Göztepe,,Malatya İnönü Stadyumu,Ali Şansalan,Match Report,,18,T1
+15.0,Sat,2017-12-09,14:00,Kasımpaşa,0–3,Trabzonspor,,Recep Tayyip Erdoğan Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+15.0,Sat,2017-12-09,16:30,Antalyaspor,1–1,Gençlerbirliği,8355.0,Antalya 100.yıl Stadyumu,Alper Ulusoy,Match Report,,18,T1
+15.0,Sat,2017-12-09,19:30,Galatasaray,4–2,Akhisarspor,30792.0,Türk Telekom Arena,Umit Öztürk,Match Report,,18,T1
+15.0,Sun,2017-12-10,14:00,Osmanlıspor,3–0,Alanyaspor,,Osmanlı Stadı,Mete Kalkavan,Match Report,,18,T1
+15.0,Sun,2017-12-10,16:30,Sivasspor,1–0,Başakşehir,,Sivas Arena,Halil Meler,Match Report,,18,T1
+15.0,Sun,2017-12-10,19:30,Kayserispor,1–1,Beşiktaş,,Kadir Has Şehir Stadı,Yaşar Kemal Uğurlu,Match Report,,18,T1
+15.0,Mon,2017-12-11,20:00,Konyaspor,2–0,Karabükspor,,Konya Büyükşehir Stadı,Baris Şimşek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+16.0,Sat,2017-12-16,14:00,Gençlerbirliği,0–0,Kasımpaşa,,Ankara 19 Mayıs Stadyumu,Bülent Yildirim,Match Report,,18,T1
+16.0,Sat,2017-12-16,16:30,Alanyaspor,1–1,Sivasspor,,Bahçeşehir Okulları Stadyumu,Fırat Aydınus,Match Report,,18,T1
+16.0,Sat,2017-12-16,19:30,Trabzonspor,1–0,Bursaspor,,Şenol Güneş Stadyumu,Halis Özkahya,Match Report,,18,T1
+16.0,Sun,2017-12-17,14:00,Başakşehir,4–1,Antalyaspor,,Başakşehir Fatih Terim Stadium,Baris Şimşek,Match Report,,18,T1
+16.0,Sun,2017-12-17,14:00,Akhisarspor,0–2,Kayserispor,,19 Mayıs Stadyumu,Mete Kalkavan,Match Report,,18,T1
+16.0,Sun,2017-12-17,16:30,Yeni Mal'spor,2–1,Galatasaray,,Malatya İnönü Stadyumu,Ali Palabıyık,Match Report,,18,T1
+16.0,Sun,2017-12-17,19:30,Beşiktaş,5–1,Osmanlıspor,,Vodafone Arena,Halil Meler,Match Report,,18,T1
+16.0,Mon,2017-12-18,20:00,Fenerbahçe,2–0,Karabükspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Alper Ulusoy,Match Report,,18,T1
+16.0,Mon,2017-12-18,20:00,Göztepe,1–0,Konyaspor,,Bornova Doğanlar Stadı,Hüseyin Göçek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+17.0,Fri,2017-12-22,20:00,Antalyaspor,3–1,Alanyaspor,,Antalya 100.yıl Stadyumu,Serkan Çınar,Match Report,,18,T1
+17.0,Sat,2017-12-23,14:00,Bursaspor,1–1,Gençlerbirliği,,Timsah Arena,Hüseyin Göçek,Match Report,,18,T1
+17.0,Sat,2017-12-23,16:30,Sivasspor,2–1,Beşiktaş,,Sivas Arena,Cüneyt Çakιr,Match Report,,18,T1
+17.0,Sat,2017-12-23,19:30,Konyaspor,1–1,Fenerbahçe,,Konya Büyükşehir Stadı,Fırat Aydınus,Match Report,,18,T1
+17.0,Sun,2017-12-24,14:00,Kayserispor,0–1,Yeni Mal'spor,,Kadir Has Şehir Stadı,Umit Öztürk,Match Report,,18,T1
+17.0,Sun,2017-12-24,14:00,Karabükspor,1–1,Trabzonspor,,Dr. Necmettin Şeyhoğlu Stadı,Halil Meler,Match Report,,18,T1
+17.0,Sun,2017-12-24,16:30,Kasımpaşa,1–2,Başakşehir,,Recep Tayyip Erdoğan Stadyumu,Ali Palabıyık,Match Report,,18,T1
+17.0,Sun,2017-12-24,19:30,Galatasaray,3–1,Göztepe,,Türk Telekom Arena,Yaşar Kemal Uğurlu,Match Report,,18,T1
+17.0,Mon,2017-12-25,20:00,Osmanlıspor,3–2,Akhisarspor,,Osmanlı Stadı,Özgür Yankaya,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+18.0,Fri,2018-01-19,20:00,Kasımpaşa,3–2,Alanyaspor,,Recep Tayyip Erdoğan Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+18.0,Sat,2018-01-20,13:30,Karabükspor,0–2,Gençlerbirliği,,Dr. Necmettin Şeyhoğlu Stadı,Ali Palabıyık,Match Report,,18,T1
+18.0,Sat,2018-01-20,16:00,Osmanlıspor,0–0,Yeni Mal'spor,,Osmanlı Stadı,Fırat Aydınus,Match Report,,18,T1
+18.0,Sat,2018-01-20,19:00,Fenerbahçe,2–1,Göztepe,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Umit Öztürk,Match Report,,18,T1
+18.0,Sun,2018-01-21,13:30,Sivasspor,1–1,Akhisarspor,,Sivas Arena,Hüseyin Göçek,Match Report,,18,T1
+18.0,Sun,2018-01-21,13:30,Konyaspor,2–2,Trabzonspor,,Konya Büyükşehir Stadı,Mete Kalkavan,Match Report,,18,T1
+18.0,Sun,2018-01-21,16:00,Bursaspor,0–3,Başakşehir,,Timsah Arena,Bülent Yildirim,Match Report,,18,T1
+18.0,Sun,2018-01-21,19:00,Antalyaspor,1–2,Beşiktaş,,Antalya 100.yıl Stadyumu,Halis Özkahya,Match Report,,18,T1
+18.0,Mon,2018-01-22,20:00,Kayserispor,1–3,Galatasaray,,Kadir Has Şehir Stadı,Cüneyt Çakιr,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+19.0,Fri,2018-01-26,20:00,Gençlerbirliği,2–1,Konyaspor,,Ankara 19 Mayıs Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+19.0,Fri,2018-01-26,20:00,Beşiktaş,2–1,Kasımpaşa,,Vodafone Arena,Hüseyin Göçek,Match Report,,18,T1
+19.0,Sat,2018-01-27,13:30,Alanyaspor,3–1,Bursaspor,,Bahçeşehir Okulları Stadyumu,Umit Öztürk,Match Report,,18,T1
+19.0,Sat,2018-01-27,16:00,Göztepe,1–1,Kayserispor,,Bornova Doğanlar Stadı,Fırat Aydınus,Match Report,,18,T1
+19.0,Sat,2018-01-27,19:00,Galatasaray,2–0,Osmanlıspor,,Türk Telekom Arena,Halil Meler,Match Report,,18,T1
+19.0,Sun,2018-01-28,13:30,Yeni Mal'spor,1–0,Sivasspor,,Malatya İnönü Stadyumu,Mete Kalkavan,Match Report,,18,T1
+19.0,Sun,2018-01-28,16:00,Akhisarspor,1–1,Antalyaspor,,19 Mayıs Stadyumu,Bülent Yildirim,Match Report,,18,T1
+19.0,Sun,2018-01-28,19:00,Trabzonspor,1–1,Fenerbahçe,,Şenol Güneş Stadyumu,Ali Palabıyık,Match Report,,18,T1
+19.0,Mon,2018-01-29,20:00,Başakşehir,5–0,Karabükspor,,Başakşehir Fatih Terim Stadium,Baris Şimşek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+20.0,Fri,2018-02-02,20:00,Bursaspor,2–2,Beşiktaş,,Timsah Arena,Halil Meler,Match Report,,18,T1
+20.0,Sat,2018-02-03,13:30,Karabükspor,1–0,Alanyaspor,,Dr. Necmettin Şeyhoğlu Stadı,Arda Kardeşler,Match Report,,18,T1
+20.0,Sat,2018-02-03,16:00,Antalyaspor,3–1,Yeni Mal'spor,,Antalya 100.yıl Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+20.0,Sat,2018-02-03,19:00,Fenerbahçe,2–2,Gençlerbirliği,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Mete Kalkavan,Match Report,,18,T1
+20.0,Sun,2018-02-04,13:30,Osmanlıspor,0–1,Kayserispor,,Osmanlı Stadı,Umit Öztürk,Match Report,,18,T1
+20.0,Sun,2018-02-04,13:30,Kasımpaşa,2–0,Akhisarspor,,Recep Tayyip Erdoğan Stadyumu,Baris Şimşek,Match Report,,18,T1
+20.0,Sun,2018-02-04,16:00,Konyaspor,1–1,Başakşehir,,Konya Büyükşehir Stadı,Halis Özkahya,Match Report,,18,T1
+20.0,Sun,2018-02-04,19:00,Sivasspor,2–1,Galatasaray,,Sivas Arena,Fırat Aydınus,Match Report,,18,T1
+20.0,Mon,2018-02-05,20:00,Trabzonspor,0–0,Göztepe,,Şenol Güneş Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+21.0,Fri,2018-02-09,20:00,Yeni Mal'spor,1–1,Kasımpaşa,,Malatya İnönü Stadyumu,Mustafa Ogretmenoglu,Match Report,,18,T1
+21.0,Sat,2018-02-10,13:30,Göztepe,3–3,Osmanlıspor,,Bornova Doğanlar Stadı,Arda Kardeşler,Match Report,,18,T1
+21.0,Sat,2018-02-10,16:00,Gençlerbirliği,0–0,Trabzonspor,4813.0,Ankara 19 Mayıs Stadyumu,Alper Ulusoy,Match Report,,18,T1
+21.0,Sat,2018-02-10,19:00,Beşiktaş,5–0,Karabükspor,,Vodafone Arena,Bülent Yildirim,Match Report,,18,T1
+21.0,Sun,2018-02-11,13:30,Kayserispor,1–1,Sivasspor,,Kadir Has Şehir Stadı,Ali Palabıyık,Match Report,,18,T1
+21.0,Sun,2018-02-11,13:30,Akhisarspor,1–0,Bursaspor,,19 Mayıs Stadyumu,Serkan Çınar,Match Report,,18,T1
+21.0,Sun,2018-02-11,16:00,Alanyaspor,1–2,Konyaspor,,Bahçeşehir Okulları Stadyumu,Fırat Aydınus,Match Report,,18,T1
+21.0,Sun,2018-02-11,19:00,Başakşehir,0–2,Fenerbahçe,,Başakşehir Fatih Terim Stadium,Halil Meler,Match Report,,18,T1
+21.0,Mon,2018-02-12,20:00,Galatasaray,3–0,Antalyaspor,,Türk Telekom Arena,Baris Şimşek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+22.0,Fri,2018-02-16,20:00,Konyaspor,1–1,Beşiktaş,,Konya Büyükşehir Stadı,Alper Ulusoy,Match Report,,18,T1
+22.0,Sat,2018-02-17,13:30,Antalyaspor,2–1,Kayserispor,,Antalya 100.yıl Stadyumu,Mete Kalkavan,Match Report,,18,T1
+22.0,Sat,2018-02-17,16:00,Sivasspor,3–2,Osmanlıspor,,Sivas Arena,Mustafa Ogretmenoglu,Match Report,,18,T1
+22.0,Sat,2018-02-17,19:00,Fenerbahçe,3–0,Alanyaspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Umit Öztürk,Match Report,,18,T1
+22.0,Sun,2018-02-18,13:30,Karabükspor,0–3,Akhisarspor,,Dr. Necmettin Şeyhoğlu Stadı,Volkan Bayarslan,Match Report,,18,T1
+22.0,Sun,2018-02-18,13:30,Bursaspor,0–0,Yeni Mal'spor,,Timsah Arena,Ali Palabıyık,Match Report,,18,T1
+22.0,Sun,2018-02-18,16:00,Trabzonspor,0–1,Başakşehir,,Şenol Güneş Stadyumu,Bülent Yildirim,Match Report,,18,T1
+22.0,Sun,2018-02-18,19:00,Kasımpaşa,2–1,Galatasaray,,Recep Tayyip Erdoğan Stadyumu,Halis Özkahya,Match Report,,18,T1
+22.0,Mon,2018-02-19,20:00,Gençlerbirliği,3–0,Göztepe,,Ankara 19 Mayıs Stadyumu,Serkan Çınar,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+23.0,Fri,2018-02-23,20:00,Galatasaray,5–0,Bursaspor,,Türk Telekom Arena,Bülent Yildirim,Match Report,,18,T1
+23.0,Fri,2018-02-23,20:00,Akhisarspor,3–0,Konyaspor,,19 Mayıs Stadyumu,Ali Palabıyık,Match Report,,18,T1
+23.0,Sat,2018-02-24,16:00,Kayserispor,3–2,Kasımpaşa,,Kadir Has Şehir Stadı,Halil Meler,Match Report,,18,T1
+23.0,Sat,2018-02-24,19:00,Alanyaspor,1–2,Trabzonspor,,Bahçeşehir Okulları Stadyumu,Serkan Çınar,Match Report,,18,T1
+23.0,Sun,2018-02-25,13:30,Yeni Mal'spor,3–1,Karabükspor,,Malatya İnönü Stadyumu,Bahattin Şimşek,Match Report,,18,T1
+23.0,Sun,2018-02-25,13:30,Osmanlıspor,0–0,Antalyaspor,,Osmanlı Stadı,Hüseyin Göçek,Match Report,,18,T1
+23.0,Sun,2018-02-25,16:00,Göztepe,1–0,Sivasspor,,Bornova Doğanlar Stadı,Mete Kalkavan,Match Report,,18,T1
+23.0,Sun,2018-02-25,19:00,Beşiktaş,3–1,Fenerbahçe,,Vodafone Arena,Cüneyt Çakιr,Match Report,,18,T1
+23.0,Mon,2018-02-26,20:00,Başakşehir,1–1,Gençlerbirliği,,Başakşehir Fatih Terim Stadium,Umit Öztürk,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+24.0,Fri,2018-03-02,20:00,Bursaspor,1–0,Kayserispor,,Timsah Arena,Yaşar Kemal Uğurlu,Match Report,,18,T1
+24.0,Sat,2018-03-03,13:30,Kasımpaşa,1–1,Osmanlıspor,,Recep Tayyip Erdoğan Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+24.0,Sat,2018-03-03,16:00,Başakşehir,2–0,Göztepe,,Başakşehir Fatih Terim Stadium,Ali Palabıyık,Match Report,,18,T1
+24.0,Sat,2018-03-03,19:00,Karabükspor,0–7,Galatasaray,,Dr. Necmettin Şeyhoğlu Stadı,Mete Kalkavan,Match Report,,18,T1
+24.0,Sun,2018-03-04,13:30,Gençlerbirliği,0–1,Alanyaspor,,Ankara 19 Mayıs Stadyumu,Baris Şimşek,Match Report,,18,T1
+24.0,Sun,2018-03-04,16:00,Konyaspor,0–1,Yeni Mal'spor,,Konya Büyükşehir Stadı,Umit Öztürk,Match Report,,18,T1
+24.0,Sun,2018-03-04,19:00,Antalyaspor,1–4,Sivasspor,,Antalya 100.yıl Stadyumu,Bülent Yildirim,Match Report,,18,T1
+24.0,Sun,2018-03-04,19:00,Fenerbahçe,2–3,Akhisarspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Arda Kardeşler,Match Report,,18,T1
+24.0,Mon,2018-03-05,20:00,Trabzonspor,0–2,Beşiktaş,,Şenol Güneş Stadyumu,Halis Özkahya,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+25.0,Fri,2018-03-09,20:00,Alanyaspor,4–1,Başakşehir,,Bahçeşehir Okulları Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+25.0,Sat,2018-03-10,13:30,Sivasspor,2–2,Kasımpaşa,,Sivas Arena,Alper Ulusoy,Match Report,,18,T1
+25.0,Sat,2018-03-10,16:00,Osmanlıspor,2–1,Bursaspor,,Osmanlı Stadı,Baris Şimşek,Match Report,,18,T1
+25.0,Sat,2018-03-10,19:00,Beşiktaş,1–0,Gençlerbirliği,,Vodafone Arena,Mustafa Ogretmenoglu,Match Report,,18,T1
+25.0,Sun,2018-03-11,13:30,Kayserispor,3–2,Karabükspor,,Kadir Has Şehir Stadı,Suat Arslanboga,Match Report,,18,T1
+25.0,Sun,2018-03-11,13:30,Göztepe,2–1,Antalyaspor,,Bornova Doğanlar Stadı,Fırat Aydınus,Match Report,,18,T1
+25.0,Sun,2018-03-11,16:00,Yeni Mal'spor,0–2,Fenerbahçe,,Malatya İnönü Stadyumu,Mete Kalkavan,Match Report,,18,T1
+25.0,Sun,2018-03-11,19:00,Galatasaray,2–1,Konyaspor,,Türk Telekom Arena,Halil Meler,Match Report,,18,T1
+25.0,Mon,2018-03-12,20:00,Akhisarspor,1–3,Trabzonspor,,19 Mayıs Stadyumu,Umit Öztürk,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+26.0,Fri,2018-03-16,20:00,Karabükspor,0–4,Osmanlıspor,,Dr. Necmettin Şeyhoğlu Stadı,Arda Kardeşler,Match Report,,18,T1
+26.0,Fri,2018-03-16,20:00,Kasımpaşa,2–3,Antalyaspor,,Recep Tayyip Erdoğan Stadyumu,Ali Palabıyık,Match Report,,18,T1
+26.0,Sat,2018-03-17,13:30,Gençlerbirliği,1–1,Akhisarspor,,Ankara 19 Mayıs Stadyumu,Mete Kalkavan,Match Report,,18,T1
+26.0,Sat,2018-03-17,16:00,Bursaspor,1–0,Sivasspor,,Timsah Arena,Hüseyin Göçek,Match Report,,18,T1
+26.0,Sat,2018-03-17,19:00,Fenerbahçe,0–0,Galatasaray,45375.0,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Bülent Yildirim,Match Report,,18,T1
+26.0,Sun,2018-03-18,13:30,Alanyaspor,1–1,Göztepe,,Bahçeşehir Okulları Stadyumu,Özgür Yankaya,Match Report,,18,T1
+26.0,Sun,2018-03-18,13:30,Konyaspor,2–0,Kayserispor,,Konya Büyükşehir Stadı,Halis Özkahya,Match Report,,18,T1
+26.0,Sun,2018-03-18,16:00,Trabzonspor,4–1,Yeni Mal'spor,,Şenol Güneş Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+26.0,Sun,2018-03-18,19:00,Başakşehir,1–0,Beşiktaş,,Başakşehir Fatih Terim Stadium,Halil Meler,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+27.0,Fri,2018-03-30,20:00,Sivasspor,1–0,Karabükspor,,Sivas Arena,Ali Şansalan,Match Report,,18,T1
+27.0,Sat,2018-03-31,13:30,Yeni Mal'spor,4–1,Gençlerbirliği,,Malatya İnönü Stadyumu,Arda Kardeşler,Match Report,,18,T1
+27.0,Sat,2018-03-31,16:00,Antalyaspor,2–0,Bursaspor,,Antalya 100.yıl Stadyumu,Halil Meler,Match Report,,18,T1
+27.0,Sat,2018-03-31,19:00,Beşiktaş,1–0,Alanyaspor,,Vodafone Arena,Baris Şimşek,Match Report,,18,T1
+27.0,Sun,2018-04-01,13:30,Osmanlıspor,0–0,Konyaspor,,Osmanlı Stadı,Mete Kalkavan,Match Report,,18,T1
+27.0,Sun,2018-04-01,13:30,Göztepe,0–2,Kasımpaşa,,Bornova Doğanlar Stadı,Hüseyin Göçek,Match Report,,18,T1
+27.0,Sun,2018-04-01,16:00,Akhisarspor,1–2,Başakşehir,,19 Mayıs Stadyumu,Yaşar Kemal Uğurlu,Match Report,,18,T1
+27.0,Sun,2018-04-01,19:00,Galatasaray,2–1,Trabzonspor,46934.0,Türk Telekom Arena,Fırat Aydınus,Match Report,,18,T1
+27.0,Mon,2018-04-02,20:00,Kayserispor,0–5,Fenerbahçe,,Kadir Has Şehir Stadı,Umit Öztürk,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+28.0,Fri,2018-04-06,20:00,Başakşehir,1–0,Yeni Mal'spor,,Başakşehir Fatih Terim Stadium,Baris Şimşek,Match Report,,18,T1
+28.0,Sat,2018-04-07,13:30,Karabükspor,1–2,Antalyaspor,,Dr. Necmettin Şeyhoğlu Stadı,Koray Gençerler,Match Report,,18,T1
+28.0,Sat,2018-04-07,16:00,Trabzonspor,4–0,Kayserispor,,Şenol Güneş Stadyumu,Ali Palabıyık,Match Report,,18,T1
+28.0,Sat,2018-04-07,19:00,Beşiktaş,5–1,Göztepe,,Vodafone Arena,Umit Öztürk,Match Report,,18,T1
+28.0,Sun,2018-04-08,13:30,Konyaspor,5–0,Sivasspor,,Konya Büyükşehir Stadı,Fırat Aydınus,Match Report,,18,T1
+28.0,Sun,2018-04-08,16:00,Bursaspor,0–1,Kasımpaşa,,Timsah Arena,Mete Kalkavan,Match Report,,18,T1
+28.0,Sun,2018-04-08,16:00,Alanyaspor,3–1,Akhisarspor,,Bahçeşehir Okulları Stadyumu,Halis Özkahya,Match Report,,18,T1
+28.0,Sun,2018-04-08,19:00,Fenerbahçe,2–0,Osmanlıspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Halil Meler,Match Report,,18,T1
+28.0,Mon,2018-04-09,20:00,Gençlerbirliği,1–0,Galatasaray,,Ankara 19 Mayıs Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+29.0,Fri,2018-04-13,20:00,Akhisarspor,0–3,Beşiktaş,,19 Mayıs Stadyumu,Hüseyin Göçek,Match Report,,18,T1
+29.0,Sat,2018-04-14,13:30,Kasımpaşa,2–0,Karabükspor,,Recep Tayyip Erdoğan Stadyumu,Mustafa Ogretmenoglu,Match Report,,18,T1
+29.0,Sat,2018-04-14,16:00,Yeni Mal'spor,1–1,Alanyaspor,,Malatya İnönü Stadyumu,Alper Ulusoy,Match Report,,18,T1
+29.0,Sat,2018-04-14,19:00,Sivasspor,1–2,Fenerbahçe,,Sivas Arena,Ali Palabıyık,Match Report,,18,T1
+29.0,Sun,2018-04-15,13:30,Kayserispor,3–2,Gençlerbirliği,,Kadir Has Şehir Stadı,Fırat Aydınus,Match Report,,18,T1
+29.0,Sun,2018-04-15,16:00,Göztepe,2–1,Bursaspor,,Bornova Doğanlar Stadı,Bülent Yildirim,Match Report,,18,T1
+29.0,Sun,2018-04-15,16:00,Antalyaspor,0–0,Konyaspor,,Antalya 100.yıl Stadyumu,Umit Öztürk,Match Report,,18,T1
+29.0,Sun,2018-04-15,19:00,Galatasaray,2–0,Başakşehir,,Türk Telekom Arena,Halil Meler,Match Report,,18,T1
+29.0,Mon,2018-04-16,20:00,Osmanlıspor,3–3,Trabzonspor,,Osmanlı Stadı,Halis Özkahya,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+30.0,Fri,2018-04-20,20:00,Başakşehir,3–1,Kayserispor,,Başakşehir Fatih Terim Stadium,Hüseyin Göçek,Match Report,,18,T1
+30.0,Sat,2018-04-21,13:30,Karabükspor,1–4,Bursaspor,,Dr. Necmettin Şeyhoğlu Stadı,Serkan Çınar,Match Report,,18,T1
+30.0,Sat,2018-04-21,13:30,Gençlerbirliği,0–3,Osmanlıspor,,Ankara 19 Mayıs Stadyumu,Ali Palabıyık,Match Report,,18,T1
+30.0,Sat,2018-04-21,16:00,Trabzonspor,0–2,Sivasspor,,Şenol Güneş Stadyumu,Halil Meler,Match Report,,18,T1
+30.0,Sat,2018-04-21,19:00,Alanyaspor,2–3,Galatasaray,,Bahçeşehir Okulları Stadyumu,Umit Öztürk,Match Report,,18,T1
+30.0,Sun,2018-04-22,16:00,Konyaspor,2–0,Kasımpaşa,,Konya Büyükşehir Stadı,Bülent Yildirim,Match Report,,18,T1
+30.0,Sun,2018-04-22,16:00,Akhisarspor,1–1,Göztepe,,19 Mayıs Stadyumu,Arda Kardeşler,Match Report,,18,T1
+30.0,Sun,2018-04-22,19:00,Beşiktaş,3–1,Yeni Mal'spor,,Vodafone Arena,Halis Özkahya,Match Report,,18,T1
+30.0,Mon,2018-04-23,20:00,Fenerbahçe,4–1,Antalyaspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Yaşar Kemal Uğurlu,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+31.0,Fri,2018-04-27,20:00,Göztepe,5–0,Karabükspor,,Bornova Doğanlar Stadı,Volkan Bayarslan,Match Report,,18,T1
+31.0,Sat,2018-04-28,13:30,Kayserispor,1–2,Alanyaspor,,Kadir Has Şehir Stadı,Halil Meler,Match Report,,18,T1
+31.0,Sat,2018-04-28,13:30,Sivasspor,1–0,Gençlerbirliği,,Sivas Arena,Hüseyin Göçek,Match Report,,18,T1
+31.0,Sat,2018-04-28,19:00,Kasımpaşa,1–4,Fenerbahçe,,Recep Tayyip Erdoğan Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+31.0,Sat,2018-04-28,19:00,Antalyaspor,1–2,Trabzonspor,,Antalya 100.yıl Stadyumu,Bülent Yildirim,Match Report,,18,T1
+31.0,Sun,2018-04-29,13:30,Yeni Mal'spor,0–0,Akhisarspor,,Malatya İnönü Stadyumu,Özgür Yankaya,Match Report,,18,T1
+31.0,Sun,2018-04-29,16:00,Osmanlıspor,1–4,Başakşehir,,Osmanlı Stadı,Umit Öztürk,Match Report,,18,T1
+31.0,Sun,2018-04-29,19:00,Galatasaray,2–0,Beşiktaş,,Türk Telekom Arena,Fırat Aydınus,Match Report,,18,T1
+31.0,Mon,2018-04-30,20:00,Bursaspor,2–1,Konyaspor,,Timsah Arena,Ali Palabıyık,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+32.0,Fri,2018-05-04,20:00,Başakşehir,1–1,Sivasspor,,Başakşehir Fatih Terim Stadium,Yaşar Kemal Uğurlu,Match Report,,18,T1
+32.0,Sat,2018-05-05,16:00,Karabükspor,0–1,Konyaspor,,Dr. Necmettin Şeyhoğlu Stadı,Özgür Yankaya,Match Report,,18,T1
+32.0,Sat,2018-05-05,19:00,Alanyaspor,1–1,Osmanlıspor,,Bahçeşehir Okulları Stadyumu,Cüneyt Çakιr,Match Report,,18,T1
+32.0,Sat,2018-05-05,19:00,Trabzonspor,2–5,Kasımpaşa,,Şenol Güneş Stadyumu,Umit Öztürk,Match Report,,18,T1
+32.0,Sun,2018-05-06,16:00,Fenerbahçe,2–1,Bursaspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Fırat Aydınus,Match Report,,18,T1
+32.0,Sun,2018-05-06,16:00,Gençlerbirliği,0–1,Antalyaspor,,Ankara 19 Mayıs Stadyumu,Halis Özkahya,Match Report,,18,T1
+32.0,Sun,2018-05-06,19:00,Akhisarspor,1–2,Galatasaray,,19 Mayıs Stadyumu,Ali Palabıyık,Match Report,,18,T1
+32.0,Mon,2018-05-07,20:00,Beşiktaş,2–0,Kayserispor,,Vodafone Arena,Baris Şimşek,Match Report,,18,T1
+32.0,Mon,2018-05-07,20:00,Göztepe,0–0,Yeni Mal'spor,,Bornova Doğanlar Stadı,Hüseyin Göçek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+33.0,Fri,2018-05-11,20:00,Antalyaspor,0–2,Başakşehir,,Antalya 100.yıl Stadyumu,Ali Palabıyık,Match Report,,18,T1
+33.0,Sat,2018-05-12,16:00,Kasımpaşa,3–1,Gençlerbirliği,,Recep Tayyip Erdoğan Stadyumu,Suat Arslanboga,Match Report,,18,T1
+33.0,Sat,2018-05-12,19:00,Konyaspor,1–1,Göztepe,,Konya Büyükşehir Stadı,Umit Öztürk,Match Report,,18,T1
+33.0,Sat,2018-05-12,19:00,Galatasaray,2–0,Yeni Mal'spor,,Türk Telekom Arena,Bülent Yildirim,Match Report,,18,T1
+33.0,Sun,2018-05-13,16:00,Bursaspor,1–3,Trabzonspor,,Timsah Arena,Yaşar Kemal Uğurlu,Match Report,,18,T1
+33.0,Sun,2018-05-13,19:00,Osmanlıspor,2–3,Beşiktaş,,Osmanlı Stadı,Halis Özkahya,Match Report,,18,T1
+33.0,Sun,2018-05-13,19:00,Sivasspor,2–2,Alanyaspor,,Sivas Arena,Alper Ulusoy,Match Report,,18,T1
+33.0,Mon,2018-05-14,20:00,Kayserispor,1–2,Akhisarspor,,Kadir Has Şehir Stadı,Mete Kalkavan,Match Report,,18,T1
+33.0,Mon,2018-05-14,20:00,Karabükspor,0–7,Fenerbahçe,,Dr. Necmettin Şeyhoğlu Stadı,Hüseyin Göçek,Match Report,,18,T1
+,,,,,,,,,,,,18,T1
+34.0,Fri,2018-05-18,18:00,Yeni Mal'spor,3–2,Kayserispor,,Malatya İnönü Stadyumu,Volkan Bayarslan,Match Report,,18,T1
+34.0,Fri,2018-05-18,18:00,Alanyaspor,3–2,Antalyaspor,,Bahçeşehir Okulları Stadyumu,Serkan Tokat,Match Report,,18,T1
+34.0,Fri,2018-05-18,18:00,Akhisarspor,2–1,Osmanlıspor,,19 Mayıs Stadyumu,Bahattin Şimşek,Match Report,,18,T1
+34.0,Fri,2018-05-18,18:00,Trabzonspor,3–0,Karabükspor,,Şenol Güneş Stadyumu,Zorbay Küçük,Match Report,,18,T1
+34.0,Fri,2018-05-18,18:00,Gençlerbirliği,1–0,Bursaspor,,Ankara 19 Mayıs Stadyumu,Ali Şansalan,Match Report,,18,T1
+34.0,Sat,2018-05-19,19:00,Başakşehir,3–2,Kasımpaşa,,Başakşehir Fatih Terim Stadium,Fırat Aydınus,Match Report,,18,T1
+34.0,Sat,2018-05-19,19:00,Göztepe,0–1,Galatasaray,,Bornova Doğanlar Stadı,Cüneyt Çakιr,Match Report,,18,T1
+34.0,Sat,2018-05-19,19:00,Beşiktaş,5–1,Sivasspor,,Vodafone Arena,Bülent Yildirim,Match Report,,18,T1
+34.0,Sat,2018-05-19,19:00,Fenerbahçe,3–2,Konyaspor,,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,Ali Palabıyık,Match Report,,18,T1

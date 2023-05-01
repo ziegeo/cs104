@@ -1,0 +1,349 @@
+Round,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+Regular season,1.0,Fri,2018-08-03,20:30,Hamburger SV,0–3,Holstein Kiel,57000.0,Volksparkstadion,Marco Fritz,Match Report,,19,D2
+Regular season,1.0,Sat,2018-08-04,13:00,Bochum,0–2,Köln,26600.0,Vonovia Ruhrstadion,Felix Zwayer,Match Report,,19,D2
+Regular season,1.0,Sat,2018-08-04,15:30,Greuther Fürth,3–1,Sandhausen,8450.0,Sportpark Ronhof Thomas Sommer,Tobias Stieler,Match Report,,19,D2
+Regular season,1.0,Sat,2018-08-04,15:30,Jahn R'burg,2–1,Ingolstadt 04,13516.0,Continental Arena,Sören Storks,Match Report,,19,D2
+Regular season,1.0,Sun,2018-08-05,13:30,Magdeburg,1–2,St. Pauli,24156.0,MDCC-Arena,Frank Willenborg,Match Report,,19,D2
+Regular season,1.0,Sun,2018-08-05,15:30,Darmstadt 98,1–0,Paderborn 07,15400.0,Jonathan-Heimes-Stadion am Böllenfalltor,Bastian Dankert,Match Report,,19,D2
+Regular season,1.0,Sun,2018-08-05,15:30,Union Berlin,1–0,Erzgebirge Aue,21752.0,Stadion An der Alten Försterei,Benjamin Cortus,Match Report,,19,D2
+Regular season,1.0,Sun,2018-08-05,15:30,Heidenheim,1–1,Arminia,10500.0,Voith-Arena,Patrick Ittrich,Match Report,,19,D2
+Regular season,1.0,Mon,2018-08-06,20:30,Dresden,1–0,MSV Duisburg,28733.0,DDV-Stadion,Daniel Siebert,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,2.0,Fri,2018-08-10,18:30,Ingolstadt 04,1–1,Greuther Fürth,9861.0,Audi-Sportpark,Markus Schmidt,Match Report,,19,D2
+Regular season,2.0,Fri,2018-08-10,18:30,Paderborn 07,2–0,Jahn R'burg,9458.0,Benteler-Arena,Robert Kampka,Match Report,,19,D2
+Regular season,2.0,Fri,2018-08-10,20:30,St. Pauli,2–0,Darmstadt 98,29140.0,Millerntor-Stadion,Guido Winkmann,Match Report,,19,D2
+Regular season,2.0,Sat,2018-08-11,13:00,MSV Duisburg,0–2,Bochum,20541.0,Schauinsland-Reisen-Arena,Christian Dingert,Match Report,,19,D2
+Regular season,2.0,Sat,2018-08-11,15:30,Arminia,2–1,Dresden,19409.0,SchücoArena,Sven Jablonski,Match Report,,19,D2
+Regular season,2.0,Sun,2018-08-12,13:30,Sandhausen,0–3,Hamburger SV,14508.0,Hardtwaldstadion,Tobias Welz,Match Report,,19,D2
+Regular season,2.0,Sun,2018-08-12,15:30,Erzgebirge Aue,0–0,Magdeburg,13300.0,Sparkassen-Erzgebirgsstadion,Robert Hartmann,Match Report,,19,D2
+Regular season,2.0,Sun,2018-08-12,15:30,Holstein Kiel,1–1,Heidenheim,9040.0,Holstein-Stadion,Sören Storks,Match Report,,19,D2
+Regular season,2.0,Mon,2018-08-13,20:30,Köln,1–1,Union Berlin,50000.0,RheinEnergieSTADION,Daniel Schlager,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,3.0,Fri,2018-08-24,18:30,Bochum,1–0,Sandhausen,13821.0,Vonovia Ruhrstadion,Patrick Alt,Match Report,,19,D2
+Regular season,3.0,Fri,2018-08-24,18:30,Darmstadt 98,3–0,MSV Duisburg,15170.0,Jonathan-Heimes-Stadion am Böllenfalltor,Robert Hartmann,Match Report,,19,D2
+Regular season,3.0,Sat,2018-08-25,13:00,Köln,3–1,Erzgebirge Aue,48000.0,RheinEnergieSTADION,Marco Fritz,Match Report,,19,D2
+Regular season,3.0,Sat,2018-08-25,13:00,Greuther Fürth,2–2,Paderborn 07,7480.0,Sportpark Ronhof Thomas Sommer,Tobias Reichel,Match Report,,19,D2
+Regular season,3.0,Sat,2018-08-25,13:00,Magdeburg,1–1,Ingolstadt 04,18913.0,MDCC-Arena,Thorben Siewer,Match Report,,19,D2
+Regular season,3.0,Sun,2018-08-26,13:30,Jahn R'burg,0–0,Holstein Kiel,2970.0,Continental Arena,Sven Waschitzki,Match Report,,19,D2
+Regular season,3.0,Sun,2018-08-26,13:30,Dresden,1–3,Heidenheim,26868.0,DDV-Stadion,Frank Willenborg,Match Report,,19,D2
+Regular season,3.0,Sun,2018-08-26,13:30,Union Berlin,4–1,St. Pauli,22012.0,Stadion An der Alten Försterei,Sven Jablonski,Match Report,,19,D2
+Regular season,3.0,Mon,2018-08-27,20:30,Hamburger SV,3–0,Arminia,46934.0,Volksparkstadion,Aarne Aarnink,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,4.0,Fri,2018-08-31,18:30,Ingolstadt 04,3–2,Erzgebirge Aue,8394.0,Audi-Sportpark,Martin Petersen,Match Report,,19,D2
+Regular season,4.0,Fri,2018-08-31,18:30,Paderborn 07,2–2,Bochum,12518.0,Benteler-Arena,Florian Badstübner,Match Report,,19,D2
+Regular season,4.0,Sat,2018-09-01,13:00,Arminia,5–3,Jahn R'burg,15388.0,SchücoArena,Robert Schröder,Match Report,,19,D2
+Regular season,4.0,Sat,2018-09-01,13:00,MSV Duisburg,0–1,Greuther Fürth,12070.0,Schauinsland-Reisen-Arena,Florian Heft,Match Report,,19,D2
+Regular season,4.0,Sun,2018-09-02,13:30,Heidenheim,0–1,Darmstadt 98,10350.0,Voith-Arena,Alexander Sather,Match Report,,19,D2
+Regular season,4.0,Sun,2018-09-02,13:30,Sandhausen,0–0,Union Berlin,5517.0,Hardtwaldstadion,Timo Gerach,Match Report,,19,D2
+Regular season,4.0,Sun,2018-09-02,13:30,St. Pauli,3–5,Köln,29546.0,Millerntor-Stadion,Benjamin Cortus,Match Report,,19,D2
+Regular season,4.0,Mon,2018-09-03,20:30,Holstein Kiel,2–1,Magdeburg,9314.0,Holstein-Stadion,Robert Kampka,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,5.0,Fri,2018-09-14,18:30,Jahn R'burg,0–2,Dresden,13629.0,Continental Arena,René Rohde,Match Report,,19,D2
+Regular season,5.0,Fri,2018-09-14,18:30,Union Berlin,2–2,MSV Duisburg,20329.0,Stadion An der Alten Försterei,Michael Bacher,Match Report,,19,D2
+Regular season,5.0,Sat,2018-09-15,13:00,Greuther Fürth,4–1,Holstein Kiel,8370.0,Sportpark Ronhof Thomas Sommer,Lasse Koslowski,Match Report,,19,D2
+Regular season,5.0,Sat,2018-09-15,13:00,Hamburger SV,3–2,Heidenheim,45379.0,Volksparkstadion,Harm Osmers,Match Report,,19,D2
+Regular season,5.0,Sat,2018-09-15,13:00,Darmstadt 98,1–1,Sandhausen,15103.0,Jonathan-Heimes-Stadion am Böllenfalltor,Johann Pfeifer,Match Report,,19,D2
+Regular season,5.0,Sun,2018-09-16,13:30,Köln,3–5,Paderborn 07,50000.0,RheinEnergieSTADION,Markus Schmidt,Match Report,,19,D2
+Regular season,5.0,Sun,2018-09-16,13:30,Bochum,6–0,Ingolstadt 04,14341.0,Vonovia Ruhrstadion,Robert Kempter,Match Report,,19,D2
+Regular season,5.0,Sun,2018-09-16,13:30,Erzgebirge Aue,3–1,St. Pauli,12000.0,Sparkassen-Erzgebirgsstadion,Bastian Dankert,Match Report,,19,D2
+Regular season,5.0,Mon,2018-09-17,20:30,Magdeburg,0–0,Arminia,19794.0,MDCC-Arena,Christof Günsch,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,4.0,Tue,2018-09-18,18:30,Dresden,0–1,Hamburger SV,30723.0,DDV-Stadion,Felix Zwayer,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,6.0,Fri,2018-09-21,18:30,Ingolstadt 04,0–1,St. Pauli,10164.0,Audi-Sportpark,Patrick Alt,Match Report,,19,D2
+Regular season,6.0,Fri,2018-09-21,18:30,Sandhausen,0–2,Köln,13237.0,Hardtwaldstadion,Patrick Ittrich,Match Report,,19,D2
+Regular season,6.0,Sat,2018-09-22,13:00,Dresden,4–1,Darmstadt 98,26530.0,DDV-Stadion,Benedikt Kempkes,Match Report,,19,D2
+Regular season,6.0,Sat,2018-09-22,13:00,Arminia,1–1,Union Berlin,18114.0,SchücoArena,Martin Thomsen,Match Report,,19,D2
+Regular season,6.0,Sat,2018-09-22,13:00,Holstein Kiel,2–2,Bochum,8880.0,Holstein-Stadion,Tobias Reichel,Match Report,,19,D2
+Regular season,6.0,Sun,2018-09-23,13:30,Hamburger SV,0–5,Jahn R'burg,44716.0,Volksparkstadion,Manuel Gräfe,Match Report,,19,D2
+Regular season,6.0,Sun,2018-09-23,13:30,Paderborn 07,4–4,Magdeburg,11525.0,Benteler-Arena,Christian Dietz,Match Report,,19,D2
+Regular season,6.0,Sun,2018-09-23,13:30,MSV Duisburg,1–2,Erzgebirge Aue,13119.0,Schauinsland-Reisen-Arena,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,6.0,Sun,2018-09-23,13:30,Heidenheim,2–0,Greuther Fürth,10400.0,Voith-Arena,Tobias Welz,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,7.0,Tue,2018-09-25,18:30,Darmstadt 98,1–2,Arminia,14210.0,Jonathan-Heimes-Stadion am Böllenfalltor,Pascal Müller,Match Report,,19,D2
+Regular season,7.0,Tue,2018-09-25,18:30,Union Berlin,2–0,Holstein Kiel,20879.0,Stadion An der Alten Försterei,Benjamin Cortus,Match Report,,19,D2
+Regular season,7.0,Tue,2018-09-25,18:30,Köln,2–1,Ingolstadt 04,45900.0,RheinEnergieSTADION,Aarne Aarnink,Match Report,,19,D2
+Regular season,7.0,Tue,2018-09-25,18:30,Bochum,0–1,Dresden,15511.0,Vonovia Ruhrstadion,Martin Petersen,Match Report,,19,D2
+Regular season,7.0,Wed,2018-09-26,18:30,Erzgebirge Aue,0–2,Sandhausen,7680.0,Sparkassen-Erzgebirgsstadion,Thorben Siewer,Match Report,,19,D2
+Regular season,7.0,Wed,2018-09-26,18:30,Jahn R'burg,2–1,Heidenheim,8728.0,Continental Arena,Christof Günsch,Match Report,,19,D2
+Regular season,7.0,Wed,2018-09-26,18:30,Magdeburg,3–3,MSV Duisburg,18696.0,MDCC-Arena,Daniel Schlager,Match Report,,19,D2
+Regular season,7.0,Wed,2018-09-26,18:30,St. Pauli,2–1,Paderborn 07,29546.0,Millerntor-Stadion,Sven Waschitzki,Match Report,,19,D2
+Regular season,7.0,Thu,2018-09-27,20:30,Greuther Fürth,0–0,Hamburger SV,14965.0,Sportpark Ronhof Thomas Sommer,Sascha Stegemann,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,8.0,Fri,2018-09-28,18:30,Holstein Kiel,4–2,Darmstadt 98,8527.0,Holstein-Stadion,Timo Gerach,Match Report,,19,D2
+Regular season,8.0,Fri,2018-09-28,18:30,Arminia,1–3,Köln,26283.0,SchücoArena,Daniel Siebert,Match Report,,19,D2
+Regular season,8.0,Sat,2018-09-29,13:00,MSV Duisburg,1–3,Jahn R'burg,11096.0,Schauinsland-Reisen-Arena,Alexander Sather,Match Report,,19,D2
+Regular season,8.0,Sat,2018-09-29,13:00,Paderborn 07,1–0,Erzgebirge Aue,8545.0,Benteler-Arena,Manuel Gräfe,Match Report,,19,D2
+Regular season,8.0,Sat,2018-09-29,13:00,Heidenheim,3–2,Bochum,10600.0,Voith-Arena,René Rohde,Match Report,,19,D2
+Regular season,8.0,Sun,2018-09-30,13:30,Hamburger SV,0–0,St. Pauli,57000.0,Volksparkstadion,Markus Schmidt,Match Report,,19,D2
+Regular season,8.0,Sun,2018-09-30,13:30,Dresden,0–1,Greuther Fürth,27750.0,DDV-Stadion,Patrick Ittrich,Match Report,,19,D2
+Regular season,8.0,Sun,2018-09-30,13:30,Sandhausen,0–1,Magdeburg,7352.0,Hardtwaldstadion,Florian Heft,Match Report,,19,D2
+Regular season,8.0,Mon,2018-10-01,20:30,Ingolstadt 04,1–2,Union Berlin,7068.0,Audi-Sportpark,Bastian Dankert,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,9.0,Fri,2018-10-05,18:30,Darmstadt 98,1–2,Hamburger SV,17400.0,Jonathan-Heimes-Stadion am Böllenfalltor,Christian Dietz,Match Report,,19,D2
+Regular season,9.0,Fri,2018-10-05,18:30,Bochum,1–0,Arminia,19231.0,Vonovia Ruhrstadion,Lasse Koslowski,Match Report,,19,D2
+Regular season,9.0,Sat,2018-10-06,13:00,Greuther Fürth,1–1,Jahn R'burg,10845.0,Sportpark Ronhof Thomas Sommer,Martin Thomsen,Match Report,,19,D2
+Regular season,9.0,Sat,2018-10-06,13:00,Magdeburg,2–2,Dresden,23024.0,MDCC-Arena,Manuel Gräfe,Match Report,,19,D2
+Regular season,9.0,Sat,2018-10-06,13:00,Erzgebirge Aue,2–1,Holstein Kiel,7500.0,Sparkassen-Erzgebirgsstadion,Michael Bacher,Match Report,,19,D2
+Regular season,9.0,Sun,2018-10-07,13:30,St. Pauli,3–1,Sandhausen,29546.0,Millerntor-Stadion,Robert Kempter,Match Report,,19,D2
+Regular season,9.0,Sun,2018-10-07,13:30,Union Berlin,1–1,Heidenheim,20108.0,Stadion An der Alten Försterei,Benedikt Kempkes,Match Report,,19,D2
+Regular season,9.0,Sun,2018-10-07,13:30,Ingolstadt 04,1–2,Paderborn 07,7594.0,Audi-Sportpark,Christian Dingert,Match Report,,19,D2
+Regular season,9.0,Mon,2018-10-08,20:30,Köln,1–2,MSV Duisburg,49600.0,RheinEnergieSTADION,Florian Badstübner,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,10.0,Fri,2018-10-19,18:30,Sandhausen,4–0,Ingolstadt 04,5653.0,Hardtwaldstadion,Marco Fritz,Match Report,,19,D2
+Regular season,10.0,Fri,2018-10-19,18:30,Dresden,1–1,Erzgebirge Aue,30769.0,DDV-Stadion,Robert Schröder,Match Report,,19,D2
+Regular season,10.0,Sat,2018-10-20,13:00,Arminia,2–3,Greuther Fürth,16032.0,SchücoArena,Johann Pfeifer,Match Report,,19,D2
+Regular season,10.0,Sat,2018-10-20,13:00,Heidenheim,3–0,Magdeburg,10450.0,Voith-Arena,Aarne Aarnink,Match Report,,19,D2
+Regular season,10.0,Sat,2018-10-20,13:00,Holstein Kiel,1–1,Köln,9700.0,Holstein-Stadion,Robert Kampka,Match Report,,19,D2
+Regular season,10.0,Sun,2018-10-21,13:30,Paderborn 07,0–0,Union Berlin,11336.0,Benteler-Arena,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,10.0,Sun,2018-10-21,13:30,Jahn R'burg,1–1,Darmstadt 98,10907.0,Continental Arena,Tobias Reichel,Match Report,,19,D2
+Regular season,10.0,Sun,2018-10-21,13:30,Hamburger SV,0–0,Bochum,51953.0,Volksparkstadion,Christof Günsch,Match Report,,19,D2
+Regular season,10.0,Mon,2018-10-22,20:30,MSV Duisburg,0–1,St. Pauli,20130.0,Schauinsland-Reisen-Arena,Pascal Müller,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,11.0,Fri,2018-10-26,18:30,Magdeburg,0–1,Hamburger SV,23132.0,MDCC-Arena,Timo Gerach,Match Report,,19,D2
+Regular season,11.0,Fri,2018-10-26,18:30,Darmstadt 98,2–0,Greuther Fürth,14050.0,Jonathan-Heimes-Stadion am Böllenfalltor,René Rohde,Match Report,,19,D2
+Regular season,11.0,Sat,2018-10-27,13:00,Köln,1–1,Heidenheim,50000.0,RheinEnergieSTADION,Tobias Stieler,Match Report,,19,D2
+Regular season,11.0,Sat,2018-10-27,13:00,Paderborn 07,3–3,Sandhausen,8216.0,Benteler-Arena,Alexander Sather,Match Report,,19,D2
+Regular season,11.0,Sat,2018-10-27,13:00,Erzgebirge Aue,1–0,Arminia,8050.0,Sparkassen-Erzgebirgsstadion,Sven Waschitzki,Match Report,,19,D2
+Regular season,11.0,Sun,2018-10-28,13:30,St. Pauli,0–1,Holstein Kiel,29546.0,Millerntor-Stadion,Bastian Dankert,Match Report,,19,D2
+Regular season,11.0,Sun,2018-10-28,13:30,Union Berlin,0–0,Dresden,22012.0,Stadion An der Alten Försterei,Sven Jablonski,Match Report,,19,D2
+Regular season,11.0,Sun,2018-10-28,13:30,Ingolstadt 04,1–1,MSV Duisburg,6564.0,Audi-Sportpark,Thorben Siewer,Match Report,,19,D2
+Regular season,11.0,Mon,2018-10-29,20:30,Bochum,3–3,Jahn R'burg,12621.0,Vonovia Ruhrstadion,Martin Petersen,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,12.0,Fri,2018-11-02,18:30,Greuther Fürth,2–2,Bochum,8750.0,Sportpark Ronhof Thomas Sommer,Patrick Alt,Match Report,,19,D2
+Regular season,12.0,Fri,2018-11-02,18:30,Dresden,3–1,Sandhausen,27253.0,DDV-Stadion,Michael Bacher,Match Report,,19,D2
+Regular season,12.0,Sat,2018-11-03,13:00,Holstein Kiel,2–2,Ingolstadt 04,8410.0,Holstein-Stadion,Manuel Gräfe,Match Report,,19,D2
+Regular season,12.0,Sat,2018-11-03,13:00,MSV Duisburg,2–0,Paderborn 07,13161.0,Schauinsland-Reisen-Arena,Florian Heft,Match Report,,19,D2
+Regular season,12.0,Sat,2018-11-03,13:00,Darmstadt 98,3–1,Magdeburg,15410.0,Jonathan-Heimes-Stadion am Böllenfalltor,Benjamin Cortus,Match Report,,19,D2
+Regular season,12.0,Sun,2018-11-04,13:30,Jahn R'burg,1–1,Union Berlin,10884.0,Continental Arena,Sascha Stegemann,Match Report,,19,D2
+Regular season,12.0,Sun,2018-11-04,13:30,Heidenheim,1–0,Erzgebirge Aue,10300.0,Voith-Arena,Robert Kempter,Match Report,,19,D2
+Regular season,12.0,Sun,2018-11-04,13:30,Arminia,1–2,St. Pauli,22446.0,SchücoArena,Benedikt Kempkes,Match Report,,19,D2
+Regular season,12.0,Mon,2018-11-05,20:30,Hamburger SV,1–0,Köln,53876.0,Volksparkstadion,Christian Dingert,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,13.0,Fri,2018-11-09,18:30,Paderborn 07,4–4,Holstein Kiel,10035.0,Benteler-Arena,Lasse Koslowski,Match Report,,19,D2
+Regular season,13.0,Fri,2018-11-09,18:30,Sandhausen,0–0,MSV Duisburg,5534.0,Hardtwaldstadion,Christof Günsch,Match Report,,19,D2
+Regular season,13.0,Sat,2018-11-10,13:00,Erzgebirge Aue,1–3,Hamburger SV,16000.0,Sparkassen-Erzgebirgsstadion,Johann Pfeifer,Match Report,,19,D2
+Regular season,13.0,Sat,2018-11-10,13:00,Köln,8–1,Dresden,50000.0,RheinEnergieSTADION,Felix Brych,Match Report,,19,D2
+Regular season,13.0,Sat,2018-11-10,13:00,St. Pauli,1–1,Heidenheim,29546.0,Millerntor-Stadion,Christian Dietz,Match Report,,19,D2
+Regular season,13.0,Sun,2018-11-11,13:30,Union Berlin,4–0,Greuther Fürth,21785.0,Stadion An der Alten Försterei,Daniel Schlager,Match Report,,19,D2
+Regular season,13.0,Sun,2018-11-11,13:30,Magdeburg,2–3,Jahn R'burg,20336.0,MDCC-Arena,Pascal Müller,Match Report,,19,D2
+Regular season,13.0,Sun,2018-11-11,13:30,Ingolstadt 04,1–1,Arminia,7081.0,Audi-Sportpark,Harm Osmers,Match Report,,19,D2
+Regular season,13.0,Mon,2018-11-12,20:30,Bochum,1–0,Darmstadt 98,12022.0,Vonovia Ruhrstadion,Martin Thomsen,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,14.0,Fri,2018-11-23,18:30,Greuther Fürth,3–2,Magdeburg,9340.0,Sportpark Ronhof Thomas Sommer,Markus Schmidt,Match Report,,19,D2
+Regular season,14.0,Fri,2018-11-23,18:30,Arminia,0–1,MSV Duisburg,14766.0,SchücoArena,Bibiana Steinhaus,Match Report,,19,D2
+Regular season,14.0,Sat,2018-11-24,13:00,Darmstadt 98,0–3,Köln,17400.0,Jonathan-Heimes-Stadion am Böllenfalltor,Florian Heft,Match Report,,19,D2
+Regular season,14.0,Sat,2018-11-24,13:00,Bochum,2–1,Erzgebirge Aue,17012.0,Vonovia Ruhrstadion,Robert Kampka,Match Report,,19,D2
+Regular season,14.0,Sat,2018-11-24,13:00,Holstein Kiel,2–1,Sandhausen,8404.0,Holstein-Stadion,Aarne Aarnink,Match Report,,19,D2
+Regular season,14.0,Sun,2018-11-25,13:30,Jahn R'burg,1–1,St. Pauli,15210.0,Continental Arena,Sven Waschitzki,Match Report,,19,D2
+Regular season,14.0,Sun,2018-11-25,13:30,Heidenheim,1–5,Paderborn 07,10000.0,Voith-Arena,Timo Gerach,Match Report,,19,D2
+Regular season,14.0,Sun,2018-11-25,13:30,Dresden,2–0,Ingolstadt 04,26853.0,DDV-Stadion,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,14.0,Mon,2018-11-26,20:30,Hamburger SV,2–2,Union Berlin,45584.0,Volksparkstadion,Frank Willenborg,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,15.0,Fri,2018-11-30,18:30,Erzgebirge Aue,1–1,Jahn R'burg,7100.0,Sparkassen-Erzgebirgsstadion,Thorben Siewer,Match Report,,19,D2
+Regular season,15.0,Fri,2018-11-30,18:30,Paderborn 07,2–2,Arminia,15000.0,Benteler-Arena,René Rohde,Match Report,,19,D2
+Regular season,15.0,Sat,2018-12-01,13:00,St. Pauli,1–1,Dresden,29546.0,Millerntor-Stadion,Deniz Aytekin,Match Report,,19,D2
+Regular season,15.0,Sat,2018-12-01,13:00,Union Berlin,3–1,Darmstadt 98,21474.0,Stadion An der Alten Försterei,Marco Fritz,Match Report,,19,D2
+Regular season,15.0,Sat,2018-12-01,13:00,Köln,4–0,Greuther Fürth,50000.0,RheinEnergieSTADION,Sören Storks,Match Report,,19,D2
+Regular season,15.0,Sat,2018-12-01,13:00,Ingolstadt 04,1–2,Hamburger SV,13500.0,Audi-Sportpark,Tobias Reichel,Match Report,,19,D2
+Regular season,15.0,Sun,2018-12-02,13:30,Sandhausen,1–2,Heidenheim,4778.0,Hardtwaldstadion,Robert Hartmann,Match Report,,19,D2
+Regular season,15.0,Sun,2018-12-02,13:30,Magdeburg,0–0,Bochum,22252.0,MDCC-Arena,Robert Kempter,Match Report,,19,D2
+Regular season,15.0,Sun,2018-12-02,13:30,MSV Duisburg,0–4,Holstein Kiel,12320.0,Schauinsland-Reisen-Arena,Florian Badstübner,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,16.0,Fri,2018-12-07,18:30,Jahn R'burg,1–3,Köln,15210.0,Continental Arena,Christof Günsch,Match Report,,19,D2
+Regular season,16.0,Fri,2018-12-07,18:30,Hamburger SV,1–0,Paderborn 07,49449.0,Volksparkstadion,Benjamin Cortus,Match Report,,19,D2
+Regular season,16.0,Sat,2018-12-08,13:00,Darmstadt 98,1–1,Ingolstadt 04,16579.0,Jonathan-Heimes-Stadion am Böllenfalltor,Alexander Sather,Match Report,,19,D2
+Regular season,16.0,Sat,2018-12-08,13:00,Greuther Fürth,0–5,Erzgebirge Aue,9305.0,Sportpark Ronhof Thomas Sommer,Martin Petersen,Match Report,,19,D2
+Regular season,16.0,Sat,2018-12-08,13:00,Heidenheim,4–1,MSV Duisburg,10250.0,Voith-Arena,Patrick Alt,Match Report,,19,D2
+Regular season,16.0,Sun,2018-12-09,13:30,Dresden,0–2,Holstein Kiel,26407.0,DDV-Stadion,Johann Pfeifer,Match Report,,19,D2
+Regular season,16.0,Sun,2018-12-09,13:30,Magdeburg,1–1,Union Berlin,23149.0,MDCC-Arena,Felix Brych,Match Report,,19,D2
+Regular season,16.0,Sun,2018-12-09,13:30,Arminia,1–1,Sandhausen,14091.0,SchücoArena,Michael Bacher,Match Report,,19,D2
+Regular season,16.0,Mon,2018-12-10,20:30,Bochum,1–3,St. Pauli,22916.0,Vonovia Ruhrstadion,Benedikt Kempkes,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,17.0,Fri,2018-12-14,18:30,Holstein Kiel,1–2,Arminia,8904.0,Holstein-Stadion,Pascal Müller,Match Report,,19,D2
+Regular season,17.0,Fri,2018-12-14,18:30,MSV Duisburg,1–2,Hamburger SV,26500.0,Schauinsland-Reisen-Arena,Christian Dietz,Match Report,,19,D2
+Regular season,17.0,Sat,2018-12-15,13:00,Paderborn 07,3–0,Dresden,9335.0,Benteler-Arena,Aarne Aarnink,Match Report,,19,D2
+Regular season,17.0,Sat,2018-12-15,13:00,Union Berlin,2–0,Bochum,20728.0,Stadion An der Alten Försterei,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,17.0,Sat,2018-12-15,13:00,St. Pauli,2–0,Greuther Fürth,29546.0,Millerntor-Stadion,Felix Zwayer,Match Report,,19,D2
+Regular season,17.0,Sun,2018-12-16,13:30,Sandhausen,2–2,Jahn R'burg,4437.0,Hardtwaldstadion,Robert Kampka,Match Report,,19,D2
+Regular season,17.0,Sun,2018-12-16,13:30,Erzgebirge Aue,2–2,Darmstadt 98,7400.0,Sparkassen-Erzgebirgsstadion,Timo Gerach,Match Report,,19,D2
+Regular season,17.0,Sun,2018-12-16,13:30,Ingolstadt 04,1–1,Heidenheim,6965.0,Audi-Sportpark,Lasse Koslowski,Match Report,,19,D2
+Regular season,17.0,Mon,2018-12-17,20:30,Köln,3–0,Magdeburg,49500.0,RheinEnergieSTADION,Tobias Stieler,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,18.0,Fri,2018-12-21,18:30,Sandhausen,0–0,Greuther Fürth,4478.0,Hardtwaldstadion,Frank Willenborg,Match Report,,19,D2
+Regular season,18.0,Fri,2018-12-21,18:30,Köln,2–3,Bochum,50000.0,RheinEnergieSTADION,Benjamin Cortus,Match Report,,19,D2
+Regular season,18.0,Sat,2018-12-22,13:00,Ingolstadt 04,1–2,Jahn R'burg,10038.0,Audi-Sportpark,Robert Kempter,Match Report,,19,D2
+Regular season,18.0,Sat,2018-12-22,13:00,St. Pauli,4–1,Magdeburg,29546.0,Millerntor-Stadion,Daniel Schlager,Match Report,,19,D2
+Regular season,18.0,Sat,2018-12-22,13:00,Arminia,1–2,Heidenheim,15874.0,SchücoArena,Florian Badstübner,Match Report,,19,D2
+Regular season,18.0,Sun,2018-12-23,13:30,MSV Duisburg,1–3,Dresden,14836.0,Schauinsland-Reisen-Arena,Florian Heft,Match Report,,19,D2
+Regular season,18.0,Sun,2018-12-23,13:30,Holstein Kiel,3–1,Hamburger SV,10073.0,Holstein-Stadion,Robert Hartmann,Match Report,,19,D2
+Regular season,18.0,Sun,2018-12-23,13:30,Paderborn 07,6–2,Darmstadt 98,11547.0,Benteler-Arena,Tobias Reichel,Match Report,,19,D2
+Regular season,18.0,Sun,2018-12-23,13:30,Erzgebirge Aue,3–0,Union Berlin,13800.0,Sparkassen-Erzgebirgsstadion,Sven Jablonski,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,19.0,Tue,2019-01-29,18:30,Bochum,2–1,MSV Duisburg,17810.0,Vonovia Ruhrstadion,Daniel Schlager,Match Report,,19,D2
+Regular season,19.0,Tue,2019-01-29,20:30,Magdeburg,1–0,Erzgebirge Aue,18757.0,MDCC-Arena,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,19.0,Tue,2019-01-29,20:30,Greuther Fürth,0–1,Ingolstadt 04,7725.0,Sportpark Ronhof Thomas Sommer,Pascal Müller,Match Report,,19,D2
+Regular season,19.0,Tue,2019-01-29,20:30,Darmstadt 98,2–1,St. Pauli,11800.0,Jonathan-Heimes-Stadion am Böllenfalltor,Manuel Gräfe,Match Report,,19,D2
+Regular season,19.0,Wed,2019-01-30,18:30,Jahn R'burg,2–0,Paderborn 07,7736.0,Continental Arena,Tobias Reichel,Match Report,,19,D2
+Regular season,19.0,Wed,2019-01-30,20:30,Heidenheim,2–2,Holstein Kiel,9000.0,Voith-Arena,Florian Heft,Match Report,,19,D2
+Regular season,19.0,Wed,2019-01-30,20:30,Dresden,3–4,Arminia,24706.0,DDV-Stadion,Robert Kampka,Match Report,,19,D2
+Regular season,19.0,Wed,2019-01-30,20:30,Hamburger SV,2–1,Sandhausen,36564.0,Volksparkstadion,Sören Storks,Match Report,,19,D2
+Regular season,19.0,Thu,2019-01-31,20:30,Union Berlin,2–0,Köln,22012.0,Stadion An der Alten Försterei,Tobias Welz,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,20.0,Fri,2019-02-01,18:30,MSV Duisburg,3–2,Darmstadt 98,11213.0,Schauinsland-Reisen-Arena,Thorben Siewer,Match Report,,19,D2
+Regular season,20.0,Fri,2019-02-01,18:30,Ingolstadt 04,0–1,Magdeburg,8216.0,Audi-Sportpark,Christof Günsch,Match Report,,19,D2
+Regular season,20.0,Sat,2019-02-02,13:00,Paderborn 07,6–0,Greuther Fürth,9220.0,Benteler-Arena,Alexander Sather,Match Report,,19,D2
+Regular season,20.0,Sat,2019-02-02,13:00,Heidenheim,1–0,Dresden,11200.0,Voith-Arena,Martin Thomsen,Match Report,,19,D2
+Regular season,20.0,Sat,2019-02-02,13:00,Arminia,2–0,Hamburger SV,26515.0,SchücoArena,Daniel Siebert,Match Report,,19,D2
+Regular season,20.0,Sun,2019-02-03,13:30,Sandhausen,3–0,Bochum,5524.0,Hardtwaldstadion,Robert Schröder,Match Report,,19,D2
+Regular season,20.0,Sun,2019-02-03,13:30,Holstein Kiel,2–0,Jahn R'burg,8265.0,Holstein-Stadion,Aarne Aarnink,Match Report,,19,D2
+Regular season,20.0,Mon,2019-02-04,20:30,St. Pauli,3–2,Union Berlin,29546.0,Millerntor-Stadion,Guido Winkmann,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,21.0,Fri,2019-02-08,18:30,Köln,4–1,St. Pauli,50000.0,RheinEnergieSTADION,Sören Storks,Match Report,,19,D2
+Regular season,21.0,Fri,2019-02-08,18:30,Jahn R'burg,0–3,Arminia,8693.0,Continental Arena,Johann Pfeifer,Match Report,,19,D2
+Regular season,21.0,Sat,2019-02-09,13:00,Union Berlin,2–0,Sandhausen,19542.0,Stadion An der Alten Försterei,Tobias Stieler,Match Report,,19,D2
+Regular season,21.0,Sat,2019-02-09,13:00,Bochum,1–2,Paderborn 07,16033.0,Vonovia Ruhrstadion,Robert Kempter,Match Report,,19,D2
+Regular season,21.0,Sat,2019-02-09,13:00,Greuther Fürth,1–0,MSV Duisburg,8635.0,Sportpark Ronhof Thomas Sommer,Harm Osmers,Match Report,,19,D2
+Regular season,21.0,Sun,2019-02-10,13:30,Magdeburg,1–1,Holstein Kiel,19704.0,MDCC-Arena,Markus Schmidt,Match Report,,19,D2
+Regular season,21.0,Sun,2019-02-10,13:30,Erzgebirge Aue,0–3,Ingolstadt 04,7000.0,Sparkassen-Erzgebirgsstadion,Patrick Alt,Match Report,,19,D2
+Regular season,21.0,Sun,2019-02-10,13:30,Darmstadt 98,1–2,Heidenheim,10120.0,Jonathan-Heimes-Stadion am Böllenfalltor,Michael Bacher,Match Report,,19,D2
+Regular season,21.0,Mon,2019-02-11,20:30,Hamburger SV,1–0,Dresden,46924.0,Volksparkstadion,Frank Willenborg,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,22.0,Fri,2019-02-15,18:30,Paderborn 07,3–2,Köln,15000.0,Benteler-Arena,Sven Waschitzki,Match Report,,19,D2
+Regular season,22.0,Fri,2019-02-15,18:30,Sandhausen,1–1,Darmstadt 98,7624.0,Hardtwaldstadion,Lasse Koslowski,Match Report,,19,D2
+Regular season,22.0,Sat,2019-02-16,13:00,MSV Duisburg,2–3,Union Berlin,12316.0,Schauinsland-Reisen-Arena,Timo Gerach,Match Report,,19,D2
+Regular season,22.0,Sat,2019-02-16,13:00,Ingolstadt 04,2–1,Bochum,7464.0,Audi-Sportpark,Sven Jablonski,Match Report,,19,D2
+Regular season,22.0,Sat,2019-02-16,13:00,St. Pauli,1–2,Erzgebirge Aue,29546.0,Millerntor-Stadion,Florian Badstübner,Match Report,,19,D2
+Regular season,22.0,Sat,2019-02-16,13:00,Heidenheim,2–2,Hamburger SV,15000.0,Voith-Arena,Guido Winkmann,Match Report,,19,D2
+Regular season,22.0,Sun,2019-02-17,13:30,Arminia,1–3,Magdeburg,19568.0,SchücoArena,Sascha Stegemann,Match Report,,19,D2
+Regular season,22.0,Sun,2019-02-17,13:30,Holstein Kiel,2–2,Greuther Fürth,8669.0,Holstein-Stadion,Daniel Schlager,Match Report,,19,D2
+Regular season,22.0,Sun,2019-02-17,13:30,Dresden,0–0,Jahn R'burg,25303.0,DDV-Stadion,Benedikt Kempkes,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,23.0,Fri,2019-02-22,18:30,Greuther Fürth,0–0,Heidenheim,7870.0,Sportpark Ronhof Thomas Sommer,Robert Schröder,Match Report,,19,D2
+Regular season,23.0,Fri,2019-02-22,18:30,Union Berlin,1–1,Arminia,21286.0,Stadion An der Alten Försterei,Christian Dietz,Match Report,,19,D2
+Regular season,23.0,Sat,2019-02-23,13:00,Köln,3–1,Sandhausen,49600.0,RheinEnergieSTADION,Manuel Gräfe,Match Report,,19,D2
+Regular season,23.0,Sat,2019-02-23,13:00,Bochum,1–3,Holstein Kiel,13398.0,Vonovia Ruhrstadion,Christof Günsch,Match Report,,19,D2
+Regular season,23.0,Sat,2019-02-23,13:00,Darmstadt 98,2–0,Dresden,11330.0,Jonathan-Heimes-Stadion am Böllenfalltor,Patrick Alt,Match Report,,19,D2
+Regular season,23.0,Sat,2019-02-23,13:00,St. Pauli,1–0,Ingolstadt 04,29546.0,Millerntor-Stadion,René Rohde,Match Report,,19,D2
+Regular season,23.0,Sun,2019-02-24,13:30,Jahn R'burg,2–1,Hamburger SV,15211.0,Continental Arena,Felix Zwayer,Match Report,,19,D2
+Regular season,23.0,Sun,2019-02-24,13:30,Erzgebirge Aue,0–0,MSV Duisburg,8100.0,Sparkassen-Erzgebirgsstadion,Deniz Aytekin,Match Report,,19,D2
+Regular season,23.0,Sun,2019-02-24,13:30,Magdeburg,1–1,Paderborn 07,20201.0,MDCC-Arena,Alexander Sather,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,20.0,Wed,2019-02-27,19:30,Erzgebirge Aue,0–1,Köln,13089.0,Sparkassen-Erzgebirgsstadion,Martin Petersen,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,24.0,Fri,2019-03-01,18:30,Holstein Kiel,0–2,Union Berlin,9866.0,Holstein-Stadion,Benjamin Cortus,Match Report,,19,D2
+Regular season,24.0,Fri,2019-03-01,18:30,MSV Duisburg,1–0,Magdeburg,13416.0,Schauinsland-Reisen-Arena,Patrick Alt,Match Report,,19,D2
+Regular season,24.0,Sat,2019-03-02,13:00,Heidenheim,1–2,Jahn R'burg,10100.0,Voith-Arena,Thorben Siewer,Match Report,,19,D2
+Regular season,24.0,Sat,2019-03-02,13:00,Sandhausen,0–3,Erzgebirge Aue,4867.0,Hardtwaldstadion,Johann Pfeifer,Match Report,,19,D2
+Regular season,24.0,Sat,2019-03-02,13:00,Paderborn 07,0–1,St. Pauli,14504.0,Benteler-Arena,Bibiana Steinhaus,Match Report,,19,D2
+Regular season,24.0,Sun,2019-03-03,13:30,Ingolstadt 04,1–2,Köln,11042.0,Audi-Sportpark,Florian Heft,Match Report,,19,D2
+Regular season,24.0,Sun,2019-03-03,13:30,Arminia,1–0,Darmstadt 98,15011.0,SchücoArena,Martin Petersen,Match Report,,19,D2
+Regular season,24.0,Sun,2019-03-03,13:30,Dresden,2–2,Bochum,28153.0,DDV-Stadion,Michael Bacher,Match Report,,19,D2
+Regular season,24.0,Mon,2019-03-04,20:30,Hamburger SV,1–0,Greuther Fürth,36560.0,Volksparkstadion,Christian Dingert,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,25.0,Fri,2019-03-08,18:30,Union Berlin,2–0,Ingolstadt 04,21419.0,Stadion An der Alten Försterei,Robert Kampka,Match Report,,19,D2
+Regular season,25.0,Fri,2019-03-08,18:30,Bochum,1–0,Heidenheim,13157.0,Vonovia Ruhrstadion,René Rohde,Match Report,,19,D2
+Regular season,25.0,Sat,2019-03-09,13:00,Jahn R'burg,1–1,MSV Duisburg,10141.0,Continental Arena,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,25.0,Sat,2019-03-09,13:00,Köln,5–1,Arminia,50000.0,RheinEnergieSTADION,Marco Fritz,Match Report,,19,D2
+Regular season,25.0,Sat,2019-03-09,13:00,Darmstadt 98,3–2,Holstein Kiel,10210.0,Jonathan-Heimes-Stadion am Böllenfalltor,Benedikt Kempkes,Match Report,,19,D2
+Regular season,25.0,Sat,2019-03-09,13:00,Erzgebirge Aue,2–1,Paderborn 07,7350.0,Sparkassen-Erzgebirgsstadion,Lasse Koslowski,Match Report,,19,D2
+Regular season,25.0,Sun,2019-03-10,13:30,Magdeburg,0–1,Sandhausen,19615.0,MDCC-Arena,Frank Willenborg,Match Report,,19,D2
+Regular season,25.0,Sun,2019-03-10,13:30,St. Pauli,0–4,Hamburger SV,29226.0,Millerntor-Stadion,Felix Brych,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,26.0,Fri,2019-03-15,18:30,Heidenheim,2–1,Union Berlin,11150.0,Voith-Arena,Sascha Stegemann,Match Report,,19,D2
+Regular season,26.0,Fri,2019-03-15,18:30,Holstein Kiel,5–1,Erzgebirge Aue,8666.0,Holstein-Stadion,Tobias Reichel,Match Report,,19,D2
+Regular season,26.0,Sat,2019-03-16,13:00,Sandhausen,4–0,St. Pauli,10657.0,Hardtwaldstadion,Sven Waschitzki,Match Report,,19,D2
+Regular season,26.0,Sat,2019-03-16,13:00,Dresden,1–1,Magdeburg,30500.0,DDV-Stadion,Daniel Siebert,Match Report,,19,D2
+Regular season,26.0,Sat,2019-03-16,13:00,Hamburger SV,2–3,Darmstadt 98,54668.0,Volksparkstadion,Florian Badstübner,Match Report,,19,D2
+Regular season,26.0,Sun,2019-03-17,13:30,Paderborn 07,3–1,Ingolstadt 04,10666.0,Benteler-Arena,Harm Osmers,Match Report,,19,D2
+Regular season,26.0,Sun,2019-03-17,13:30,Arminia,3–1,Bochum,18192.0,SchücoArena,Pascal Müller,Match Report,,19,D2
+Regular season,26.0,Mon,2019-03-18,20:30,Jahn R'burg,0–2,Greuther Fürth,11330.0,Continental Arena,Tobias Stieler,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,27.0,Fri,2019-03-29,18:30,St. Pauli,0–0,MSV Duisburg,29546.0,Millerntor-Stadion,Bastian Dankert,Match Report,,19,D2
+Regular season,27.0,Fri,2019-03-29,18:30,Magdeburg,0–0,Heidenheim,17517.0,MDCC-Arena,Benedikt Kempkes,Match Report,,19,D2
+Regular season,27.0,Sat,2019-03-30,13:00,Union Berlin,1–3,Paderborn 07,20789.0,Stadion An der Alten Försterei,Michael Bacher,Match Report,,19,D2
+Regular season,27.0,Sat,2019-03-30,13:00,Darmstadt 98,1–1,Jahn R'burg,10385.0,Jonathan-Heimes-Stadion am Böllenfalltor,Martin Thomsen,Match Report,,19,D2
+Regular season,27.0,Sat,2019-03-30,13:00,Bochum,0–0,Hamburger SV,26600.0,Vonovia Ruhrstadion,Lasse Koslowski,Match Report,,19,D2
+Regular season,27.0,Sun,2019-03-31,13:30,Köln,4–0,Holstein Kiel,50000.0,RheinEnergieSTADION,Deniz Aytekin,Match Report,,19,D2
+Regular season,27.0,Sun,2019-03-31,13:30,Greuther Fürth,2–2,Arminia,9440.0,Sportpark Ronhof Thomas Sommer,Alexander Sather,Match Report,,19,D2
+Regular season,27.0,Sun,2019-03-31,13:30,Ingolstadt 04,1–2,Sandhausen,9317.0,Audi-Sportpark,Manuel Gräfe,Match Report,,19,D2
+Regular season,27.0,Mon,2019-04-01,20:30,Erzgebirge Aue,1–3,Dresden,14550.0,Sparkassen-Erzgebirgsstadion,Robert Hartmann,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,25.0,Thu,2019-04-04,19:00,Greuther Fürth,0–0,Dresden,12590.0,Sportpark Ronhof Thomas Sommer,Aarne Aarnink,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,28.0,Fri,2019-04-05,18:30,Jahn R'burg,2–1,Bochum,12363.0,Continental Arena,Christof Günsch,Match Report,,19,D2
+Regular season,28.0,Fri,2019-04-05,18:30,Arminia,2–1,Erzgebirge Aue,18400.0,SchücoArena,Robert Kampka,Match Report,,19,D2
+Regular season,28.0,Sat,2019-04-06,13:00,Sandhausen,1–1,Paderborn 07,5442.0,Hardtwaldstadion,Patrick Alt,Match Report,,19,D2
+Regular season,28.0,Sat,2019-04-06,13:00,MSV Duisburg,2–4,Ingolstadt 04,14127.0,Schauinsland-Reisen-Arena,Robert Kempter,Match Report,,19,D2
+Regular season,28.0,Sat,2019-04-06,13:00,Holstein Kiel,2–1,St. Pauli,13274.0,Holstein-Stadion,Felix Zwayer,Match Report,,19,D2
+Regular season,28.0,Sun,2019-04-07,13:30,Greuther Fürth,2–1,Darmstadt 98,9730.0,Sportpark Ronhof Thomas Sommer,René Rohde,Match Report,,19,D2
+Regular season,28.0,Sun,2019-04-07,13:30,Heidenheim,0–2,Köln,15000.0,Voith-Arena,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,28.0,Sun,2019-04-07,13:30,Dresden,0–0,Union Berlin,30700.0,DDV-Stadion,Bibiana Steinhaus,Match Report,,19,D2
+Regular season,28.0,Mon,2019-04-08,20:30,Hamburger SV,1–2,Magdeburg,49820.0,Volksparkstadion,Bastian Dankert,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,26.0,Wed,2019-04-10,18:30,MSV Duisburg,4–4,Köln,25675.0,Schauinsland-Reisen-Arena,Daniel Schlager,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,29.0,Fri,2019-04-12,18:30,Union Berlin,2–2,Jahn R'burg,20243.0,Stadion An der Alten Försterei,Harm Osmers,Match Report,,19,D2
+Regular season,29.0,Fri,2019-04-12,18:30,Erzgebirge Aue,0–1,Heidenheim,7100.0,Sparkassen-Erzgebirgsstadion,Aarne Aarnink,Match Report,,19,D2
+Regular season,29.0,Sat,2019-04-13,13:00,Magdeburg,0–1,Darmstadt 98,17413.0,MDCC-Arena,Christian Dietz,Match Report,,19,D2
+Regular season,29.0,Sat,2019-04-13,13:00,Paderborn 07,4–0,MSV Duisburg,11111.0,Benteler-Arena,Florian Badstübner,Match Report,,19,D2
+Regular season,29.0,Sat,2019-04-13,13:00,Sandhausen,3–1,Dresden,6541.0,Hardtwaldstadion,Florian Heft,Match Report,,19,D2
+Regular season,29.0,Sun,2019-04-14,13:30,St. Pauli,1–1,Arminia,29546.0,Millerntor-Stadion,Sascha Stegemann,Match Report,,19,D2
+Regular season,29.0,Sun,2019-04-14,13:30,Ingolstadt 04,1–1,Holstein Kiel,8377.0,Audi-Sportpark,Sören Storks,Match Report,,19,D2
+Regular season,29.0,Sun,2019-04-14,13:30,Bochum,3–2,Greuther Fürth,17344.0,Vonovia Ruhrstadion,Johann Pfeifer,Match Report,,19,D2
+Regular season,29.0,Mon,2019-04-15,20:30,Köln,1–1,Hamburger SV,50000.0,RheinEnergieSTADION,Robert Hartmann,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,30.0,Sat,2019-04-20,13:00,Holstein Kiel,1–2,Paderborn 07,13129.0,Holstein-Stadion,Bastian Dankert,Match Report,,19,D2
+Regular season,30.0,Sat,2019-04-20,13:00,Greuther Fürth,1–1,Union Berlin,9650.0,Sportpark Ronhof Thomas Sommer,Martin Thomsen,Match Report,,19,D2
+Regular season,30.0,Sat,2019-04-20,13:00,Hamburger SV,1–1,Erzgebirge Aue,52354.0,Volksparkstadion,Matthias Jöllenbeck,Match Report,,19,D2
+Regular season,30.0,Sat,2019-04-20,13:00,MSV Duisburg,2–2,Sandhausen,13295.0,Schauinsland-Reisen-Arena,Timo Gerach,Match Report,,19,D2
+Regular season,30.0,Sun,2019-04-21,13:30,Heidenheim,3–0,St. Pauli,13700.0,Voith-Arena,Benjamin Cortus,Match Report,,19,D2
+Regular season,30.0,Sun,2019-04-21,13:30,Dresden,3–0,Köln,30753.0,DDV-Stadion,Robert Schröder,Match Report,,19,D2
+Regular season,30.0,Sun,2019-04-21,13:30,Darmstadt 98,0–0,Bochum,10590.0,Jonathan-Heimes-Stadion am Böllenfalltor,Sven Waschitzki,Match Report,,19,D2
+Regular season,30.0,Sun,2019-04-21,13:30,Arminia,1–3,Ingolstadt 04,15880.0,SchücoArena,Tobias Reichel,Match Report,,19,D2
+Regular season,30.0,Sun,2019-04-21,13:30,Jahn R'burg,1–0,Magdeburg,10543.0,Continental Arena,Thorben Siewer,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,31.0,Fri,2019-04-26,18:30,Ingolstadt 04,1–0,Dresden,11208.0,Audi-Sportpark,Daniel Schlager,Match Report,,19,D2
+Regular season,31.0,Fri,2019-04-26,18:30,Köln,1–2,Darmstadt 98,50000.0,RheinEnergieSTADION,Marco Fritz,Match Report,,19,D2
+Regular season,31.0,Sat,2019-04-27,13:00,Sandhausen,3–2,Holstein Kiel,5298.0,Hardtwaldstadion,Florian Badstübner,Match Report,,19,D2
+Regular season,31.0,Sat,2019-04-27,13:00,Magdeburg,2–1,Greuther Fürth,18243.0,MDCC-Arena,Lasse Koslowski,Match Report,,19,D2
+Regular season,31.0,Sat,2019-04-27,13:00,St. Pauli,4–3,Jahn R'burg,29546.0,Millerntor-Stadion,Patrick Alt,Match Report,,19,D2
+Regular season,31.0,Sun,2019-04-28,13:30,Paderborn 07,3–1,Heidenheim,12588.0,Benteler-Arena,Alexander Sather,Match Report,,19,D2
+Regular season,31.0,Sun,2019-04-28,13:30,Union Berlin,2–0,Hamburger SV,22012.0,Stadion An der Alten Försterei,Sascha Stegemann,Match Report,,19,D2
+Regular season,31.0,Sun,2019-04-28,13:30,Erzgebirge Aue,3–2,Bochum,10150.0,Sparkassen-Erzgebirgsstadion,Benedikt Kempkes,Match Report,,19,D2
+Regular season,31.0,Mon,2019-04-29,20:30,MSV Duisburg,2–2,Arminia,13340.0,Schauinsland-Reisen-Arena,Michael Bacher,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,32.0,Fri,2019-05-03,18:30,Arminia,2–0,Paderborn 07,26300.0,SchücoArena,Felix Brych,Match Report,,19,D2
+Regular season,32.0,Fri,2019-05-03,18:30,Dresden,2–1,St. Pauli,30803.0,DDV-Stadion,Robert Kempter,Match Report,,19,D2
+Regular season,32.0,Sat,2019-05-04,13:00,Heidenheim,2–3,Sandhausen,10400.0,Voith-Arena,Martin Thomsen,Match Report,,19,D2
+Regular season,32.0,Sat,2019-05-04,13:00,Bochum,4–2,Magdeburg,17339.0,Vonovia Ruhrstadion,Timo Gerach,Match Report,,19,D2
+Regular season,32.0,Sat,2019-05-04,13:00,Hamburger SV,0–3,Ingolstadt 04,50768.0,Volksparkstadion,Markus Schmidt,Match Report,,19,D2
+Regular season,32.0,Sun,2019-05-05,13:30,Holstein Kiel,0–2,MSV Duisburg,12122.0,Holstein-Stadion,Christian Dietz,Match Report,,19,D2
+Regular season,32.0,Sun,2019-05-05,13:30,Jahn R'burg,1–3,Erzgebirge Aue,13425.0,Continental Arena,Pascal Müller,Match Report,,19,D2
+Regular season,32.0,Sun,2019-05-05,13:30,Darmstadt 98,2–1,Union Berlin,11510.0,Jonathan-Heimes-Stadion am Böllenfalltor,Bastian Dankert,Match Report,,19,D2
+Regular season,32.0,Mon,2019-05-06,20:30,Greuther Fürth,0–4,Köln,12520.0,Sportpark Ronhof Thomas Sommer,Guido Winkmann,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Köln,3–5,Jahn R'burg,50000.0,RheinEnergieSTADION,Robert Kampka,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,MSV Duisburg,3–4,Heidenheim,14392.0,Schauinsland-Reisen-Arena,Thorben Siewer,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Holstein Kiel,3–0,Dresden,12712.0,Holstein-Stadion,Michael Bacher,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,St. Pauli,0–0,Bochum,29546.0,Millerntor-Stadion,Daniel Siebert,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Erzgebirge Aue,1–1,Greuther Fürth,13600.0,Sparkassen-Erzgebirgsstadion,Florian Heft,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Paderborn 07,4–1,Hamburger SV,15000.0,Benteler-Arena,Benjamin Cortus,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Ingolstadt 04,3–0,Darmstadt 98,10190.0,Audi-Sportpark,Martin Petersen,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Sandhausen,0–3,Arminia,7453.0,Hardtwaldstadion,Aarne Aarnink,Match Report,,19,D2
+Regular season,33.0,Sun,2019-05-12,15:30,Union Berlin,3–0,Magdeburg,22012.0,Stadion An der Alten Försterei,Robert Schröder,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Dresden,3–1,Paderborn 07,30575.0,DDV-Stadion,Sven Jablonski,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Jahn R'burg,2–2,Sandhausen,12909.0,Continental Arena,Martin Petersen,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Magdeburg,1–1,Köln,18902.0,MDCC-Arena,Sven Waschitzki,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Arminia,1–0,Holstein Kiel,22867.0,SchücoArena,Martin Thomsen,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Heidenheim,4–2,Ingolstadt 04,14250.0,Voith-Arena,Sören Storks,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Greuther Fürth,2–1,St. Pauli,18890.0,Sportpark Ronhof Thomas Sommer,Robert Kampka,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Darmstadt 98,1–0,Erzgebirge Aue,10570.0,Jonathan-Heimes-Stadion am Böllenfalltor,Christian Dietz,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Hamburger SV,3–0,MSV Duisburg,51147.0,Volksparkstadion,René Rohde,Match Report,,19,D2
+Regular season,34.0,Sun,2019-05-19,15:30,Bochum,2–2,Union Berlin,24500.0,Vonovia Ruhrstadion,Harm Osmers,Match Report,,19,D2
+,,,,,,,,,,,,,19,D2
+German 1/2 Relegation/Promotion Playoffs,,Thu,2019-05-23,20:30,Stuttgart,2–2,Union Berlin,58619.0,Mercedes-Benz Arena,,Match Report,Leg 1 of 2,19,D2
+German 2/3 Relegation/Promotion Playoffs,,Fri,2019-05-24,18:15,Wehen,1–2,Ingolstadt 04,7698.0,Stadion am Halberg,,Match Report,Leg 1 of 2,19,D2
+German 1/2 Relegation/Promotion Playoffs,,Mon,2019-05-27,20:30,Union Berlin,0–0,Stuttgart,22012.0,Stadion An der Alten Försterei,,Match Report,Leg 2 of 2; Union Berlin won,19,D2
+German 2/3 Relegation/Promotion Playoffs,,Tue,2019-05-28,18:15,Ingolstadt 04,2–3,Wehen,12420.0,Audi-Sportpark,,Match Report,Leg 2 of 2; Wehen won,19,D2

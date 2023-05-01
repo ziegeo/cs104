@@ -1,0 +1,348 @@
+Round,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+Regular season,1.0,Fri,2021-07-23,20:30,Schalke 04,1–3,Hamburger SV,19770.0,Veltins-Arena,Timo Gerach,Match Report,,22,D2
+Regular season,1.0,Sat,2021-07-24,13:30,Heidenheim,0–0,Paderborn 07,3954.0,Voith-Arena,Michael Bacher,Match Report,,22,D2
+Regular season,1.0,Sat,2021-07-24,13:30,Darmstadt 98,0–2,Jahn R'burg,4500.0,Merck-Stadion am Böllenfalltor,Nicolas Winter,Match Report,,22,D2
+Regular season,1.0,Sat,2021-07-24,13:30,Hansa Rostock,1–3,Karlsruher,14500.0,Ostseestadion,Christof Günsch,Match Report,,22,D2
+Regular season,1.0,Sat,2021-07-24,13:30,Dresden,3–0,Ingolstadt 04,7102.0,DDV-Stadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,1.0,Sat,2021-07-24,20:30,Werder Bremen,1–1,Hannover 96,14000.0,Wohninvest-Weserstadion,Robert Kampka,Match Report,,22,D2
+Regular season,1.0,Sun,2021-07-25,13:30,Nürnberg,0–0,Erzgebirge Aue,11089.0,Max-Morlock-Stadion,Sven Waschitzki,Match Report,,22,D2
+Regular season,1.0,Sun,2021-07-25,13:30,St. Pauli,3–0,Holstein Kiel,8900.0,Millerntor-Stadion,Aarne Aarnink,Match Report,,22,D2
+Regular season,1.0,Sun,2021-07-25,13:30,Sandhausen,0–2,Düsseldorf,3454.0,BWT-Stadion Am Hardtwald,Thorben Siewer,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,2.0,Fri,2021-07-30,18:30,Paderborn 07,2–2,Nürnberg,5000.0,Benteler-Arena,Sven Jablonski,Match Report,,22,D2
+Regular season,2.0,Fri,2021-07-30,18:30,Karlsruher,3–0,Darmstadt 98,9750.0,BBBank Wildpark,Martin Thomsen,Match Report,,22,D2
+Regular season,2.0,Sat,2021-07-31,13:30,Ingolstadt 04,1–2,Heidenheim,3360.0,Audi-Sportpark,Robert Hartmann,Match Report,,22,D2
+Regular season,2.0,Sat,2021-07-31,13:30,Jahn R'burg,3–0,Sandhausen,5018.0,Jahnstadion,Patrick Alt,Match Report,,22,D2
+Regular season,2.0,Sat,2021-07-31,13:30,Hannover 96,0–3,Hansa Rostock,13600.0,HDI-Arena,Alexander Sather,Match Report,,22,D2
+Regular season,2.0,Sat,2021-07-31,20:30,Düsseldorf,2–3,Werder Bremen,12850.0,Merkur Spielarena,Daniel Schlager,Match Report,,22,D2
+Regular season,2.0,Sun,2021-08-01,13:30,Erzgebirge Aue,0–0,St. Pauli,6828.0,Sparkassen-Erzgebirgsstadion,Florian Heft,Match Report,,22,D2
+Regular season,2.0,Sun,2021-08-01,13:30,Holstein Kiel,0–3,Schalke 04,4100.0,Holstein-Stadion,Patrick Ittrich,Match Report,,22,D2
+Regular season,2.0,Sun,2021-08-01,13:30,Hamburger SV,1–1,Dresden,17100.0,Volksparkstadion,Martin Petersen,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,3.0,Fri,2021-08-13,18:30,St. Pauli,3–2,Hamburger SV,10003.0,Millerntor-Stadion,Harm Osmers,Match Report,,22,D2
+Regular season,3.0,Fri,2021-08-13,18:30,Schalke 04,1–1,Erzgebirge Aue,20126.0,Veltins-Arena,Robert Kampka,Match Report,,22,D2
+Regular season,3.0,Sat,2021-08-14,13:30,Sandhausen,0–0,Karlsruher,4908.0,BWT-Stadion Am Hardtwald,Aarne Aarnink,Match Report,,22,D2
+Regular season,3.0,Sat,2021-08-14,13:30,Nürnberg,2–0,Düsseldorf,12361.0,Max-Morlock-Stadion,Robert Schröder,Match Report,,22,D2
+Regular season,3.0,Sat,2021-08-14,13:30,Holstein Kiel,0–3,Jahn R'burg,3700.0,Holstein-Stadion,Florian Lechner,Match Report,,22,D2
+Regular season,3.0,Sat,2021-08-14,20:30,Dresden,2–0,Hannover 96,13780.0,DDV-Stadion,Sven Waschitzki,Match Report,,22,D2
+Regular season,3.0,Sun,2021-08-15,13:30,Darmstadt 98,6–1,Ingolstadt 04,4506.0,Merck-Stadion am Böllenfalltor,Michael Bacher,Match Report,,22,D2
+Regular season,3.0,Sun,2021-08-15,13:30,Werder Bremen,1–4,Paderborn 07,21000.0,Wohninvest-Weserstadion,Martin Petersen,Match Report,,22,D2
+Regular season,3.0,Sun,2021-08-15,13:30,Heidenheim,1–1,Hansa Rostock,5400.0,Voith-Arena,Florian Badstübner,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,4.0,Fri,2021-08-20,18:30,Hannover 96,1–0,Heidenheim,8600.0,HDI-Arena,Robin Braun,Match Report,,22,D2
+Regular season,4.0,Fri,2021-08-20,18:30,Düsseldorf,2–2,Holstein Kiel,16349.0,Merkur Spielarena,Florian Heft,Match Report,,22,D2
+Regular season,4.0,Sat,2021-08-21,13:30,Jahn R'burg,4–1,Schalke 04,5324.0,Jahnstadion,Marco Fritz,Match Report,,22,D2
+Regular season,4.0,Sat,2021-08-21,13:30,Karlsruher,0–0,Werder Bremen,10000.0,BBBank Wildpark,Bastian Dankert,Match Report,,22,D2
+Regular season,4.0,Sat,2021-08-21,13:30,Paderborn 07,3–1,St. Pauli,6000.0,Benteler-Arena,Benjamin Brand,Match Report,,22,D2
+Regular season,4.0,Sat,2021-08-21,20:30,Hansa Rostock,1–3,Dresden,14500.0,Ostseestadion,Benjamin Cortus,Match Report,,22,D2
+Regular season,4.0,Sun,2021-08-22,13:30,Ingolstadt 04,0–0,Nürnberg,3533.0,Audi-Sportpark,Felix Brych,Match Report,,22,D2
+Regular season,4.0,Sun,2021-08-22,13:30,Erzgebirge Aue,1–3,Sandhausen,6640.0,Sparkassen-Erzgebirgsstadion,Timo Gerach,Match Report,,22,D2
+Regular season,4.0,Sun,2021-08-22,13:30,Hamburger SV,2–2,Darmstadt 98,17950.0,Volksparkstadion,Sven Jablonski,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,5.0,Fri,2021-08-27,18:30,Sandhausen,0–2,Ingolstadt 04,3153.0,BWT-Stadion Am Hardtwald,Franz Bokop,Match Report,,22,D2
+Regular season,5.0,Fri,2021-08-27,18:30,Nürnberg,2–1,Karlsruher,12000.0,Max-Morlock-Stadion,Patrick Alt,Match Report,,22,D2
+Regular season,5.0,Sat,2021-08-28,13:30,Holstein Kiel,3–0,Erzgebirge Aue,3848.0,Holstein-Stadion,Nicolas Winter,Match Report,,22,D2
+Regular season,5.0,Sat,2021-08-28,13:30,Heidenheim,0–0,Hamburger SV,7500.0,Voith-Arena,Alexander Sather,Match Report,,22,D2
+Regular season,5.0,Sat,2021-08-28,13:30,Darmstadt 98,4–0,Hannover 96,6050.0,Merck-Stadion am Böllenfalltor,Max Burda,Match Report,,22,D2
+Regular season,5.0,Sat,2021-08-28,20:30,Schalke 04,3–1,Düsseldorf,25000.0,Veltins-Arena,Robert Hartmann,Match Report,,22,D2
+Regular season,5.0,Sun,2021-08-29,13:30,Dresden,0–3,Paderborn 07,16000.0,DDV-Stadion,Deniz Aytekin,Match Report,,22,D2
+Regular season,5.0,Sun,2021-08-29,13:30,St. Pauli,2–0,Jahn R'burg,10003.0,Millerntor-Stadion,Sven Waschitzki,Match Report,,22,D2
+Regular season,5.0,Sun,2021-08-29,13:30,Werder Bremen,3–0,Hansa Rostock,21050.0,Wohninvest-Weserstadion,Daniel Siebert,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,6.0,Sat,2021-09-11,13:30,Karlsruher,2–2,Holstein Kiel,10000.0,BBBank Wildpark,Michael Bacher,Match Report,,22,D2
+Regular season,6.0,Sat,2021-09-11,13:30,Hannover 96,1–0,St. Pauli,16100.0,HDI-Arena,Florian Lechner,Match Report,,22,D2
+Regular season,6.0,Sat,2021-09-11,13:30,Ingolstadt 04,0–3,Werder Bremen,5825.0,Audi-Sportpark,Tobias Welz,Match Report,,22,D2
+Regular season,6.0,Sat,2021-09-11,20:30,Hamburger SV,2–1,Sandhausen,19950.0,Volksparkstadion,Bastian Dankert,Match Report,,22,D2
+Regular season,6.0,Sun,2021-09-12,13:30,Paderborn 07,0–1,Schalke 04,8500.0,Benteler-Arena,Florian Badstübner,Match Report,,22,D2
+Regular season,6.0,Sun,2021-09-12,13:30,Jahn R'burg,2–2,Nürnberg,10105.0,Jahnstadion,Daniel Schlager,Match Report,,22,D2
+Regular season,6.0,Sun,2021-09-12,13:30,Erzgebirge Aue,0–1,Düsseldorf,6064.0,Sparkassen-Erzgebirgsstadion,Aarne Aarnink,Match Report,,22,D2
+Regular season,6.0,Sun,2021-09-12,13:30,Heidenheim,2–1,Dresden,6342.0,Voith-Arena,Martin Thomsen,Match Report,,22,D2
+Regular season,6.0,Sun,2021-09-12,13:30,Hansa Rostock,2–1,Darmstadt 98,14500.0,Ostseestadion,Robert Kampka,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,7.0,Fri,2021-09-17,18:30,Schalke 04,1–2,Karlsruher,25000.0,Veltins-Arena,Christof Günsch,Match Report,,22,D2
+Regular season,7.0,Fri,2021-09-17,18:30,Nürnberg,1–0,Hansa Rostock,25000.0,Max-Morlock-Stadion,Robin Braun,Match Report,,22,D2
+Regular season,7.0,Sat,2021-09-18,13:30,Sandhausen,1–3,Heidenheim,3081.0,BWT-Stadion Am Hardtwald,Marco Fritz,Match Report,,22,D2
+Regular season,7.0,Sat,2021-09-18,13:30,Düsseldorf,1–1,Jahn R'burg,19256.0,Merkur Spielarena,Harm Osmers,Match Report,,22,D2
+Regular season,7.0,Sat,2021-09-18,13:30,Holstein Kiel,0–3,Hannover 96,8165.0,Holstein-Stadion,Timo Gerach,Match Report,,22,D2
+Regular season,7.0,Sat,2021-09-18,20:30,Werder Bremen,0–2,Hamburger SV,21000.0,Wohninvest-Weserstadion,Sascha Stegemann,Match Report,,22,D2
+Regular season,7.0,Sun,2021-09-19,13:30,St. Pauli,4–1,Ingolstadt 04,13917.0,Millerntor-Stadion,Frank Willenborg,Match Report,,22,D2
+Regular season,7.0,Sun,2021-09-19,13:30,Erzgebirge Aue,1–4,Paderborn 07,5150.0,Sparkassen-Erzgebirgsstadion,Deniz Aytekin,Match Report,,22,D2
+Regular season,7.0,Sun,2021-09-19,13:30,Darmstadt 98,1–0,Dresden,7020.0,Merck-Stadion am Böllenfalltor,Christian Dingert,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,8.0,Fri,2021-09-24,18:30,Heidenheim,2–1,Darmstadt 98,5095.0,Voith-Arena,Florian Heft,Match Report,,22,D2
+Regular season,8.0,Fri,2021-09-24,18:30,Jahn R'burg,3–2,Erzgebirge Aue,8127.0,Jahnstadion,Felix Brych,Match Report,,22,D2
+Regular season,8.0,Sat,2021-09-25,13:30,Karlsruher,1–3,St. Pauli,12500.0,BBBank Wildpark,Nicolas Winter,Match Report,,22,D2
+Regular season,8.0,Sat,2021-09-25,13:30,Ingolstadt 04,1–2,Düsseldorf,4579.0,Audi-Sportpark,Thorben Siewer,Match Report,,22,D2
+Regular season,8.0,Sat,2021-09-25,13:30,Paderborn 07,1–2,Holstein Kiel,6656.0,Benteler-Arena,Franz Bokop,Match Report,,22,D2
+Regular season,8.0,Sat,2021-09-25,20:30,Hansa Rostock,0–2,Schalke 04,15000.0,Ostseestadion,Aarne Aarnink,Match Report,,22,D2
+Regular season,8.0,Sun,2021-09-26,13:30,Hamburger SV,2–2,Nürnberg,21337.0,Volksparkstadion,Felix Zwayer,Match Report,,22,D2
+Regular season,8.0,Sun,2021-09-26,13:30,Dresden,3–0,Werder Bremen,16000.0,DDV-Stadion,Robert Hartmann,Match Report,,22,D2
+Regular season,8.0,Sun,2021-09-26,13:30,Hannover 96,1–2,Sandhausen,10900.0,HDI-Arena,Patrick Alt,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,9.0,Fri,2021-10-01,18:30,Erzgebirge Aue,1–1,Hamburger SV,7750.0,Sparkassen-Erzgebirgsstadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,9.0,Fri,2021-10-01,18:30,Werder Bremen,3–0,Heidenheim,30000.0,Wohninvest-Weserstadion,Martin Petersen,Match Report,,22,D2
+Regular season,9.0,Sat,2021-10-02,13:30,Holstein Kiel,0–2,Hansa Rostock,9240.0,Holstein-Stadion,Sven Waschitzki,Match Report,,22,D2
+Regular season,9.0,Sat,2021-10-02,13:30,Düsseldorf,2–3,Paderborn 07,19727.0,Merkur Spielarena,Sven Jablonski,Match Report,,22,D2
+Regular season,9.0,Sat,2021-10-02,13:30,Jahn R'burg,2–2,Karlsruher,8790.0,Jahnstadion,Deniz Aytekin,Match Report,,22,D2
+Regular season,9.0,Sat,2021-10-02,20:30,Nürnberg,0–0,Hannover 96,24211.0,Max-Morlock-Stadion,Tobias Reichel,Match Report,,22,D2
+Regular season,9.0,Sun,2021-10-03,13:30,St. Pauli,3–0,Dresden,14773.0,Millerntor-Stadion,Bastian Dankert,Match Report,,22,D2
+Regular season,9.0,Sun,2021-10-03,13:30,Sandhausen,1–6,Darmstadt 98,4457.0,BWT-Stadion Am Hardtwald,Michael Bacher,Match Report,,22,D2
+Regular season,9.0,Sun,2021-10-03,13:30,Schalke 04,3–0,Ingolstadt 04,26546.0,Veltins-Arena,Alexander Sather,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,10.0,Fri,2021-10-15,18:30,Paderborn 07,1–1,Jahn R'burg,7913.0,Benteler-Arena,Robert Kampka,Match Report,,22,D2
+Regular season,10.0,Fri,2021-10-15,18:30,Hannover 96,0–1,Schalke 04,39500.0,HDI-Arena,Benjamin Cortus,Match Report,,22,D2
+Regular season,10.0,Sat,2021-10-16,13:30,Ingolstadt 04,1–1,Holstein Kiel,9402.0,Audi-Sportpark,Robin Braun,Match Report,,22,D2
+Regular season,10.0,Sat,2021-10-16,13:30,Karlsruher,2–1,Erzgebirge Aue,12000.0,BBBank Wildpark,Florian Badstübner,Match Report,,22,D2
+Regular season,10.0,Sat,2021-10-16,13:30,Heidenheim,2–4,St. Pauli,8013.0,Voith-Arena,Benjamin Brand,Match Report,,22,D2
+Regular season,10.0,Sat,2021-10-16,20:30,Hamburger SV,1–1,Düsseldorf,38654.0,Volksparkstadion,Christian Dingert,Match Report,,22,D2
+Regular season,10.0,Sun,2021-10-17,13:30,Hansa Rostock,1–1,Sandhausen,21200.0,Ostseestadion,Christof Günsch,Match Report,,22,D2
+Regular season,10.0,Sun,2021-10-17,13:30,Dresden,0–1,Nürnberg,16000.0,DDV-Stadion,Marco Fritz,Match Report,,22,D2
+Regular season,10.0,Sun,2021-10-17,13:30,Darmstadt 98,3–0,Werder Bremen,13000.0,Merck-Stadion am Böllenfalltor,Florian Lechner,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,11.0,Fri,2021-10-22,18:30,Paderborn 07,1–2,Hamburger SV,13000.0,Benteler-Arena,Daniel Schlager,Match Report,,22,D2
+Regular season,11.0,Fri,2021-10-22,18:30,Erzgebirge Aue,1–0,Ingolstadt 04,7349.0,Sparkassen-Erzgebirgsstadion,Nicolas Winter,Match Report,,22,D2
+Regular season,11.0,Sat,2021-10-23,13:30,Düsseldorf,3–1,Karlsruher,22458.0,Merkur Spielarena,Felix Brych,Match Report,,22,D2
+Regular season,11.0,Sat,2021-10-23,13:30,Nürnberg,4–0,Heidenheim,23056.0,Max-Morlock-Stadion,Thorben Siewer,Match Report,,22,D2
+Regular season,11.0,Sat,2021-10-23,13:30,Holstein Kiel,1–1,Darmstadt 98,7004.0,Holstein-Stadion,Patrick Alt,Match Report,,22,D2
+Regular season,11.0,Sat,2021-10-23,20:30,Schalke 04,3–0,Dresden,54256.0,Veltins-Arena,Sven Jablonski,Match Report,,22,D2
+Regular season,11.0,Sun,2021-10-24,13:30,St. Pauli,4–0,Hansa Rostock,22006.0,Millerntor-Stadion,Harm Osmers,Match Report,,22,D2
+Regular season,11.0,Sun,2021-10-24,13:30,Sandhausen,2–2,Werder Bremen,7252.0,BWT-Stadion Am Hardtwald,Patrick Ittrich,Match Report,,22,D2
+Regular season,11.0,Sun,2021-10-24,13:30,Jahn R'burg,3–1,Hannover 96,8462.0,Jahnstadion,Sven Waschitzki,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,12.0,Fri,2021-10-29,18:30,Darmstadt 98,2–0,Nürnberg,13000.0,Merck-Stadion am Böllenfalltor,Sascha Stegemann,Match Report,,22,D2
+Regular season,12.0,Fri,2021-10-29,18:30,Heidenheim,1–0,Schalke 04,10000.0,Voith-Arena,Christian Dingert,Match Report,,22,D2
+Regular season,12.0,Sat,2021-10-30,13:30,Hannover 96,1–1,Erzgebirge Aue,9300.0,HDI-Arena,Michael Bacher,Match Report,,22,D2
+Regular season,12.0,Sat,2021-10-30,13:30,Werder Bremen,1–1,St. Pauli,42100.0,Wohninvest-Weserstadion,Felix Zwayer,Match Report,,22,D2
+Regular season,12.0,Sat,2021-10-30,13:30,Dresden,0–1,Sandhausen,11144.0,DDV-Stadion,Martin Thomsen,Match Report,,22,D2
+Regular season,12.0,Sat,2021-10-30,20:30,Hamburger SV,1–1,Holstein Kiel,39543.0,Volksparkstadion,Marco Fritz,Match Report,,22,D2
+Regular season,12.0,Sun,2021-10-31,13:30,Hansa Rostock,2–1,Düsseldorf,21000.0,Ostseestadion,Daniel Siebert,Match Report,,22,D2
+Regular season,12.0,Sun,2021-10-31,13:30,Ingolstadt 04,0–3,Jahn R'burg,7024.0,Audi-Sportpark,Aarne Aarnink,Match Report,,22,D2
+Regular season,12.0,Sun,2021-10-31,13:30,Karlsruher,2–4,Paderborn 07,14039.0,BBBank Wildpark,Timo Gerach,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,13.0,Fri,2021-11-05,18:30,Nürnberg,1–2,Werder Bremen,25000.0,Max-Morlock-Stadion,Tobias Welz,Match Report,,22,D2
+Regular season,13.0,Fri,2021-11-05,18:30,Holstein Kiel,2–1,Dresden,8919.0,Holstein-Stadion,Florian Heft,Match Report,,22,D2
+Regular season,13.0,Sat,2021-11-06,13:30,Jahn R'burg,2–3,Hansa Rostock,8618.0,Jahnstadion,Patrick Ittrich,Match Report,,22,D2
+Regular season,13.0,Sat,2021-11-06,13:30,Paderborn 07,2–1,Ingolstadt 04,6625.0,Benteler-Arena,Bastian Dankert,Match Report,,22,D2
+Regular season,13.0,Sat,2021-11-06,13:30,Düsseldorf,1–1,Hannover 96,22398.0,Merkur Spielarena,Robert Kampka,Match Report,,22,D2
+Regular season,13.0,Sat,2021-11-06,20:30,Karlsruher,1–1,Hamburger SV,20000.0,BBBank Wildpark,Martin Petersen,Match Report,,22,D2
+Regular season,13.0,Sun,2021-11-07,13:30,Schalke 04,2–4,Darmstadt 98,51327.0,Veltins-Arena,Alexander Sather,Match Report,,22,D2
+Regular season,13.0,Sun,2021-11-07,13:30,Erzgebirge Aue,2–0,Heidenheim,6899.0,Sparkassen-Erzgebirgsstadion,Christof Günsch,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,14.0,Fri,2021-11-19,18:30,Sandhausen,1–2,Nürnberg,4617.0,BWT-Stadion Am Hardtwald,Florian Lechner,Match Report,,22,D2
+Regular season,14.0,Fri,2021-11-19,18:30,Hannover 96,0–0,Paderborn 07,10400.0,HDI-Arena,Christian Dingert,Match Report,,22,D2
+Regular season,14.0,Sat,2021-11-20,13:30,Hansa Rostock,1–2,Erzgebirge Aue,21750.0,Ostseestadion,Patrick Alt,Match Report,,22,D2
+Regular season,14.0,Sat,2021-11-20,13:30,Darmstadt 98,4–0,St. Pauli,13000.0,Merck-Stadion am Böllenfalltor,Tobias Reichel,Match Report,,22,D2
+Regular season,14.0,Sat,2021-11-20,13:30,Hamburger SV,4–1,Jahn R'burg,23505.0,Volksparkstadion,Robert Hartmann,Match Report,,22,D2
+Regular season,14.0,Sat,2021-11-20,20:30,Werder Bremen,1–1,Schalke 04,42000.0,Wohninvest-Weserstadion,Tobias Stieler,Match Report,,22,D2
+Regular season,14.0,Sun,2021-11-21,13:30,Dresden,1–0,Düsseldorf,8912.0,DDV-Stadion,Matthias Jöllenbeck,Match Report,,22,D2
+Regular season,14.0,Sun,2021-11-21,13:30,Heidenheim,2–1,Holstein Kiel,5021.0,Voith-Arena,Patrick Hanslbauer,Match Report,,22,D2
+Regular season,14.0,Sun,2021-11-21,13:30,Ingolstadt 04,1–1,Karlsruher,4348.0,Audi-Sportpark,Thorben Siewer,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,13.0,Wed,2021-11-24,18:30,St. Pauli,3–1,Sandhausen,23401.0,Millerntor-Stadion,Max Burda,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,15.0,Fri,2021-11-26,18:30,Jahn R'burg,3–1,Dresden,3413.0,Jahnstadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,15.0,Fri,2021-11-26,18:30,Düsseldorf,0–1,Heidenheim,13873.0,Merkur Spielarena,Michael Bacher,Match Report,,22,D2
+Regular season,15.0,Sat,2021-11-27,13:30,Karlsruher,4–0,Hannover 96,10000.0,BBBank Wildpark,Robert Hartmann,Match Report,,22,D2
+Regular season,15.0,Sat,2021-11-27,13:30,Schalke 04,5–2,Sandhausen,46319.0,Veltins-Arena,Florian Badstübner,Match Report,,22,D2
+Regular season,15.0,Sat,2021-11-27,13:30,Erzgebirge Aue,1–2,Darmstadt 98,,Sparkassen-Erzgebirgsstadion,Robin Braun,Match Report,,22,D2
+Regular season,15.0,Sat,2021-11-27,20:30,Holstein Kiel,2–1,Werder Bremen,11525.0,Holstein-Stadion,Harm Osmers,Match Report,,22,D2
+Regular season,15.0,Sun,2021-11-28,13:30,Hamburger SV,3–0,Ingolstadt 04,19937.0,Volksparkstadion,Timo Gerach,Match Report,,22,D2
+Regular season,15.0,Sun,2021-11-28,13:30,Paderborn 07,1–1,Hansa Rostock,7084.0,Benteler-Arena,Deniz Aytekin,Match Report,,22,D2
+Regular season,15.0,Sun,2021-11-28,13:30,Nürnberg,2–3,St. Pauli,8479.0,Max-Morlock-Stadion,Sven Waschitzki,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,16.0,Fri,2021-12-03,18:30,Werder Bremen,4–0,Erzgebirge Aue,15024.0,Wohninvest-Weserstadion,Bastian Dankert,Match Report,,22,D2
+Regular season,16.0,Fri,2021-12-03,18:30,Darmstadt 98,1–3,Düsseldorf,12450.0,Merck-Stadion am Böllenfalltor,Aarne Aarnink,Match Report,,22,D2
+Regular season,16.0,Sat,2021-12-04,13:30,Sandhausen,1–1,Paderborn 07,750.0,BWT-Stadion Am Hardtwald,Christof Günsch,Match Report,,22,D2
+Regular season,16.0,Sat,2021-12-04,13:30,Hansa Rostock,1–1,Ingolstadt 04,1000.0,Ostseestadion,Franz Bokop,Match Report,,22,D2
+Regular season,16.0,Sat,2021-12-04,13:30,Nürnberg,2–1,Holstein Kiel,,Max-Morlock-Stadion,Alexander Sather,Match Report,,22,D2
+Regular season,16.0,Sat,2021-12-04,20:30,St. Pauli,2–1,Schalke 04,19950.0,Millerntor-Stadion,Marco Fritz,Match Report,,22,D2
+Regular season,16.0,Sun,2021-12-05,13:30,Heidenheim,3–0,Jahn R'burg,1500.0,Voith-Arena,Nicolas Winter,Match Report,,22,D2
+Regular season,16.0,Sun,2021-12-05,13:30,Dresden,3–1,Karlsruher,,DDV-Stadion,Benjamin Cortus,Match Report,,22,D2
+Regular season,16.0,Sun,2021-12-05,13:30,Hannover 96,1–0,Hamburger SV,22500.0,HDI-Arena,Sascha Stegemann,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,17.0,Fri,2021-12-10,18:30,Schalke 04,4–1,Nürnberg,15000.0,Veltins-Arena,Tobias Reichel,Match Report,,22,D2
+Regular season,17.0,Fri,2021-12-10,18:30,Jahn R'burg,2–3,Werder Bremen,,Jahnstadion,Robert Kampka,Match Report,,22,D2
+Regular season,17.0,Sat,2021-12-11,13:30,Holstein Kiel,2–2,Sandhausen,7879.0,Holstein-Stadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,17.0,Sat,2021-12-11,13:30,Ingolstadt 04,1–2,Hannover 96,,Audi-Sportpark,Florian Lechner,Match Report,,22,D2
+Regular season,17.0,Sat,2021-12-11,13:30,Paderborn 07,0–1,Darmstadt 98,2924.0,Benteler-Arena,Daniel Schlager,Match Report,,22,D2
+Regular season,17.0,Sat,2021-12-11,20:30,Düsseldorf,1–1,St. Pauli,15000.0,Merkur Spielarena,Thorben Siewer,Match Report,,22,D2
+Regular season,17.0,Sun,2021-12-12,13:30,Karlsruher,3–2,Heidenheim,750.0,BBBank Wildpark,Tobias Stieler,Match Report,,22,D2
+Regular season,17.0,Sun,2021-12-12,13:30,Erzgebirge Aue,0–1,Dresden,,Sparkassen-Erzgebirgsstadion,Felix Brych,Match Report,,22,D2
+Regular season,17.0,Sun,2021-12-12,13:30,Hamburger SV,3–0,Hansa Rostock,15000.0,Volksparkstadion,Michael Bacher,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,18.0,Fri,2021-12-17,18:30,Düsseldorf,0–1,Sandhausen,10543.0,Merkur Spielarena,Harm Osmers,Match Report,,22,D2
+Regular season,18.0,Fri,2021-12-17,18:30,Holstein Kiel,3–0,St. Pauli,8700.0,Holstein-Stadion,Robin Braun,Match Report,,22,D2
+Regular season,18.0,Sat,2021-12-18,13:30,Ingolstadt 04,3–0,Dresden,,Audi-Sportpark,Florian Heft,Match Report,,22,D2
+Regular season,18.0,Sat,2021-12-18,13:30,Erzgebirge Aue,1–3,Nürnberg,,Sparkassen-Erzgebirgsstadion,Martin Thomsen,Match Report,,22,D2
+Regular season,18.0,Sat,2021-12-18,13:30,Paderborn 07,1–2,Heidenheim,2730.0,Benteler-Arena,Max Burda,Match Report,,22,D2
+Regular season,18.0,Sat,2021-12-18,20:30,Hamburger SV,1–1,Schalke 04,15000.0,Volksparkstadion,Deniz Aytekin,Match Report,,22,D2
+Regular season,18.0,Sun,2021-12-19,13:30,Karlsruher,2–2,Hansa Rostock,750.0,BBBank Wildpark,Patrick Hanslbauer,Match Report,,22,D2
+Regular season,18.0,Sun,2021-12-19,13:30,Jahn R'burg,0–2,Darmstadt 98,,Jahnstadion,Timo Gerach,Match Report,,22,D2
+Regular season,18.0,Sun,2021-12-19,13:30,Hannover 96,1–4,Werder Bremen,5000.0,HDI-Arena,Martin Petersen,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,19.0,Fri,2022-01-14,18:30,Dresden,1–1,Hamburger SV,1000.0,DDV-Stadion,Nicolas Winter,Match Report,,22,D2
+Regular season,19.0,Fri,2022-01-14,18:30,Hansa Rostock,0–1,Hannover 96,,Ostseestadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,19.0,Sat,2022-01-15,13:30,Werder Bremen,3–0,Düsseldorf,,Wohninvest-Weserstadion,Tobias Reichel,Match Report,,22,D2
+Regular season,19.0,Sat,2022-01-15,13:30,Nürnberg,1–2,Paderborn 07,,Max-Morlock-Stadion,Matthias Jöllenbeck,Match Report,,22,D2
+Regular season,19.0,Sat,2022-01-15,13:30,St. Pauli,2–2,Erzgebirge Aue,1724.0,Millerntor-Stadion,Patrick Alt,Match Report,,22,D2
+Regular season,19.0,Sat,2022-01-15,20:30,Darmstadt 98,2–2,Karlsruher,,Merck-Stadion am Böllenfalltor,Deniz Aytekin,Match Report,,22,D2
+Regular season,19.0,Sun,2022-01-16,13:30,Sandhausen,0–3,Jahn R'burg,500.0,BWT-Stadion Am Hardtwald,Florian Heft,Match Report,,22,D2
+Regular season,19.0,Sun,2022-01-16,13:30,Schalke 04,1–1,Holstein Kiel,750.0,Veltins-Arena,Sven Waschitzki,Match Report,,22,D2
+Regular season,19.0,Sun,2022-01-16,13:30,Heidenheim,2–1,Ingolstadt 04,500.0,Voith-Arena,Christof Günsch,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,20.0,Fri,2022-01-21,18:30,Düsseldorf,0–1,Nürnberg,750.0,Merkur Spielarena,Robert Hartmann,Match Report,,22,D2
+Regular season,20.0,Fri,2022-01-21,18:30,Hamburger SV,2–1,St. Pauli,2000.0,Volksparkstadion,Sascha Stegemann,Match Report,,22,D2
+Regular season,20.0,Sat,2022-01-22,13:30,Paderborn 07,3–4,Werder Bremen,750.0,Benteler-Arena,Tobias Welz,Match Report,,22,D2
+Regular season,20.0,Sat,2022-01-22,13:30,Hansa Rostock,0–0,Heidenheim,,Ostseestadion,Thorben Siewer,Match Report,,22,D2
+Regular season,20.0,Sat,2022-01-22,13:30,Ingolstadt 04,0–2,Darmstadt 98,,Audi-Sportpark,Alexander Sather,Match Report,,22,D2
+Regular season,20.0,Sat,2022-01-22,20:30,Erzgebirge Aue,0–5,Schalke 04,1000.0,Sparkassen-Erzgebirgsstadion,Aarne Aarnink,Match Report,,22,D2
+Regular season,20.0,Sun,2022-01-23,13:30,Jahn R'burg,1–2,Holstein Kiel,,Jahnstadion,Florian Lechner,Match Report,,22,D2
+Regular season,20.0,Sun,2022-01-23,13:30,Hannover 96,0–0,Dresden,500.0,HDI-Arena,Robert Kampka,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,21.0,Fri,2022-02-04,18:30,Heidenheim,3–1,Hannover 96,4350.0,Voith-Arena,Robin Braun,Match Report,,22,D2
+Regular season,21.0,Fri,2022-02-04,18:30,Nürnberg,0–5,Ingolstadt 04,10000.0,Max-Morlock-Stadion,Bastian Dankert,Match Report,,22,D2
+Regular season,21.0,Sat,2022-02-05,13:30,Werder Bremen,2–1,Karlsruher,10000.0,Wohninvest-Weserstadion,Frank Willenborg,Match Report,,22,D2
+Regular season,21.0,Sat,2022-02-05,13:30,Sandhausen,2–0,Erzgebirge Aue,3500.0,BWT-Stadion Am Hardtwald,Michael Bacher,Match Report,,22,D2
+Regular season,21.0,Sat,2022-02-05,13:30,Schalke 04,2–1,Jahn R'burg,10000.0,Veltins-Arena,Tobias Welz,Match Report,,22,D2
+Regular season,21.0,Sat,2022-02-05,20:30,St. Pauli,2–2,Paderborn 07,6012.0,Millerntor-Stadion,Deniz Aytekin,Match Report,,22,D2
+Regular season,21.0,Sun,2022-02-06,13:30,Dresden,1–4,Hansa Rostock,10000.0,DDV-Stadion,Martin Thomsen,Match Report,,22,D2
+Regular season,21.0,Sun,2022-02-06,13:30,Holstein Kiel,1–0,Düsseldorf,,Holstein-Stadion,Patrick Alt,Match Report,,22,D2
+Regular season,21.0,Sun,2022-02-06,13:30,Darmstadt 98,0–5,Hamburger SV,1000.0,Merck-Stadion am Böllenfalltor,Matthias Jöllenbeck,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,20.0,Tue,2022-02-08,18:30,Karlsruher,0–2,Sandhausen,6532.0,BBBank Wildpark,Marco Fritz,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,22.0,Fri,2022-02-11,18:30,Hansa Rostock,1–2,Werder Bremen,10000.0,Ostseestadion,Max Burda,Match Report,,22,D2
+Regular season,22.0,Fri,2022-02-11,18:30,Erzgebirge Aue,2–3,Holstein Kiel,4888.0,Sparkassen-Erzgebirgsstadion,Florian Heft,Match Report,,22,D2
+Regular season,22.0,Sat,2022-02-12,13:30,Karlsruher,4–1,Nürnberg,9265.0,BBBank Wildpark,Sven Waschitzki,Match Report,,22,D2
+Regular season,22.0,Sat,2022-02-12,13:30,Hamburger SV,2–0,Heidenheim,10000.0,Volksparkstadion,Christian Dingert,Match Report,,22,D2
+Regular season,22.0,Sat,2022-02-12,13:30,Paderborn 07,0–0,Dresden,3614.0,Benteler-Arena,Sven Jablonski,Match Report,,22,D2
+Regular season,22.0,Sat,2022-02-12,20:30,Jahn R'burg,2–3,St. Pauli,7605.0,Jahnstadion,Nicolas Winter,Match Report,,22,D2
+Regular season,22.0,Sun,2022-02-13,13:30,Hannover 96,2–2,Darmstadt 98,3800.0,HDI-Arena,Felix Zwayer,Match Report,,22,D2
+Regular season,22.0,Sun,2022-02-13,13:30,Düsseldorf,2–1,Schalke 04,10000.0,Merkur Spielarena,Harm Osmers,Match Report,,22,D2
+Regular season,22.0,Sun,2022-02-13,13:30,Ingolstadt 04,0–0,Sandhausen,4247.0,Audi-Sportpark,Lasse Koslowski,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,23.0,Fri,2022-02-18,18:30,Schalke 04,2–0,Paderborn 07,10000.0,Veltins-Arena,Florian Badstübner,Match Report,,22,D2
+Regular season,23.0,Fri,2022-02-18,18:30,Dresden,1–1,Heidenheim,6792.0,DDV-Stadion,Franz Bokop,Match Report,,22,D2
+Regular season,23.0,Sat,2022-02-19,13:30,Holstein Kiel,0–2,Karlsruher,7953.0,Holstein-Stadion,Alexander Sather,Match Report,,22,D2
+Regular season,23.0,Sat,2022-02-19,13:30,Sandhausen,1–1,Hamburger SV,6932.0,BWT-Stadion Am Hardtwald,Christof Günsch,Match Report,,22,D2
+Regular season,23.0,Sat,2022-02-19,13:30,Werder Bremen,1–1,Ingolstadt 04,15000.0,Wohninvest-Weserstadion,Robert Kampka,Match Report,,22,D2
+Regular season,23.0,Sat,2022-02-19,20:30,Nürnberg,2–0,Jahn R'burg,23042.0,Max-Morlock-Stadion,Martin Petersen,Match Report,,22,D2
+Regular season,23.0,Sun,2022-02-20,13:30,Darmstadt 98,1–1,Hansa Rostock,7500.0,Merck-Stadion am Böllenfalltor,Aarne Aarnink,Match Report,,22,D2
+Regular season,23.0,Sun,2022-02-20,13:30,St. Pauli,0–3,Hannover 96,8470.0,Millerntor-Stadion,Bastian Dankert,Match Report,,22,D2
+Regular season,23.0,Sun,2022-02-20,13:30,Düsseldorf,3–1,Erzgebirge Aue,10000.0,Merkur Spielarena,Robert Schröder,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,24.0,Fri,2022-02-25,18:30,Hannover 96,2–0,Holstein Kiel,9200.0,HDI-Arena,Robert Hartmann,Match Report,,22,D2
+Regular season,24.0,Fri,2022-02-25,18:30,Paderborn 07,3–3,Erzgebirge Aue,3319.0,Benteler-Arena,Thorben Siewer,Match Report,,22,D2
+Regular season,24.0,Sat,2022-02-26,13:30,Ingolstadt 04,1–3,St. Pauli,5511.0,Audi-Sportpark,Robin Braun,Match Report,,22,D2
+Regular season,24.0,Sat,2022-02-26,13:30,Hansa Rostock,0–2,Nürnberg,10000.0,Ostseestadion,Christian Dingert,Match Report,,22,D2
+Regular season,24.0,Sat,2022-02-26,13:30,Karlsruher,1–1,Schalke 04,15000.0,BBBank Wildpark,Patrick Ittrich,Match Report,,22,D2
+Regular season,24.0,Sat,2022-02-26,20:30,Dresden,0–1,Darmstadt 98,10024.0,DDV-Stadion,Florian Lechner,Match Report,,22,D2
+Regular season,24.0,Sun,2022-02-27,13:30,Jahn R'burg,0–0,Düsseldorf,6319.0,Jahnstadion,Timo Gerach,Match Report,,22,D2
+Regular season,24.0,Sun,2022-02-27,13:30,Heidenheim,1–1,Sandhausen,5961.0,Voith-Arena,Patrick Alt,Match Report,,22,D2
+Regular season,24.0,Sun,2022-02-27,13:30,Hamburger SV,2–3,Werder Bremen,25000.0,Volksparkstadion,Daniel Siebert,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,25.0,Fri,2022-03-04,18:30,Darmstadt 98,3–2,Heidenheim,11692.0,Merck-Stadion am Böllenfalltor,Nicolas Winter,Match Report,,22,D2
+Regular season,25.0,Fri,2022-03-04,18:30,Holstein Kiel,3–4,Paderborn 07,9174.0,Holstein-Stadion,Patrick Hanslbauer,Match Report,,22,D2
+Regular season,25.0,Sat,2022-03-05,13:30,Schalke 04,3–4,Hansa Rostock,28790.0,Veltins-Arena,Benjamin Cortus,Match Report,,22,D2
+Regular season,25.0,Sat,2022-03-05,13:30,Sandhausen,3–1,Hannover 96,2500.0,BWT-Stadion Am Hardtwald,Sven Waschitzki,Match Report,,22,D2
+Regular season,25.0,Sat,2022-03-05,13:30,St. Pauli,3–1,Karlsruher,22158.0,Millerntor-Stadion,Tobias Reichel,Match Report,,22,D2
+Regular season,25.0,Sat,2022-03-05,20:30,Nürnberg,2–1,Hamburger SV,25000.0,Max-Morlock-Stadion,Matthias Jöllenbeck,Match Report,,22,D2
+Regular season,25.0,Sun,2022-03-06,13:30,Erzgebirge Aue,1–0,Jahn R'burg,6268.0,Sparkassen-Erzgebirgsstadion,Florian Badstübner,Match Report,,22,D2
+Regular season,25.0,Sun,2022-03-06,13:30,Düsseldorf,3–0,Ingolstadt 04,14200.0,Merkur Spielarena,Sven Jablonski,Match Report,,22,D2
+Regular season,25.0,Sun,2022-03-06,13:30,Werder Bremen,2–1,Dresden,25000.0,Wohninvest-Weserstadion,Martin Thomsen,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,26.0,Fri,2022-03-11,18:30,Hansa Rostock,3–2,Holstein Kiel,21250.0,Ostseestadion,Lasse Koslowski,Match Report,,22,D2
+Regular season,26.0,Fri,2022-03-11,18:30,Darmstadt 98,1–1,Sandhausen,11300.0,Merck-Stadion am Böllenfalltor,Robin Braun,Match Report,,22,D2
+Regular season,26.0,Sat,2022-03-12,13:30,Dresden,1–1,St. Pauli,16000.0,DDV-Stadion,Daniel Siebert,Match Report,,22,D2
+Regular season,26.0,Sat,2022-03-12,13:30,Paderborn 07,1–1,Düsseldorf,5253.0,Benteler-Arena,Michael Bacher,Match Report,,22,D2
+Regular season,26.0,Sat,2022-03-12,20:30,Heidenheim,2–1,Werder Bremen,11250.0,Voith-Arena,Benjamin Cortus,Match Report,,22,D2
+Regular season,26.0,Sun,2022-03-13,13:30,Karlsruher,1–1,Jahn R'burg,13258.0,BBBank Wildpark,Christian Dingert,Match Report,,22,D2
+Regular season,26.0,Sun,2022-03-13,13:30,Hannover 96,0–3,Nürnberg,14300.0,HDI-Arena,Robert Kampka,Match Report,,22,D2
+Regular season,26.0,Sun,2022-03-13,13:30,Ingolstadt 04,0–3,Schalke 04,7593.0,Audi-Sportpark,Felix Zwayer,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,27.0,Fri,2022-03-18,18:30,St. Pauli,1–0,Heidenheim,27433.0,Millerntor-Stadion,Bastian Dankert,Match Report,,22,D2
+Regular season,27.0,Fri,2022-03-18,18:30,Erzgebirge Aue,0–3,Karlsruher,6619.0,Sparkassen-Erzgebirgsstadion,Patrick Alt,Match Report,,22,D2
+Regular season,27.0,Sat,2022-03-19,13:30,Sandhausen,0–1,Hansa Rostock,5246.0,BWT-Stadion Am Hardtwald,Alexander Sather,Match Report,,22,D2
+Regular season,27.0,Sat,2022-03-19,13:30,Düsseldorf,1–1,Hamburger SV,31353.0,Merkur Spielarena,Marco Fritz,Match Report,,22,D2
+Regular season,27.0,Sat,2022-03-19,13:30,Schalke 04,2–1,Hannover 96,55152.0,Veltins-Arena,Sascha Stegemann,Match Report,,22,D2
+Regular season,27.0,Sat,2022-03-19,20:30,Werder Bremen,1–0,Darmstadt 98,41000.0,Wohninvest-Weserstadion,Robert Schröder,Match Report,,22,D2
+Regular season,27.0,Sun,2022-03-20,13:30,Holstein Kiel,1–0,Ingolstadt 04,9163.0,Holstein-Stadion,Matthias Jöllenbeck,Match Report,,22,D2
+Regular season,27.0,Sun,2022-03-20,13:30,Nürnberg,1–1,Dresden,27826.0,Max-Morlock-Stadion,Robert Hartmann,Match Report,,22,D2
+Regular season,27.0,Sun,2022-03-20,13:30,Jahn R'burg,1–0,Paderborn 07,7680.0,Jahnstadion,Martin Petersen,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,28.0,Fri,2022-04-01,18:30,Ingolstadt 04,3–2,Erzgebirge Aue,4189.0,Audi-Sportpark,Florian Heft,Match Report,,22,D2
+Regular season,28.0,Fri,2022-04-01,18:30,Dresden,1–2,Schalke 04,30273.0,DDV-Stadion,Harm Osmers,Match Report,,22,D2
+Regular season,28.0,Sat,2022-04-02,13:30,Hannover 96,1–1,Jahn R'burg,9200.0,HDI-Arena,Nicolas Winter,Match Report,,22,D2
+Regular season,28.0,Sat,2022-04-02,13:30,Hamburger SV,1–2,Paderborn 07,27136.0,Volksparkstadion,Martin Thomsen,Match Report,,22,D2
+Regular season,28.0,Sat,2022-04-02,13:30,Darmstadt 98,3–1,Holstein Kiel,13400.0,Merck-Stadion am Böllenfalltor,Sven Waschitzki,Match Report,,22,D2
+Regular season,28.0,Sat,2022-04-02,20:30,Hansa Rostock,1–0,St. Pauli,25000.0,Ostseestadion,Benjamin Brand,Match Report,,22,D2
+Regular season,28.0,Sun,2022-04-03,13:30,Karlsruher,2–2,Düsseldorf,17907.0,BBBank Wildpark,Thorben Siewer,Match Report,,22,D2
+Regular season,28.0,Sun,2022-04-03,13:30,Werder Bremen,1–1,Sandhausen,36000.0,Wohninvest-Weserstadion,Martin Petersen,Match Report,,22,D2
+Regular season,28.0,Sun,2022-04-03,13:30,Heidenheim,3–1,Nürnberg,10673.0,Voith-Arena,Felix Brych,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,26.0,Tue,2022-04-05,18:30,Hamburger SV,4–0,Erzgebirge Aue,21890.0,Volksparkstadion,Aarne Aarnink,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,29.0,Fri,2022-04-08,18:30,Jahn R'burg,1–1,Ingolstadt 04,12089.0,Jahnstadion,Florian Lechner,Match Report,,22,D2
+Regular season,29.0,Fri,2022-04-08,18:30,Düsseldorf,3–0,Hansa Rostock,22346.0,Merkur Spielarena,Sascha Stegemann,Match Report,,22,D2
+Regular season,29.0,Sat,2022-04-09,13:30,Erzgebirge Aue,1–3,Hannover 96,6196.0,Sparkassen-Erzgebirgsstadion,Michael Bacher,Match Report,,22,D2
+Regular season,29.0,Sat,2022-04-09,13:30,St. Pauli,1–1,Werder Bremen,29546.0,Millerntor-Stadion,Florian Badstübner,Match Report,,22,D2
+Regular season,29.0,Sat,2022-04-09,13:30,Schalke 04,3–0,Heidenheim,57126.0,Veltins-Arena,Daniel Siebert,Match Report,,22,D2
+Regular season,29.0,Sat,2022-04-09,20:30,Nürnberg,3–1,Darmstadt 98,30471.0,Max-Morlock-Stadion,Timo Gerach,Match Report,,22,D2
+Regular season,29.0,Sun,2022-04-10,13:30,Sandhausen,2–1,Dresden,6012.0,BWT-Stadion Am Hardtwald,Patrick Hanslbauer,Match Report,,22,D2
+Regular season,29.0,Sun,2022-04-10,13:30,Paderborn 07,2–2,Karlsruher,9652.0,Benteler-Arena,Christof Günsch,Match Report,,22,D2
+Regular season,29.0,Sun,2022-04-10,13:30,Holstein Kiel,1–0,Hamburger SV,15034.0,Holstein-Stadion,Daniel Schlager,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,30.0,Sat,2022-04-16,13:30,Dresden,0–0,Holstein Kiel,21544.0,DDV-Stadion,Robert Kampka,Match Report,,22,D2
+Regular season,30.0,Sat,2022-04-16,13:30,Hannover 96,0–0,Düsseldorf,17200.0,HDI-Arena,Tobias Stieler,Match Report,,22,D2
+Regular season,30.0,Sat,2022-04-16,13:30,Sandhausen,1–1,St. Pauli,7094.0,BWT-Stadion Am Hardtwald,Felix Brych,Match Report,,22,D2
+Regular season,30.0,Sat,2022-04-16,20:30,Hamburger SV,3–0,Karlsruher,24892.0,Volksparkstadion,Patrick Alt,Match Report,,22,D2
+Regular season,30.0,Sun,2022-04-17,13:30,Hansa Rostock,1–1,Jahn R'burg,24000.0,Ostseestadion,Robin Braun,Match Report,,22,D2
+Regular season,30.0,Sun,2022-04-17,13:30,Werder Bremen,1–1,Nürnberg,40000.0,Wohninvest-Weserstadion,Christian Dingert,Match Report,,22,D2
+Regular season,30.0,Sun,2022-04-17,13:30,Heidenheim,0–2,Erzgebirge Aue,7768.0,Voith-Arena,Max Burda,Match Report,,22,D2
+Regular season,30.0,Sun,2022-04-17,13:30,Darmstadt 98,2–5,Schalke 04,14500.0,Merck-Stadion am Böllenfalltor,Tobias Reichel,Match Report,,22,D2
+Regular season,30.0,Sun,2022-04-17,13:30,Ingolstadt 04,0–1,Paderborn 07,4219.0,Audi-Sportpark,Alexander Sather,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,31.0,Fri,2022-04-22,18:30,Karlsruher,2–2,Ingolstadt 04,16655.0,BBBank Wildpark,Martin Thomsen,Match Report,,22,D2
+Regular season,31.0,Fri,2022-04-22,18:30,Düsseldorf,2–2,Dresden,25264.0,Merkur Spielarena,Martin Petersen,Match Report,,22,D2
+Regular season,31.0,Sat,2022-04-23,13:30,Schalke 04,1–4,Werder Bremen,62271.0,Veltins-Arena,Deniz Aytekin,Match Report,,22,D2
+Regular season,31.0,Sat,2022-04-23,13:30,Holstein Kiel,1–1,Heidenheim,10445.0,Holstein-Stadion,Robert Hartmann,Match Report,,22,D2
+Regular season,31.0,Sat,2022-04-23,13:30,Jahn R'burg,2–4,Hamburger SV,13252.0,Jahnstadion,Timo Gerach,Match Report,,22,D2
+Regular season,31.0,Sat,2022-04-23,20:30,St. Pauli,1–2,Darmstadt 98,29546.0,Millerntor-Stadion,Sascha Stegemann,Match Report,,22,D2
+Regular season,31.0,Sun,2022-04-24,13:30,Paderborn 07,3–0,Hannover 96,8400.0,Benteler-Arena,Florian Heft,Match Report,,22,D2
+Regular season,31.0,Sun,2022-04-24,13:30,Erzgebirge Aue,2–2,Hansa Rostock,10929.0,Sparkassen-Erzgebirgsstadion,Benjamin Cortus,Match Report,,22,D2
+Regular season,31.0,Sun,2022-04-24,13:30,Nürnberg,2–4,Sandhausen,40000.0,Max-Morlock-Stadion,Aarne Aarnink,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,32.0,Fri,2022-04-29,18:30,Sandhausen,1–2,Schalke 04,12355.0,BWT-Stadion Am Hardtwald,Felix Zwayer,Match Report,,22,D2
+Regular season,32.0,Fri,2022-04-29,18:30,Werder Bremen,2–3,Holstein Kiel,42100.0,Wohninvest-Weserstadion,Frank Willenborg,Match Report,,22,D2
+Regular season,32.0,Fri,2022-04-29,18:30,Hannover 96,2–0,Karlsruher,13700.0,HDI-Arena,Lasse Koslowski,Match Report,,22,D2
+Regular season,32.0,Fri,2022-04-29,18:30,St. Pauli,1–1,Nürnberg,29312.0,Millerntor-Stadion,Bastian Dankert,Match Report,,22,D2
+Regular season,32.0,Fri,2022-04-29,18:30,Heidenheim,1–3,Düsseldorf,7778.0,Voith-Arena,Christof Günsch,Match Report,,22,D2
+Regular season,32.0,Sat,2022-04-30,13:30,Hansa Rostock,0–0,Paderborn 07,24500.0,Ostseestadion,Sven Waschitzki,Match Report,,22,D2
+Regular season,32.0,Sat,2022-04-30,13:30,Dresden,1–1,Jahn R'burg,20376.0,DDV-Stadion,Tobias Stieler,Match Report,,22,D2
+Regular season,32.0,Sat,2022-04-30,13:30,Ingolstadt 04,0–4,Hamburger SV,8081.0,Audi-Sportpark,Robert Kampka,Match Report,,22,D2
+Regular season,32.0,Sat,2022-04-30,20:30,Darmstadt 98,6–0,Erzgebirge Aue,13850.0,Merck-Stadion am Böllenfalltor,Christian Dingert,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,33.0,Fri,2022-05-06,18:30,Paderborn 07,2–0,Sandhausen,7719.0,Benteler-Arena,Timo Gerach,Match Report,,22,D2
+Regular season,33.0,Fri,2022-05-06,18:30,Düsseldorf,2–1,Darmstadt 98,31622.0,Merkur Spielarena,Florian Badstübner,Match Report,,22,D2
+Regular season,33.0,Sat,2022-05-07,13:30,Ingolstadt 04,0–0,Hansa Rostock,6371.0,Audi-Sportpark,Nicolas Winter,Match Report,,22,D2
+Regular season,33.0,Sat,2022-05-07,13:30,Hamburger SV,2–1,Hannover 96,57000.0,Volksparkstadion,Aarne Aarnink,Match Report,,22,D2
+Regular season,33.0,Sat,2022-05-07,13:30,Jahn R'burg,0–2,Heidenheim,10175.0,Jahnstadion,Thorben Siewer,Match Report,,22,D2
+Regular season,33.0,Sat,2022-05-07,20:30,Schalke 04,3–2,St. Pauli,62271.0,Veltins-Arena,Marco Fritz,Match Report,,22,D2
+Regular season,33.0,Sun,2022-05-08,13:30,Holstein Kiel,3–0,Nürnberg,12455.0,Holstein-Stadion,Daniel Siebert,Match Report,,22,D2
+Regular season,33.0,Sun,2022-05-08,13:30,Erzgebirge Aue,0–3,Werder Bremen,12360.0,Sparkassen-Erzgebirgsstadion,Benjamin Brand,Match Report,,22,D2
+Regular season,33.0,Sun,2022-05-08,13:30,Karlsruher,2–2,Dresden,18649.0,BBBank Wildpark,Robin Braun,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Werder Bremen,2–0,Jahn R'burg,41000.0,Wohninvest-Weserstadion,Felix Zwayer,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Heidenheim,2–0,Karlsruher,10599.0,Voith-Arena,Florian Heft,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Sandhausen,3–1,Holstein Kiel,4878.0,BWT-Stadion Am Hardtwald,Lasse Koslowski,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Dresden,0–1,Erzgebirge Aue,29382.0,DDV-Stadion,Christof Günsch,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Hansa Rostock,2–3,Hamburger SV,26150.0,Ostseestadion,Felix Brych,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,St. Pauli,2–0,Düsseldorf,29546.0,Millerntor-Stadion,Matthias Jöllenbeck,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Hannover 96,3–2,Ingolstadt 04,20300.0,HDI-Arena,Thorben Siewer,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Darmstadt 98,3–0,Paderborn 07,13710.0,Merck-Stadion am Böllenfalltor,Deniz Aytekin,Match Report,,22,D2
+Regular season,34.0,Sun,2022-05-15,15:30,Nürnberg,1–2,Schalke 04,50000.0,Max-Morlock-Stadion,Sascha Stegemann,Match Report,,22,D2
+,,,,,,,,,,,,,22,D2
+German 1/2 Relegation/Promotion Play-offs,,Thu,2022-05-19,20:30,Hertha BSC,0–1,Hamburger SV,75500.0,Olympiastadion Berlin,,Match Report,Leg 1 of 2,22,D2
+German 2/3 Relegation/Promotion Play-offs,,Fri,2022-05-20,20:30,Kaiserslautern,0–0,Dresden,46179.0,Fritz-Walter-Stadion,,Match Report,Leg 1 of 2,22,D2
+German 1/2 Relegation/Promotion Play-offs,,Mon,2022-05-23,20:30,Hamburger SV,0–2,Hertha BSC,57000.0,Volksparkstadion,,Match Report,Leg 2 of 2; Hertha BSC won,22,D2
+German 2/3 Relegation/Promotion Play-offs,,Tue,2022-05-24,20:30,Dresden,0–2,Kaiserslautern,30530.0,DDV-Stadion,,Match Report,Leg 2 of 2; Kaiserslautern won,22,D2

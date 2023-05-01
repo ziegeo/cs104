@@ -1,0 +1,342 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+1.0,Fri,2019-08-09,20:30,Portimonense,0.8,0–0,0.4,B-SAD,3486.0,Estádio do Portimonense SC,Manuel Mota,Match Report,,20,P1
+1.0,Sat,2019-08-10,15:30,Santa Clara,2.3,0–2,1.5,Famalicão,1659.0,Estádio de São Miguel,Rui Oliveira,Match Report,,20,P1
+1.0,Sat,2019-08-10,19:00,Gil Vicente FC,1.7,2–1,2.9,Porto,10962.0,Estádio Cidade de Barcelos,Nuno Almeida,Match Report,,20,P1
+1.0,Sat,2019-08-10,21:30,Benfica,3.5,5–0,0.3,Paços,62956.0,Estádio do Sport Lisboa e Benfica,Manuel Oliveira,Match Report,,20,P1
+1.0,Sun,2019-08-11,16:00,Boavista,1.0,2–1,0.6,Aves,6010.0,Estádio do Bessa Século XXI,Hélder Malheiro,Match Report,,20,P1
+1.0,Sun,2019-08-11,18:30,Marítimo,1.2,1–1,0.7,Sporting CP,9673.0,Estádio dos Barreiros,Tiago Martins,Match Report,,20,P1
+1.0,Sun,2019-08-11,21:00,Braga,1.6,3–1,0.8,Moreirense,13223.0,Estádio Municipal de Braga,Fábio Costa,Match Report,,20,P1
+1.0,Mon,2019-08-12,20:15,Vitória Setúbal,0.7,0–0,1.3,Tondela,3795.0,Estádio do Bonfim,Vitor Ferreira Fernandes,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+2.0,Fri,2019-08-16,20:30,Famalicão,0.9,1–0,1.8,Rio Ave,4960.0,Estádio Municipal 22 de Junho,Rui Costa,Match Report,,20,P1
+2.0,Sat,2019-08-17,16:30,Moreirense,2.0,3–0,0.8,Gil Vicente FC,1792.0,P.D. Comendador Joaquim de Almeida Freit...,Manuel Oliveira,Match Report,,20,P1
+2.0,Sat,2019-08-17,19:00,B-SAD,1.0,0–2,1.8,Benfica,17821.0,Estádio Nacional,Fábio Costa,Match Report,,20,P1
+2.0,Sat,2019-08-17,21:30,Porto,2.7,4–0,0.9,Vitória Setúbal,38820.0,Estádio Do Dragão,Manuel Mota,Match Report,,20,P1
+2.0,Sun,2019-08-18,16:00,Paços,0.8,0–1,0.8,Santa Clara,3153.0,Estádio da Capital do Móvel,André Narciso,Match Report,,20,P1
+2.0,Sun,2019-08-18,16:00,Aves,1.5,3–1,0.4,Marítimo,1511.0,Estádio Clube Desportivo das Aves,Jorge de Sousa,Match Report,,20,P1
+2.0,Sun,2019-08-18,18:30,Vitória,1.2,1–1,0.3,Boavista,16765.0,Estádio Dom Afonso Henriques,Artur Soares Dias,Match Report,,20,P1
+2.0,Sun,2019-08-18,21:00,Sporting CP,1.2,2–1,2.2,Braga,35692.0,Estádio José Alvalade,Luís Godinho,Match Report,,20,P1
+2.0,Mon,2019-08-19,20:15,Tondela,0.4,1–2,1.5,Portimonense,2955.0,Estádio João Cardoso,Hugo Miguel,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+3.0,Fri,2019-08-23,19:00,Vitória Setúbal,1.0,0–0,0.3,Moreirense,3787.0,Estádio do Bonfim,Iancu Vasilica,Match Report,,20,P1
+3.0,Fri,2019-08-23,21:15,Rio Ave,4.2,5–1,0.6,Aves,2485.0,Estádio do Rio Ave Futebol Clube,Fábio Costa,Match Report,,20,P1
+3.0,Sat,2019-08-24,19:00,Benfica,0.3,0–2,1.9,Porto,62735.0,Estádio do Sport Lisboa e Benfica,Jorge de Sousa,Match Report,,20,P1
+3.0,Sat,2019-08-24,21:30,Boavista,0.8,1–1,1.3,Paços,6391.0,Estádio do Bessa Século XXI,Manuel Mota,Match Report,,20,P1
+3.0,Sun,2019-08-25,15:00,Santa Clara,0.9,0–0,0.3,B-SAD,3525.0,Estádio de São Miguel,João Pinheiro,Match Report,,20,P1
+3.0,Sun,2019-08-25,16:00,Marítimo,2.0,2–3,2.9,Tondela,5568.0,Estádio dos Barreiros,André Narciso,Match Report,,20,P1
+3.0,Sun,2019-08-25,18:30,Portimonense,1.6,1–3,2.6,Sporting CP,5634.0,Estádio do Portimonense SC,Carlos Xistra,Match Report,,20,P1
+3.0,Sun,2019-08-25,20:30,Gil Vicente FC,1.4,1–1,0.6,Braga,6769.0,Estádio Cidade de Barcelos,Hugo Miguel,Match Report,,20,P1
+3.0,Sun,2019-08-25,21:00,Vitória,1.5,1–1,1.2,Famalicão,16225.0,Estádio Dom Afonso Henriques,Manuel Oliveira,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+4.0,Fri,2019-08-30,19:00,Moreirense,0.7,1–0,0.7,Portimonense,1432.0,P.D. Comendador Joaquim de Almeida Freit...,Gustavo Correia,Match Report,,20,P1
+4.0,Fri,2019-08-30,21:15,B-SAD,1.0,0–1,0.6,Boavista,1213.0,Estádio Nacional,Hugo Miguel,Match Report,,20,P1
+4.0,Sat,2019-08-31,16:30,Paços,1.4,0–1,0.6,Marítimo,1714.0,Estádio da Capital do Móvel,Rui Oliveira,Match Report,,20,P1
+4.0,Sat,2019-08-31,16:30,Aves,1.5,2–3,2.2,Famalicão,3573.0,Estádio Clube Desportivo das Aves,Luís Godinho,Match Report,,20,P1
+4.0,Sat,2019-08-31,19:00,Sporting CP,1.2,2–3,2.5,Rio Ave,37942.0,Estádio José Alvalade,João Pinheiro,Match Report,,20,P1
+4.0,Sat,2019-08-31,21:30,Gil Vicente FC,1.4,0–0,0.4,Vitória Setúbal,3200.0,Estádio Cidade de Barcelos,Hélder Malheiro,Match Report,,20,P1
+4.0,Sun,2019-09-01,16:00,Tondela,3.0,0–0,1.3,Santa Clara,2122.0,Estádio João Cardoso,Manuel Mota,Match Report,,20,P1
+4.0,Sun,2019-09-01,18:30,Porto,2.6,3–0,0.8,Vitória,47711.0,Estádio Do Dragão,Carlos Xistra,Match Report,,20,P1
+4.0,Sun,2019-09-01,21:00,Braga,1.1,0–4,1.7,Benfica,15499.0,Estádio Municipal de Braga,Nuno Almeida,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+1.0,Sun,2019-09-08,15:00,Rio Ave,0.7,1–1,1.8,Vitória,2713.0,Estádio do Rio Ave Futebol Clube,Hugo Miguel,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+5.0,Fri,2019-09-13,20:30,Vitória Setúbal,1.4,1–0,1.2,Braga,3527.0,Estádio do Bonfim,Artur Soares Dias,Match Report,,20,P1
+5.0,Sat,2019-09-14,16:30,Famalicão,1.5,4–2,2.1,Paços,4855.0,Estádio Municipal 22 de Junho,António Nobre,Match Report,,20,P1
+5.0,Sat,2019-09-14,19:00,Benfica,1.7,2–0,0.8,Gil Vicente FC,54706.0,Estádio do Sport Lisboa e Benfica,João Pinheiro,Match Report,,20,P1
+5.0,Sat,2019-09-14,21:30,Vitória,2.2,5–1,1.4,Aves,14529.0,Estádio Dom Afonso Henriques,Nuno Almeida,Match Report,,20,P1
+5.0,Sun,2019-09-15,15:00,Santa Clara,2.0,2–0,0.6,Moreirense,2248.0,Estádio de São Miguel,Hélder Malheiro,Match Report,,20,P1
+5.0,Sun,2019-09-15,16:00,Rio Ave,3.0,2–4,0.7,Tondela,2103.0,Estádio do Rio Ave Futebol Clube,Rui Oliveira,Match Report,,20,P1
+5.0,Sun,2019-09-15,16:00,Marítimo,0.7,1–3,1.5,B-SAD,5551.0,Estádio dos Barreiros,João Bento,Match Report,,20,P1
+5.0,Sun,2019-09-15,18:00,Portimonense,0.7,2–3,3.2,Porto,5499.0,Estádio do Portimonense SC,Rui Costa,Match Report,,20,P1
+5.0,Sun,2019-09-15,20:00,Boavista,0.4,1–1,0.9,Sporting CP,12314.0,Estádio do Bessa Século XXI,Jorge de Sousa,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+6.0,Fri,2019-09-20,20:30,Paços,1.6,2–1,0.3,Aves,2239.0,Estádio da Capital do Móvel,Cláudio Ruivo Pereira,Match Report,,20,P1
+6.0,Sat,2019-09-21,18:00,B-SAD,0.9,0–2,2.0,Rio Ave,821.0,Estádio Nacional,André Narciso,Match Report,,20,P1
+6.0,Sat,2019-09-21,20:30,Moreirense,0.7,1–2,2.0,Benfica,4220.0,P.D. Comendador Joaquim de Almeida Freit...,Artur Soares Dias,Match Report,,20,P1
+6.0,Sun,2019-09-22,15:30,Gil Vicente FC,0.7,0–0,0.3,Boavista,3885.0,Estádio Cidade de Barcelos,Fábio Costa,Match Report,,20,P1
+6.0,Sun,2019-09-22,18:00,Tondela,0.4,1–3,2.5,Vitória,3178.0,Estádio João Cardoso,Hélder Malheiro,Match Report,,20,P1
+6.0,Sun,2019-09-22,18:00,Vitória Setúbal,0.4,0–0,0.4,Portimonense,4833.0,Estádio do Bonfim,João Pinheiro,Match Report,,20,P1
+6.0,Sun,2019-09-22,20:30,Porto,1.3,2–0,0.2,Santa Clara,36120.0,Estádio Do Dragão,Luís Godinho,Match Report,,20,P1
+6.0,Mon,2019-09-23,19:00,Braga,2.6,2–2,1.7,Marítimo,8184.0,Estádio Municipal de Braga,Manuel Oliveira,Match Report,,20,P1
+6.0,Mon,2019-09-23,21:00,Sporting CP,1.3,1–2,1.5,Famalicão,28576.0,Estádio José Alvalade,Hugo Miguel,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+7.0,Fri,2019-09-27,20:30,Boavista,0.6,0–0,0.2,Tondela,14225.0,Estádio do Bessa Século XXI,Vitor Ferreira Fernandes,Match Report,,20,P1
+7.0,Sat,2019-09-28,16:30,Marítimo,1.3,2–1,1.2,Moreirense,5380.0,Estádio dos Barreiros,Rui Costa,Match Report,,20,P1
+7.0,Sat,2019-09-28,19:00,Benfica,1.2,1–0,0.5,Vitória Setúbal,53115.0,Estádio do Sport Lisboa e Benfica,Tiago Martins,Match Report,,20,P1
+7.0,Sat,2019-09-28,21:30,Famalicão,1.4,3–1,1.2,B-SAD,4873.0,Estádio Municipal 22 de Junho,Iancu Vasilica,Match Report,,20,P1
+7.0,Sun,2019-09-29,15:00,Santa Clara,2.6,1–0,0.3,Gil Vicente FC,1973.0,Estádio de São Miguel,João Bento,Match Report,,20,P1
+7.0,Sun,2019-09-29,16:00,Vitória,2.0,1–0,0.3,Paços,18154.0,Estádio Dom Afonso Henriques,André Narciso,Match Report,,20,P1
+7.0,Sun,2019-09-29,18:00,Portimonense,0.7,0–1,0.5,Braga,3430.0,Estádio do Portimonense SC,Hugo Miguel,Match Report,,20,P1
+7.0,Sun,2019-09-29,20:00,Rio Ave,0.5,0–1,1.3,Porto,4411.0,Estádio do Rio Ave Futebol Clube,Nuno Almeida,Match Report,,20,P1
+7.0,Mon,2019-09-30,20:15,Aves,0.3,0–1,1.4,Sporting CP,2850.0,Estádio Clube Desportivo das Aves,Carlos Xistra,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+9.0,Sat,2019-10-05,15:30,Aves,0.5,0–1,1.0,Tondela,1336.0,Estádio Clube Desportivo das Aves,João Pinheiro,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+8.0,Fri,2019-10-25,20:30,Paços,1.2,0–0,0.6,Rio Ave,2095.0,Estádio da Capital do Móvel,Tiago Martins,Match Report,,20,P1
+8.0,Sat,2019-10-26,15:30,Gil Vicente FC,1.6,1–1,0.9,Portimonense,2628.0,Estádio Cidade de Barcelos,Gustavo Correia,Match Report,,20,P1
+8.0,Sat,2019-10-26,15:30,B-SAD,2.1,3–2,1.5,Aves,2109.0,Estádio Nacional,Cláudio Ruivo Pereira,Match Report,,20,P1
+8.0,Sat,2019-10-26,18:00,Vitória Setúbal,0.8,0–0,0.5,Marítimo,4466.0,Estádio do Bonfim,Vitor Ferreira Fernandes,Match Report,,20,P1
+8.0,Sat,2019-10-26,20:30,Moreirense,1.2,1–1,1.6,Boavista,2060.0,P.D. Comendador Joaquim de Almeida Freit...,Hélder Malheiro,Match Report,,20,P1
+8.0,Sun,2019-10-27,15:00,Tondela,0.6,0–1,0.5,Benfica,4705.0,Estádio João Cardoso,Hugo Miguel,Match Report,,20,P1
+8.0,Sun,2019-10-27,17:30,Porto,2.2,3–0,0.2,Famalicão,47807.0,Estádio Do Dragão,Fábio Costa,Match Report,,20,P1
+8.0,Sun,2019-10-27,20:00,Sporting CP,2.4,3–1,2.0,Vitória,28135.0,Estádio José Alvalade,Artur Soares Dias,Match Report,,20,P1
+8.0,Mon,2019-10-28,20:15,Braga,3.5,2–0,0.5,Santa Clara,6785.0,Estádio Municipal de Braga,Rui Costa,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+9.0,Wed,2019-10-30,17:00,Rio Ave,2.2,1–1,0.5,Moreirense,1387.0,Estádio do Rio Ave Futebol Clube,António Nobre,Match Report,,20,P1
+9.0,Wed,2019-10-30,18:45,Marítimo,0.3,1–1,1.3,Porto,9381.0,Estádio dos Barreiros,Jorge de Sousa,Match Report,,20,P1
+9.0,Wed,2019-10-30,20:00,Vitória,2.4,5–0,1.1,B-SAD,11346.0,Estádio Dom Afonso Henriques,Rui Oliveira,Match Report,,20,P1
+9.0,Wed,2019-10-30,20:15,Benfica,3.4,4–0,0.7,Portimonense,42037.0,Estádio do Sport Lisboa e Benfica,Manuel Mota,Match Report,,20,P1
+9.0,Wed,2019-10-30,21:00,Famalicão,2.2,2–1,1.3,Gil Vicente FC,3375.0,Estádio Municipal 22 de Junho,Cláudio Ruivo Pereira,Match Report,,20,P1
+9.0,Thu,2019-10-31,19:15,Santa Clara,2.0,1–1,1.2,Vitória Setúbal,1632.0,Estádio de São Miguel,Iancu Vasilica,Match Report,,20,P1
+9.0,Thu,2019-10-31,19:45,Paços,0.9,1–2,1.8,Sporting CP,2901.0,Estádio da Capital do Móvel,Rui Costa,Match Report,,20,P1
+9.0,Thu,2019-10-31,20:15,Boavista,2.4,2–0,1.3,Braga,8452.0,Estádio do Bessa Século XXI,Tiago Martins,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+10.0,Sat,2019-11-02,18:00,Benfica,1.7,2–0,0.5,Rio Ave,53579.0,Estádio do Sport Lisboa e Benfica,Carlos Xistra,Match Report,,20,P1
+10.0,Sat,2019-11-02,20:30,Moreirense,1.1,1–1,2.0,Vitória,3369.0,P.D. Comendador Joaquim de Almeida Freit...,João Pinheiro,Match Report,,20,P1
+10.0,Sun,2019-11-03,15:00,Gil Vicente FC,2.1,2–0,0.7,Marítimo,2479.0,Estádio Cidade de Barcelos,Tiago Martins,Match Report,,20,P1
+10.0,Sun,2019-11-03,17:30,Tondela,0.2,1–0,1.1,Sporting CP,4096.0,Estádio João Cardoso,Fábio Costa,Match Report,,20,P1
+10.0,Sun,2019-11-03,20:00,Porto,1.1,1–0,0.3,Aves,29205.0,Estádio Do Dragão,Hélder Malheiro,Match Report,,20,P1
+10.0,Sun,2019-11-03,20:15,Braga,2.8,2–2,1.1,Famalicão,9285.0,Estádio Municipal de Braga,Jorge de Sousa,Match Report,,20,P1
+10.0,Mon,2019-11-04,19:00,B-SAD,0.8,1–0,1.0,Paços,1070.0,Estádio Nacional,João Bento,Match Report,,20,P1
+10.0,Mon,2019-11-04,21:00,Portimonense,1.4,1–1,2.4,Santa Clara,2266.0,Estádio do Portimonense SC,Manuel Oliveira,Match Report,,20,P1
+10.0,Mon,2019-11-04,21:00,Vitória Setúbal,0.5,1–0,1.4,Boavista,2681.0,Estádio do Bonfim,Artur Soares Dias,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+11.0,Fri,2019-11-08,20:30,Aves,0.8,1–2,0.4,Gil Vicente FC,1281.0,Estádio Clube Desportivo das Aves,Rui Costa,Match Report,,20,P1
+11.0,Sat,2019-11-09,15:30,Rio Ave,1.7,1–0,0.4,Vitória Setúbal,1740.0,Estádio do Rio Ave Futebol Clube,João Pinheiro,Match Report,,20,P1
+11.0,Sat,2019-11-09,17:00,Santa Clara,1.5,1–2,1.7,Benfica,8309.0,Estádio de São Miguel,Artur Soares Dias,Match Report,,20,P1
+11.0,Sat,2019-11-09,20:30,Famalicão,2.9,3–3,1.8,Moreirense,3912.0,Estádio Municipal 22 de Junho,Tiago Martins,Match Report,,20,P1
+11.0,Sun,2019-11-10,15:00,Paços,0.4,1–0,1.4,Tondela,2041.0,Estádio da Capital do Móvel,António Nobre,Match Report,,20,P1
+11.0,Sun,2019-11-10,15:00,Marítimo,0.8,1–1,0.8,Portimonense,4816.0,Estádio dos Barreiros,André Narciso,Match Report,,20,P1
+11.0,Sun,2019-11-10,18:30,Sporting CP,1.5,2–0,0.3,B-SAD,27102.0,Estádio José Alvalade,Manuel Oliveira,Match Report,,20,P1
+11.0,Sun,2019-11-10,20:00,Vitória,0.6,0–2,1.3,Braga,24429.0,Estádio Dom Afonso Henriques,Hugo Miguel,Match Report,,20,P1
+11.0,Sun,2019-11-10,21:00,Boavista,0.8,0–1,0.6,Porto,16514.0,Estádio do Bessa Século XXI,Nuno Almeida,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+12.0,Fri,2019-11-29,19:30,Santa Clara,1.6,1–2,2.5,Boavista,2022.0,Estádio de São Miguel,Rui Oliveira,Match Report,,20,P1
+12.0,Sat,2019-11-30,15:30,Moreirense,2.3,3–2,2.4,Aves,1869.0,P.D. Comendador Joaquim de Almeida Freit...,Manuel Mota,Match Report,,20,P1
+12.0,Sat,2019-11-30,18:00,Benfica,3.0,4–0,0.6,Marítimo,52772.0,Estádio do Sport Lisboa e Benfica,Fábio Veríssimo,Match Report,,20,P1
+12.0,Sat,2019-11-30,20:30,Portimonense,2.1,2–1,2.0,Famalicão,2714.0,Estádio do Portimonense SC,Iancu Vasilica,Match Report,,20,P1
+12.0,Sun,2019-12-01,15:00,Tondela,1.5,0–1,1.3,B-SAD,1413.0,Estádio João Cardoso,Rui Costa,Match Report,,20,P1
+12.0,Sun,2019-12-01,17:30,Vitória Setúbal,1.6,1–1,1.5,Vitória,3648.0,Estádio do Bonfim,Manuel Oliveira,Match Report,,20,P1
+12.0,Sun,2019-12-01,20:00,Gil Vicente FC,2.1,3–1,1.2,Sporting CP,7009.0,Estádio Cidade de Barcelos,Hugo Miguel,Match Report,,20,P1
+12.0,Mon,2019-12-02,18:45,Braga,1.3,2–0,1.3,Rio Ave,7274.0,Estádio Municipal de Braga,Nuno Almeida,Match Report,,20,P1
+12.0,Mon,2019-12-02,20:45,Porto,0.6,2–0,0.2,Paços,26215.0,Estádio Do Dragão,Tiago Martins,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+13.0,Fri,2019-12-06,20:30,Boavista,0.7,1–4,1.5,Benfica,18044.0,Estádio do Bessa Século XXI,Jorge de Sousa,Match Report,,20,P1
+13.0,Sat,2019-12-07,15:00,Marítimo,1.3,2–2,0.6,Santa Clara,3757.0,Estádio dos Barreiros,André Narciso,Match Report,,20,P1
+13.0,Sat,2019-12-07,18:00,Famalicão,2.7,2–3,2.2,Tondela,4021.0,Estádio Municipal 22 de Junho,João Bento,Match Report,,20,P1
+13.0,Sat,2019-12-07,20:30,Aves,0.3,1–0,1.3,Braga,1632.0,Estádio Clube Desportivo das Aves,Rui Costa,Match Report,,20,P1
+13.0,Sun,2019-12-08,15:00,Paços,1.0,2–3,1.4,Vitória Setúbal,1757.0,Estádio da Capital do Móvel,António Nobre,Match Report,,20,P1
+13.0,Sun,2019-12-08,15:00,Vitória,1.5,2–0,1.5,Portimonense,14913.0,Estádio Dom Afonso Henriques,Nuno Almeida,Match Report,,20,P1
+13.0,Sun,2019-12-08,17:30,Sporting CP,2.4,1–0,0.5,Moreirense,26093.0,Estádio José Alvalade,Artur Soares Dias,Match Report,,20,P1
+13.0,Sun,2019-12-08,20:00,B-SAD,0.7,1–1,2.1,Porto,5153.0,Estádio Nacional,João Pinheiro,Match Report,,20,P1
+13.0,Mon,2019-12-09,20:15,Rio Ave,1.4,1–0,0.4,Gil Vicente FC,2350.0,Estádio do Rio Ave Futebol Clube,Manuel Oliveira,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+14.0,Fri,2019-12-13,20:30,Portimonense,1.9,1–1,0.6,Rio Ave,1973.0,Estádio do Portimonense SC,Artur Soares Dias,Match Report,,20,P1
+14.0,Sat,2019-12-14,15:30,Marítimo,1.6,1–0,0.5,Boavista,4670.0,Estádio dos Barreiros,João Pinheiro,Match Report,,20,P1
+14.0,Sat,2019-12-14,18:00,Benfica,2.0,4–0,0.3,Famalicão,51721.0,Estádio do Sport Lisboa e Benfica,Rui Costa,Match Report,,20,P1
+14.0,Sat,2019-12-14,20:30,Vitória Setúbal,1.4,1–0,1.7,Aves,3535.0,Estádio do Bonfim,Vitor Ferreira Fernandes,Match Report,,20,P1
+14.0,Sun,2019-12-15,15:00,Moreirense,2.1,2–1,0.8,B-SAD,943.0,P.D. Comendador Joaquim de Almeida Freit...,Gustavo Correia,Match Report,,20,P1
+14.0,Sun,2019-12-15,17:30,Gil Vicente FC,1.8,2–2,1.6,Vitória,4154.0,Estádio Cidade de Barcelos,Carlos Xistra,Match Report,,20,P1
+14.0,Sun,2019-12-15,20:00,Braga,2.4,0–1,0.8,Paços,5909.0,Estádio Municipal de Braga,Fábio Veríssimo,Match Report,,20,P1
+14.0,Mon,2019-12-16,18:00,Santa Clara,0.7,0–4,3.4,Sporting CP,5282.0,Estádio de São Miguel,Manuel Mota,Match Report,,20,P1
+14.0,Mon,2019-12-16,20:15,Porto,2.0,3–0,0.1,Tondela,19829.0,Estádio Do Dragão,Manuel Oliveira,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+15.0,Sat,2020-01-04,15:30,Boavista,0.7,1–1,0.7,Portimonense,9366.0,Estádio do Bessa Século XXI,Manuel Mota,Match Report,,20,P1
+15.0,Sat,2020-01-04,15:30,Aves,1.0,0–1,1.3,Santa Clara,1257.0,Estádio Clube Desportivo das Aves,Iancu Vasilica,Match Report,,20,P1
+15.0,Sat,2020-01-04,18:00,B-SAD,0.4,1–7,5.1,Braga,3190.0,Estádio Nacional,Tiago Martins,Match Report,,20,P1
+15.0,Sat,2020-01-04,20:30,Vitória,0.9,0–1,0.6,Benfica,27291.0,Estádio Dom Afonso Henriques,Nuno Almeida,Match Report,,20,P1
+15.0,Sun,2020-01-05,15:00,Tondela,1.5,1–1,1.0,Gil Vicente FC,1802.0,Estádio João Cardoso,António Nobre,Match Report,,20,P1
+15.0,Sun,2020-01-05,15:00,Paços,0.7,1–0,0.4,Moreirense,2612.0,Estádio da Capital do Móvel,Hélder Malheiro,Match Report,,20,P1
+15.0,Sun,2020-01-05,15:00,Rio Ave,1.0,0–1,1.6,Marítimo,2168.0,Estádio do Rio Ave Futebol Clube,Manuel Oliveira,Match Report,,20,P1
+15.0,Sun,2020-01-05,17:30,Sporting CP,1.4,1–2,1.6,Porto,41247.0,Estádio José Alvalade,Jorge de Sousa,Match Report,,20,P1
+15.0,Sun,2020-01-05,20:00,Famalicão,2.8,3–0,0.3,Vitória Setúbal,3845.0,Estádio Municipal 22 de Junho,Artur Soares Dias,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+16.0,Fri,2020-01-10,18:00,Santa Clara,0.7,0–1,0.7,Rio Ave,1663.0,Estádio de São Miguel,João Pinheiro,Match Report,,20,P1
+16.0,Fri,2020-01-10,19:00,Benfica,5.1,2–1,0.9,Aves,50760.0,Estádio do Sport Lisboa e Benfica,Carlos Xistra,Match Report,,20,P1
+16.0,Fri,2020-01-10,21:15,Moreirense,0.5,2–4,2.8,Porto,3525.0,P.D. Comendador Joaquim de Almeida Freit...,Artur Soares Dias,Match Report,,20,P1
+16.0,Sat,2020-01-11,15:30,Portimonense,0.8,0–0,0.4,Paços,2452.0,Estádio do Portimonense SC,Hugo Miguel,Match Report,,20,P1
+16.0,Sat,2020-01-11,18:00,Boavista,1.6,0–1,1.4,Famalicão,13186.0,Estádio do Bessa Século XXI,Rui Costa,Match Report,,20,P1
+16.0,Sat,2020-01-11,20:30,Vitória Setúbal,0.7,1–3,1.7,Sporting CP,5761.0,Estádio do Bonfim,Tiago Martins,Match Report,,20,P1
+16.0,Sun,2020-01-12,15:00,Gil Vicente FC,1.9,2–0,0.5,B-SAD,3770.0,Estádio Cidade de Barcelos,Rui Oliveira,Match Report,,20,P1
+16.0,Sun,2020-01-12,17:30,Marítimo,0.3,0–0,1.9,Vitória,6320.0,Estádio dos Barreiros,Luís Godinho,Match Report,,20,P1
+16.0,Sun,2020-01-12,20:00,Braga,2.6,2–1,0.9,Tondela,9002.0,Estádio Municipal de Braga,Jorge de Sousa,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+17.0,Fri,2020-01-17,19:00,Porto,3.0,1–2,0.2,Braga,35611.0,Estádio Do Dragão,Carlos Xistra,Match Report,,20,P1
+17.0,Fri,2020-01-17,21:15,Sporting CP,1.0,0–2,1.6,Benfica,41017.0,Estádio José Alvalade,Hugo Miguel,Match Report,,20,P1
+17.0,Sat,2020-01-18,15:30,Aves,1.7,3–0,0.6,Portimonense,1778.0,Estádio Clube Desportivo das Aves,Jorge de Sousa,Match Report,,20,P1
+17.0,Sat,2020-01-18,15:30,Vitória,2.4,1–0,0.7,Santa Clara,12813.0,Estádio Dom Afonso Henriques,Manuel Oliveira,Match Report,,20,P1
+17.0,Sat,2020-01-18,18:00,Tondela,2.3,1–1,0.8,Moreirense,1681.0,Estádio João Cardoso,Vitor Ferreira Fernandes,Match Report,,20,P1
+17.0,Sat,2020-01-18,20:30,B-SAD,1.2,0–1,0.4,Vitória Setúbal,2012.0,Estádio Nacional,Cláudio Ruivo Pereira,Match Report,,20,P1
+17.0,Sun,2020-01-19,15:00,Paços,0.8,0–0,0.9,Gil Vicente FC,3711.0,Estádio da Capital do Móvel,Manuel Mota,Match Report,,20,P1
+17.0,Sun,2020-01-19,17:30,Famalicão,1.8,1–1,0.3,Marítimo,4687.0,Estádio Municipal 22 de Junho,Rui Oliveira,Match Report,,20,P1
+17.0,Sun,2020-01-19,20:00,Rio Ave,0.9,2–0,0.3,Boavista,2830.0,Estádio do Rio Ave Futebol Clube,Luís Godinho,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+18.0,Sun,2020-01-26,15:00,Tondela,1.8,0–3,0.9,Vitória Setúbal,1744.0,Estádio João Cardoso,Iancu Vasilica,Match Report,,20,P1
+18.0,Sun,2020-01-26,15:00,B-SAD,1.0,2–1,1.1,Portimonense,3280.0,Estádio Nacional,Carlos Xistra,Match Report,,20,P1
+18.0,Sun,2020-01-26,15:00,Famalicão,0.9,0–1,1.4,Santa Clara,4213.0,Estádio Municipal 22 de Junho,Nuno Almeida,Match Report,,20,P1
+18.0,Sun,2020-01-26,17:30,Paços,0.5,0–2,2.5,Benfica,9146.0,Estádio da Capital do Móvel,Manuel Oliveira,Match Report,,20,P1
+18.0,Sun,2020-01-26,20:00,Aves,0.2,0–1,0.5,Boavista,1526.0,Estádio Clube Desportivo das Aves,Hugo Miguel,Match Report,,20,P1
+18.0,Mon,2020-01-27,18:45,Vitória,1.3,1–2,1.1,Rio Ave,9845.0,Estádio Dom Afonso Henriques,Hélder Malheiro,Match Report,,20,P1
+18.0,Mon,2020-01-27,21:00,Sporting CP,1.0,1–0,0.4,Marítimo,12798.0,Estádio José Alvalade,Rui Costa,Match Report,,20,P1
+18.0,Tue,2020-01-28,20:15,Porto,1.2,2–1,1.0,Gil Vicente FC,18605.0,Estádio Do Dragão,Rui Oliveira,Match Report,,20,P1
+18.0,Wed,2020-01-29,20:15,Moreirense,1.0,1–2,1.4,Braga,1711.0,P.D. Comendador Joaquim de Almeida Freit...,Manuel Mota,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+19.0,Fri,2020-01-31,19:00,Benfica,1.7,3–2,1.7,B-SAD,45134.0,Estádio do Sport Lisboa e Benfica,Nuno Almeida,Match Report,,20,P1
+19.0,Fri,2020-01-31,21:15,Rio Ave,0.7,2–2,2.0,Famalicão,2337.0,Estádio do Rio Ave Futebol Clube,Artur Soares Dias,Match Report,,20,P1
+19.0,Sat,2020-02-01,15:30,Portimonense,0.5,0–1,1.1,Tondela,2241.0,Estádio do Portimonense SC,João Pinheiro,Match Report,,20,P1
+19.0,Sat,2020-02-01,18:00,Vitória Setúbal,0.3,0–4,1.7,Porto,7390.0,Estádio do Bonfim,Manuel Mota,Match Report,,20,P1
+19.0,Sun,2020-02-02,15:00,Gil Vicente FC,0.9,1–5,1.7,Moreirense,4880.0,Estádio Cidade de Barcelos,Tiago Martins,Match Report,,20,P1
+19.0,Sun,2020-02-02,15:00,Marítimo,1.1,1–2,0.7,Aves,5775.0,Estádio dos Barreiros,Vitor Ferreira Fernandes,Match Report,,20,P1
+19.0,Sun,2020-02-02,16:30,Santa Clara,2.5,2–1,1.0,Paços,1001.0,Estádio de São Miguel,João Bento,Match Report,,20,P1
+19.0,Sun,2020-02-02,17:30,Braga,1.3,1–0,0.9,Sporting CP,18379.0,Estádio Municipal de Braga,Jorge de Sousa,Match Report,,20,P1
+19.0,Sun,2020-02-02,20:00,Boavista,0.8,2–0,1.6,Vitória,14090.0,Estádio do Bessa Século XXI,Carlos Xistra,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+20.0,Fri,2020-02-07,20:30,Paços,1.3,0–1,1.5,Boavista,3105.0,Estádio da Capital do Móvel,Luís Godinho,Match Report,,20,P1
+20.0,Sat,2020-02-08,15:30,B-SAD,1.0,0–2,1.1,Santa Clara,2308.0,Estádio Nacional,Hélder Malheiro,Match Report,,20,P1
+20.0,Sat,2020-02-08,15:30,Famalicão,0.2,0–7,3.7,Vitória,4296.0,Estádio Municipal 22 de Junho,Fábio Veríssimo,Match Report,,20,P1
+20.0,Sat,2020-02-08,18:00,Braga,0.7,2–2,1.9,Gil Vicente FC,13633.0,Estádio Municipal de Braga,Rui Costa,Match Report,,20,P1
+20.0,Sat,2020-02-08,20:30,Porto,2.4,3–2,1.7,Benfica,49227.0,Estádio Do Dragão,Artur Soares Dias,Match Report,,20,P1
+20.0,Sun,2020-02-09,15:00,Tondela,0.8,0–0,0.4,Marítimo,1574.0,Estádio João Cardoso,André Narciso,Match Report,,20,P1
+20.0,Sun,2020-02-09,15:00,Moreirense,3.0,1–1,0.7,Vitória Setúbal,2100.0,P.D. Comendador Joaquim de Almeida Freit...,Nuno Almeida,Match Report,,20,P1
+20.0,Sun,2020-02-09,17:30,Sporting CP,1.5,2–1,0.5,Portimonense,28763.0,Estádio José Alvalade,Hugo Miguel,Match Report,,20,P1
+20.0,Sun,2020-02-09,20:00,Aves,0.6,0–4,2.7,Rio Ave,1289.0,Estádio Clube Desportivo das Aves,Manuel Oliveira,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+21.0,Fri,2020-02-14,20:30,Vitória Setúbal,0.8,1–2,0.7,Gil Vicente FC,2979.0,Estádio do Bonfim,Gustavo Correia,Match Report,,20,P1
+21.0,Sat,2020-02-15,14:30,Santa Clara,2.4,1–0,0.2,Tondela,2215.0,Estádio de São Miguel,Jorge de Sousa,Match Report,,20,P1
+21.0,Sat,2020-02-15,15:30,Portimonense,1.6,1–1,1.2,Moreirense,2493.0,Estádio do Portimonense SC,André Narciso,Match Report,,20,P1
+21.0,Sat,2020-02-15,18:00,Benfica,1.7,0–1,1.2,Braga,59371.0,Estádio do Sport Lisboa e Benfica,Hugo Miguel,Match Report,,20,P1
+21.0,Sat,2020-02-15,20:30,Rio Ave,1.5,1–1,1.1,Sporting CP,4434.0,Estádio do Rio Ave Futebol Clube,Fábio Veríssimo,Match Report,,20,P1
+21.0,Sun,2020-02-16,15:00,Boavista,1.3,1–2,1.7,B-SAD,16900.0,Estádio do Bessa Século XXI,Vitor Ferreira Fernandes,Match Report,,20,P1
+21.0,Sun,2020-02-16,15:00,Marítimo,1.0,3–0,1.0,Paços,5390.0,Estádio dos Barreiros,Manuel Mota,Match Report,,20,P1
+21.0,Sun,2020-02-16,17:30,Vitória,1.5,1–2,1.2,Porto,23896.0,Estádio Dom Afonso Henriques,Luís Godinho,Match Report,,20,P1
+21.0,Sun,2020-02-16,20:00,Famalicão,2.0,1–1,1.5,Aves,2926.0,Estádio Municipal 22 de Junho,Artur Soares Dias,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+22.0,Fri,2020-02-21,20:30,Aves,1.2,0–2,1.4,Vitória,3818.0,Estádio Clube Desportivo das Aves,Rui Costa,Match Report,,20,P1
+22.0,Sat,2020-02-22,18:00,Tondela,1.0,1–2,1.6,Rio Ave,1859.0,Estádio João Cardoso,Manuel Mota,Match Report,,20,P1
+22.0,Sat,2020-02-22,20:30,B-SAD,0.8,1–0,1.2,Marítimo,1955.0,Estádio Nacional,Artur Soares Dias,Match Report,,20,P1
+22.0,Sun,2020-02-23,15:00,Paços,0.5,2–1,1.7,Famalicão,3445.0,Estádio da Capital do Móvel,António Nobre,Match Report,,20,P1
+22.0,Sun,2020-02-23,15:00,Moreirense,1.3,2–1,1.2,Santa Clara,2148.0,P.D. Comendador Joaquim de Almeida Freit...,Iancu Vasilica,Match Report,,20,P1
+22.0,Sun,2020-02-23,17:30,Sporting CP,1.8,2–0,1.0,Boavista,29171.0,Estádio José Alvalade,Nuno Almeida,Match Report,,20,P1
+22.0,Sun,2020-02-23,20:00,Braga,3.1,3–1,0.8,Vitória Setúbal,11185.0,Estádio Municipal de Braga,Hélder Malheiro,Match Report,,20,P1
+22.0,Sun,2020-02-23,20:30,Porto,2.0,1–0,1.3,Portimonense,40129.0,Estádio Do Dragão,Hugo Miguel,Match Report,,20,P1
+22.0,Mon,2020-02-24,19:30,Gil Vicente FC,1.2,0–1,1.2,Benfica,11986.0,Estádio Cidade de Barcelos,Luís Godinho,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+23.0,Fri,2020-02-28,20:30,Portimonense,0.8,0–0,1.5,Vitória Setúbal,2522.0,Estádio do Portimonense SC,Manuel Mota,Match Report,,20,P1
+23.0,Sat,2020-02-29,18:00,Rio Ave,1.1,0–0,0.2,B-SAD,2289.0,Estádio do Rio Ave Futebol Clube,Jorge de Sousa,Match Report,,20,P1
+23.0,Sat,2020-02-29,20:30,Boavista,1.1,0–1,1.4,Gil Vicente FC,9558.0,Estádio do Bessa Século XXI,Hélder Malheiro,Match Report,,20,P1
+23.0,Sun,2020-03-01,15:00,Aves,0.7,1–3,1.5,Paços,1779.0,Estádio Clube Desportivo das Aves,João Pinheiro,Match Report,,20,P1
+23.0,Sun,2020-03-01,17:30,Marítimo,1.7,1–2,2.5,Braga,6530.0,Estádio dos Barreiros,Tiago Martins,Match Report,,20,P1
+23.0,Sun,2020-03-01,20:00,Vitória,1.0,2–0,1.0,Tondela,12711.0,Estádio Dom Afonso Henriques,Manuel Oliveira,Match Report,,20,P1
+23.0,Mon,2020-03-02,18:30,Santa Clara,0.5,0–2,1.8,Porto,6271.0,Estádio de São Miguel,Carlos Xistra,Match Report,,20,P1
+23.0,Mon,2020-03-02,20:45,Benfica,3.4,1–1,2.0,Moreirense,40861.0,Estádio do Sport Lisboa e Benfica,Fábio Veríssimo,Match Report,,20,P1
+23.0,Tue,2020-03-03,20:00,Famalicão,0.9,3–1,1.3,Sporting CP,3824.0,Estádio Municipal 22 de Junho,Luís Godinho,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+24.0,Fri,2020-03-06,20:30,Braga,3.9,3–1,1.0,Portimonense,8684.0,Estádio Municipal de Braga,Fábio Veríssimo,Match Report,,20,P1
+24.0,Sat,2020-03-07,15:30,Tondela,1.3,1–1,0.9,Boavista,1701.0,Estádio João Cardoso,Gustavo Correia,Match Report,,20,P1
+24.0,Sat,2020-03-07,18:00,Vitória Setúbal,0.6,1–1,2.2,Benfica,9152.0,Estádio do Bonfim,João Pinheiro,Match Report,,20,P1
+24.0,Sat,2020-03-07,20:30,Porto,1.3,1–1,1.2,Rio Ave,38219.0,Estádio Do Dragão,Artur Soares Dias,Match Report,,20,P1
+24.0,Sun,2020-03-08,15:00,Moreirense,1.9,2–0,0.8,Marítimo,1580.0,P.D. Comendador Joaquim de Almeida Freit...,João Bento,Match Report,,20,P1
+24.0,Sun,2020-03-08,15:00,B-SAD,1.2,0–0,0.8,Famalicão,2308.0,Estádio Nacional,André Narciso,Match Report,,20,P1
+24.0,Sun,2020-03-08,17:00,Gil Vicente FC,0.5,1–1,0.2,Santa Clara,4118.0,Estádio Cidade de Barcelos,Nuno Almeida,Match Report,,20,P1
+24.0,Sun,2020-03-08,17:30,Sporting CP,2.3,2–0,0.1,Aves,26272.0,Estádio José Alvalade,Manuel Oliveira,Match Report,,20,P1
+24.0,Sun,2020-03-08,20:00,Paços,1.0,1–2,1.2,Vitória,4105.0,Estádio da Capital do Móvel,Vitor Ferreira Fernandes,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+25.0,Wed,2020-06-03,19:00,Portimonense,0.2,1–0,0.3,Gil Vicente FC,,Estádio do Portimonense SC,Hugo Miguel,Match Report,,20,P1
+25.0,Wed,2020-06-03,21:15,Famalicão,1.1,2–1,2.1,Porto,,Estádio Municipal 22 de Junho,Nuno Almeida,Match Report,,20,P1
+25.0,Thu,2020-06-04,18:00,Marítimo,2.0,1–1,1.4,Vitória Setúbal,,Estádio dos Barreiros,Manuel Oliveira,Match Report,,20,P1
+25.0,Thu,2020-06-04,19:15,Benfica,2.0,0–0,0.2,Tondela,,Estádio do Sport Lisboa e Benfica,Manuel Mota,Match Report,,20,P1
+25.0,Thu,2020-06-04,21:15,Vitória,1.5,2–2,2.1,Sporting CP,,Estádio Dom Afonso Henriques,Carlos Xistra,Match Report,,20,P1
+25.0,Fri,2020-06-05,18:00,Santa Clara,2.5,3–2,1.5,Braga,,Estádio de São Miguel,Artur Soares Dias,Match Report,,20,P1
+25.0,Fri,2020-06-05,21:15,Aves,0.5,0–2,0.8,B-SAD,,Estádio Clube Desportivo das Aves,João Pinheiro,Match Report,,20,P1
+25.0,Sat,2020-06-06,21:15,Boavista,2.4,0–1,0.6,Moreirense,,Estádio do Bessa Século XXI,Vitor Ferreira Fernandes,Match Report,,20,P1
+25.0,Sun,2020-06-07,21:00,Rio Ave,3.0,2–3,1.1,Paços,,Estádio do Rio Ave Futebol Clube,Tiago Martins,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+26.0,Tue,2020-06-09,21:00,Gil Vicente FC,0.2,1–3,1.4,Famalicão,,Estádio Cidade de Barcelos,Hélder Malheiro,Match Report,,20,P1
+26.0,Wed,2020-06-10,17:00,Vitória Setúbal,0.8,2–2,1.4,Santa Clara,,Estádio do Bonfim,Cláudio Ruivo Pereira,Match Report,,20,P1
+26.0,Wed,2020-06-10,19:15,Portimonense,0.8,2–2,1.1,Benfica,,Estádio do Portimonense SC,Carlos Xistra,Match Report,,20,P1
+26.0,Wed,2020-06-10,21:30,Porto,1.1,1–0,1.1,Marítimo,,Estádio Do Dragão,Tiago Martins,Match Report,,20,P1
+26.0,Thu,2020-06-11,19:00,B-SAD,0.4,1–1,0.9,Vitória,,Estádio Nacional,Iancu Vasilica,Match Report,,20,P1
+26.0,Thu,2020-06-11,21:15,Tondela,0.6,2–0,0.8,Aves,,Estádio João Cardoso,Rui Oliveira,Match Report,,20,P1
+26.0,Fri,2020-06-12,19:00,Moreirense,0.8,0–1,1.4,Rio Ave,,P.D. Comendador Joaquim de Almeida Freit...,Jorge de Sousa,Match Report,,20,P1
+26.0,Fri,2020-06-12,21:15,Sporting CP,0.6,1–0,0.8,Paços,,Estádio José Alvalade,Rui Costa,Match Report,,20,P1
+26.0,Sat,2020-06-13,21:00,Braga,0.7,0–1,1.1,Boavista,,Estádio Municipal de Braga,Luís Godinho,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+27.0,Mon,2020-06-15,19:00,Marítimo,1.9,2–1,1.5,Gil Vicente FC,,Estádio dos Barreiros,João Bento,Match Report,,20,P1
+27.0,Tue,2020-06-16,18:00,Santa Clara,1.4,1–1,0.5,Portimonense,,Cidade do Futebol,Gustavo Correia,Match Report,,20,P1
+27.0,Tue,2020-06-16,21:15,Aves,0.2,0–0,2.5,Porto,,Estádio Clube Desportivo das Aves,Carlos Xistra,Match Report,,20,P1
+27.0,Wed,2020-06-17,19:00,Paços,2.2,2–1,0.4,B-SAD,,Estádio da Capital do Móvel,Artur Soares Dias,Match Report,,20,P1
+27.0,Wed,2020-06-17,21:15,Rio Ave,0.8,1–2,2.0,Benfica,,Estádio do Rio Ave Futebol Clube,Luís Godinho,Match Report,,20,P1
+27.0,Thu,2020-06-18,19:00,Boavista,1.0,3–1,0.8,Vitória Setúbal,,Estádio do Bessa Século XXI,António Nobre,Match Report,,20,P1
+27.0,Thu,2020-06-18,21:15,Sporting CP,1.6,2–0,0.4,Tondela,,Estádio José Alvalade,Manuel Oliveira,Match Report,,20,P1
+27.0,Fri,2020-06-19,19:00,Vitória,1.7,1–1,1.4,Moreirense,,Estádio Dom Afonso Henriques,João Pinheiro,Match Report,,20,P1
+27.0,Fri,2020-06-19,21:15,Famalicão,0.3,0–0,0.8,Braga,,Estádio Municipal 22 de Junho,Fábio Veríssimo,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+28.0,Sun,2020-06-21,21:00,Gil Vicente FC,2.6,3–0,1.2,Aves,,Estádio Cidade de Barcelos,André Narciso,Match Report,,20,P1
+28.0,Mon,2020-06-22,21:00,Portimonense,2.1,3–2,1.0,Marítimo,,Estádio do Portimonense SC,Manuel Mota,Match Report,,20,P1
+28.0,Tue,2020-06-23,19:00,Vitória Setúbal,0.3,1–2,3.1,Rio Ave,,Estádio do Bonfim,Vitor Ferreira Fernandes,Match Report,,20,P1
+28.0,Tue,2020-06-23,19:15,Benfica,1.7,3–4,1.7,Santa Clara,,Estádio do Sport Lisboa e Benfica,João Pinheiro,Match Report,,20,P1
+28.0,Tue,2020-06-23,21:15,Porto,2.9,4–0,0.2,Boavista,,Estádio Do Dragão,Artur Soares Dias,Match Report,,20,P1
+28.0,Wed,2020-06-24,19:00,Tondela,2.5,1–3,1.0,Paços,,Estádio João Cardoso,Hugo Miguel,Match Report,,20,P1
+28.0,Wed,2020-06-24,21:15,Moreirense,1.2,1–1,1.5,Famalicão,,P.D. Comendador Joaquim de Almeida Freit...,António Nobre,Match Report,,20,P1
+28.0,Thu,2020-06-25,21:00,Braga,0.9,3–2,1.7,Vitória,,Estádio Municipal de Braga,Tiago Martins,Match Report,,20,P1
+28.0,Fri,2020-06-26,19:15,B-SAD,0.9,1–3,1.8,Sporting CP,,Estádio Nacional,Hélder Malheiro,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+29.0,Sun,2020-06-28,21:00,Boavista,1.0,1–0,1.1,Santa Clara,,Estádio do Bessa Século XXI,André Narciso,Match Report,,20,P1
+29.0,Mon,2020-06-29,17:00,Aves,0.6,0–1,1.0,Moreirense,,Estádio Clube Desportivo das Aves,Cláudio Ruivo Pereira,Match Report,,20,P1
+29.0,Mon,2020-06-29,18:00,Marítimo,1.4,2–0,1.8,Benfica,,Estádio dos Barreiros,Hélder Malheiro,Match Report,,20,P1
+29.0,Mon,2020-06-29,21:15,Paços,0.9,0–1,0.8,Porto,,Estádio da Capital do Móvel,Luís Godinho,Match Report,,20,P1
+29.0,Tue,2020-06-30,17:00,Famalicão,1.3,0–1,2.1,Portimonense,,Estádio Municipal 22 de Junho,Fábio Veríssimo,Match Report,,20,P1
+29.0,Tue,2020-06-30,19:15,Vitória,1.9,2–0,0.3,Vitória Setúbal,,Estádio Dom Afonso Henriques,Gustavo Correia,Match Report,,20,P1
+29.0,Tue,2020-06-30,21:30,Rio Ave,2.0,4–3,1.6,Braga,,Estádio do Rio Ave Futebol Clube,Nuno Almeida,Match Report,,20,P1
+29.0,Wed,2020-07-01,19:00,B-SAD,1.4,1–1,1.1,Tondela,,Estádio Nacional,Rui Costa,Match Report,,20,P1
+29.0,Wed,2020-07-01,21:15,Sporting CP,1.6,2–1,1.2,Gil Vicente FC,,Estádio José Alvalade,Rui Oliveira,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+30.0,Fri,2020-07-03,18:15,Santa Clara,0.8,0–1,2.1,Marítimo,,Cidade do Futebol,Carlos Xistra,Match Report,,20,P1
+30.0,Sat,2020-07-04,17:00,Vitória Setúbal,0.9,2–3,2.3,Paços,,Estádio do Bonfim,João Pinheiro,Match Report,,20,P1
+30.0,Sat,2020-07-04,19:15,Portimonense,1.2,0–1,0.4,Vitória,,Estádio do Portimonense SC,Hugo Miguel,Match Report,,20,P1
+30.0,Sat,2020-07-04,21:15,Benfica,1.8,3–1,0.3,Boavista,,Estádio do Sport Lisboa e Benfica,Fábio Veríssimo,Match Report,,20,P1
+30.0,Sat,2020-07-04,21:30,Braga,2.3,4–0,0.3,Aves,,Estádio Municipal de Braga,Manuel Mota,Match Report,,20,P1
+30.0,Sun,2020-07-05,17:00,Gil Vicente FC,0.4,1–0,0.8,Rio Ave,,Estádio Cidade de Barcelos,Iancu Vasilica,Match Report,,20,P1
+30.0,Sun,2020-07-05,19:15,Tondela,2.1,0–1,0.7,Famalicão,,Estádio João Cardoso,Artur Soares Dias,Match Report,,20,P1
+30.0,Sun,2020-07-05,21:30,Porto,2.2,5–0,0.5,B-SAD,,Estádio Do Dragão,Rui Oliveira,Match Report,,20,P1
+30.0,Mon,2020-07-06,21:00,Moreirense,1.3,0–0,0.7,Sporting CP,,P.D. Comendador Joaquim de Almeida Freit...,Tiago Martins,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+31.0,Wed,2020-07-08,19:00,Boavista,0.4,0–1,1.3,Marítimo,,Estádio do Bessa Século XXI,Nuno Almeida,Match Report,,20,P1
+31.0,Wed,2020-07-08,21:15,Aves,1.2,1–0,1.5,Vitória Setúbal,,Estádio Clube Desportivo das Aves,João Bento,Match Report,,20,P1
+31.0,Thu,2020-07-09,17:00,Rio Ave,1.3,2–1,0.6,Portimonense,,Estádio do Rio Ave Futebol Clube,Rui Costa,Match Report,,20,P1
+31.0,Thu,2020-07-09,19:15,Tondela,1.4,1–3,2.2,Porto,,Estádio João Cardoso,Fábio Veríssimo,Match Report,,20,P1
+31.0,Thu,2020-07-09,21:30,Famalicão,0.7,1–1,2.4,Benfica,,Estádio Municipal 22 de Junho,Jorge de Sousa,Match Report,,20,P1
+31.0,Fri,2020-07-10,17:00,Vitória,1.4,1–2,0.5,Gil Vicente FC,,Estádio Dom Afonso Henriques,Vitor Ferreira Fernandes,Match Report,,20,P1
+31.0,Fri,2020-07-10,19:15,Sporting CP,1.3,1–0,0.7,Santa Clara,,Estádio José Alvalade,António Nobre,Match Report,,20,P1
+31.0,Fri,2020-07-10,21:30,Paços,1.0,1–5,3.2,Braga,,Estádio da Capital do Móvel,Carlos Xistra,Match Report,,20,P1
+31.0,Sat,2020-07-11,19:15,B-SAD,1.7,0–1,1.7,Moreirense,,Estádio Nacional,Luís Godinho,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+32.0,Mon,2020-07-13,19:00,Marítimo,1.4,0–0,1.0,Rio Ave,,Estádio dos Barreiros,Cláudio Ruivo Pereira,Match Report,,20,P1
+32.0,Mon,2020-07-13,21:15,Vitória Setúbal,1.0,1–2,1.3,Famalicão,,Estádio do Bonfim,Hélder Malheiro,Match Report,,20,P1
+32.0,Tue,2020-07-14,16:00,Santa Clara,1.0,3–0,0.9,Aves,,Cidade do Futebol,Gustavo Correia,Match Report,,20,P1
+32.0,Tue,2020-07-14,19:15,Portimonense,2.4,2–1,0.9,Boavista,,Estádio do Portimonense SC,Manuel Mota,Match Report,,20,P1
+32.0,Tue,2020-07-14,21:30,Gil Vicente FC,1.2,3–2,1.6,Tondela,,Estádio Cidade de Barcelos,Jorge de Sousa,Match Report,,20,P1
+32.0,Tue,2020-07-14,21:30,Benfica,1.2,2–0,1.1,Vitória,,Estádio do Sport Lisboa e Benfica,Hugo Miguel,Match Report,,20,P1
+32.0,Wed,2020-07-15,17:00,Moreirense,1.4,1–1,0.2,Paços,,P.D. Comendador Joaquim de Almeida Freit...,Rui Costa,Match Report,,20,P1
+32.0,Wed,2020-07-15,19:15,Braga,2.6,1–1,0.6,B-SAD,,Estádio Municipal de Braga,André Narciso,Match Report,,20,P1
+32.0,Wed,2020-07-15,21:30,Porto,1.3,2–0,0.6,Sporting CP,,Estádio Do Dragão,João Pinheiro,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+33.0,Sat,2020-07-18,19:00,Rio Ave,3.0,2–2,1.6,Santa Clara,,Estádio do Rio Ave Futebol Clube,Rui Oliveira,Match Report,,20,P1
+33.0,Sat,2020-07-18,21:15,Famalicão,1.6,2–2,1.6,Boavista,,Estádio Municipal 22 de Junho,Cláudio Ruivo Pereira,Match Report,,20,P1
+33.0,Sun,2020-07-19,19:00,B-SAD,0.7,1–0,0.4,Gil Vicente FC,,Estádio Nacional,Manuel Oliveira,Match Report,,20,P1
+33.0,Sun,2020-07-19,21:15,Vitória,2.0,1–0,1.2,Marítimo,,Estádio Dom Afonso Henriques,Luís Godinho,Match Report,,20,P1
+33.0,Mon,2020-07-20,17:00,Paços,2.0,2–1,0.4,Portimonense,,Estádio da Capital do Móvel,João Pinheiro,Match Report,,20,P1
+33.0,Mon,2020-07-20,19:15,Tondela,1.6,1–0,0.4,Braga,,Estádio João Cardoso,Artur Soares Dias,Match Report,,20,P1
+33.0,Mon,2020-07-20,21:15,Porto,4.3,6–1,0.6,Moreirense,,Estádio Do Dragão,Carlos Xistra,Match Report,,20,P1
+33.0,Tue,2020-07-21,19:00,Sporting CP,0.5,0–0,0.1,Vitória Setúbal,,Estádio José Alvalade,Nuno Almeida,Match Report,,20,P1
+33.0,Tue,2020-07-21,21:15,Aves,0.3,0–4,4.3,Benfica,,Estádio Clube Desportivo das Aves,António Nobre,Match Report,,20,P1
+,,,,,,,,,,,,,,20,P1
+34.0,Fri,2020-07-24,19:00,Santa Clara,1.8,2–2,1.2,Vitória,,Cidade do Futebol,João Bento,Match Report,,20,P1
+34.0,Fri,2020-07-24,21:15,Gil Vicente FC,1.7,3–3,1.6,Paços,,Estádio Cidade de Barcelos,Iancu Vasilica,Match Report,,20,P1
+34.0,Sat,2020-07-25,19:00,Marítimo,0.7,3–3,1.6,Famalicão,,Estádio dos Barreiros,Tiago Martins,Match Report,,20,P1
+34.0,Sat,2020-07-25,19:00,Boavista,0.5,0–2,1.8,Rio Ave,,Estádio do Bessa Século XXI,Manuel Oliveira,Match Report,,20,P1
+34.0,Sat,2020-07-25,21:15,Braga,1.3,2–1,1.5,Porto,,Estádio Municipal de Braga,Jorge de Sousa,Match Report,,20,P1
+34.0,Sat,2020-07-25,21:15,Benfica,2.0,2–1,1.2,Sporting CP,,Estádio do Sport Lisboa e Benfica,Fábio Veríssimo,Match Report,,20,P1
+34.0,Sun,2020-07-26,19:30,Vitória Setúbal,0.9,2–0,0.8,B-SAD,,Estádio do Bonfim,Artur Soares Dias,Match Report,,20,P1
+34.0,Sun,2020-07-26,19:30,Portimonense,1.5,2–0,0.8,Aves,,Estádio do Portimonense SC,Hugo Miguel,Match Report,,20,P1
+34.0,Sun,2020-07-26,19:30,Moreirense,0.9,1–2,3.2,Tondela,,P.D. Comendador Joaquim de Almeida Freit...,Luís Godinho,Match Report,,20,P1

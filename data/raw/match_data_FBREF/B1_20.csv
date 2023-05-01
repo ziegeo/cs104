@@ -1,0 +1,274 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+1.0,Fri,2019-07-26,20:30,Genk,2–1,Kortrijk,16120.0,Luminus Arena,Erik Lambrechts,Match Report,,20,B1
+1.0,Sat,2019-07-27,18:00,Cercle Brugge,0–2,Standard Liège,4311.0,Jan Breydelstadion,Alexandre Boucaut,Match Report,,20,B1
+1.0,Sat,2019-07-27,20:00,Sint-Truiden,0–1,Excel Mouscron,4338.0,Stayen,Lawrence Visser,Match Report,,20,B1
+1.0,Sat,2019-07-27,20:00,Zulte Waregem,0–2,Mechelen,7033.0,Regenboogstadion,Jonathan Lardot,Match Report,,20,B1
+1.0,Sat,2019-07-27,20:30,Waasland-Bev,1–3,Club Brugge,5229.0,Freethiel-Stadion,Lothar D'Hondt,Match Report,,20,B1
+1.0,Sun,2019-07-28,14:30,Anderlecht,1–2,Oostende,19000.0,Lotto Park,Bram Van Driessche,Match Report,,20,B1
+1.0,Sun,2019-07-28,18:00,Charleroi,1–1,Gent,8760.0,Stade du Pays de Charleroi,Nicolas Laforge,Match Report,,20,B1
+1.0,Sun,2019-07-28,20:00,Eupen,1–4,Antwerp,4000.0,Stadion am Kehrweg,Wesley Alen,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+2.0,Fri,2019-08-02,20:30,Club Brugge,6–0,Sint-Truiden,24600.0,Jan Breydelstadion,Nicolas Laforge,Match Report,,20,B1
+2.0,Sat,2019-08-03,18:00,Standard Liège,4–0,Zulte Waregem,25778.0,Stade Maurice Dufrasne,Nathan Verboomen,Match Report,,20,B1
+2.0,Sat,2019-08-03,20:00,Kortrijk,1–1,Charleroi,5717.0,Guldensporenstadion,Jan Boterberg,Match Report,,20,B1
+2.0,Sat,2019-08-03,20:00,Oostende,3–1,Cercle Brugge,5487.0,Versluys Arena,Kevin Van Damme,Match Report,,20,B1
+2.0,Sat,2019-08-03,20:30,Mechelen,3–1,Genk,15072.0,AFAS-stadion Achter de Kazerne,Bram Van Driessche,Match Report,,20,B1
+2.0,Sun,2019-08-04,14:30,Gent,6–1,Eupen,17780.0,GHELAMCO-arena,Lawrence Visser,Match Report,,20,B1
+2.0,Sun,2019-08-04,18:00,Excel Mouscron,0–0,Anderlecht,8257.0,Stade Le Canonnier,Christof Dierick,Match Report,,20,B1
+2.0,Sun,2019-08-04,20:00,Antwerp,4–1,Waasland-Bev,12762.0,Bosuilstadion,Alexandre Boucaut,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+3.0,Fri,2019-08-09,20:30,Anderlecht,0–0,Mechelen,19000.0,Lotto Park,Lawrence Visser,Match Report,,20,B1
+3.0,Sat,2019-08-10,18:00,Oostende,0–2,Club Brugge,6753.0,Versluys Arena,Erik Lambrechts,Match Report,,20,B1
+3.0,Sat,2019-08-10,20:00,Eupen,1–1,Waasland-Bev,2145.0,Stadion am Kehrweg,Jasper Vergoote,Match Report,,20,B1
+3.0,Sat,2019-08-10,20:00,Cercle Brugge,1–3,Kortrijk,4032.0,Jan Breydelstadion,Bert Put,Match Report,,20,B1
+3.0,Sat,2019-08-10,20:30,Genk,0–2,Zulte Waregem,17820.0,Luminus Arena,Lothar D'Hondt,Match Report,,20,B1
+3.0,Sun,2019-08-11,14:30,Sint-Truiden,2–1,Standard Liège,10000.0,Stayen,Jonathan Lardot,Match Report,,20,B1
+3.0,Sun,2019-08-11,18:00,Charleroi,2–1,Antwerp,9868.0,Stade du Pays de Charleroi,Nathan Verboomen,Match Report,,20,B1
+3.0,Sun,2019-08-11,20:00,Excel Mouscron,2–1,Gent,3753.0,Stade Le Canonnier,Jan Boterberg,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+4.0,Fri,2019-08-16,20:30,Club Brugge,0–0,Eupen,27000.0,Jan Breydelstadion,Bram Van Driessche,Match Report,,20,B1
+4.0,Sat,2019-08-17,18:00,Kortrijk,4–2,Anderlecht,9000.0,Guldensporenstadion,Erik Lambrechts,Match Report,,20,B1
+4.0,Sat,2019-08-17,20:00,Mechelen,3–1,Cercle Brugge,14513.0,AFAS-stadion Achter de Kazerne,Wesli De Cremer,Match Report,,20,B1
+4.0,Sat,2019-08-17,20:30,Waasland-Bev,0–4,Genk,4827.0,Freethiel-Stadion,Kevin Van Damme,Match Report,,20,B1
+4.0,Sun,2019-08-18,14:30,Standard Liège,4–1,Excel Mouscron,25622.0,Stade Maurice Dufrasne,Nicolas Laforge,Match Report,,20,B1
+4.0,Sun,2019-08-18,18:00,Antwerp,2–0,Sint-Truiden,12828.0,Bosuilstadion,Christof Dierick,Match Report,,20,B1
+4.0,Sun,2019-08-18,20:00,Gent,2–0,Oostende,17860.0,GHELAMCO-arena,Wesley Alen,Match Report,,20,B1
+4.0,Mon,2019-08-19,20:30,Zulte Waregem,3–1,Charleroi,6869.0,Regenboogstadion,Alexandre Boucaut,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+5.0,Fri,2019-08-23,20:30,Genk,1–0,Anderlecht,22105.0,Luminus Arena,Lawrence Visser,Match Report,,20,B1
+5.0,Sat,2019-08-24,20:00,Cercle Brugge,1–0,Waasland-Bev,4139.0,Jan Breydelstadion,Lothar D'Hondt,Match Report,,20,B1
+5.0,Sat,2019-08-24,20:30,Sint-Truiden,0–0,Zulte Waregem,4789.0,Stayen,Nathan Verboomen,Match Report,,20,B1
+5.0,Sat,2019-08-24,20:30,Oostende,2–1,Mechelen,5703.0,Versluys Arena,Bert Put,Match Report,,20,B1
+5.0,Sun,2019-08-25,18:00,Standard Liège,2–1,Kortrijk,26282.0,Stade Maurice Dufrasne,Alexandre Boucaut,Match Report,,20,B1
+5.0,Sun,2019-08-25,20:00,Excel Mouscron,2–0,Eupen,3136.0,Stade Le Canonnier,Wesley Alen,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+6.0,Fri,2019-08-30,20:30,Mechelen,2–2,Excel Mouscron,14847.0,AFAS-stadion Achter de Kazerne,Jasper Vergoote,Match Report,,20,B1
+6.0,Sat,2019-08-31,18:00,Eupen,0–2,Sint-Truiden,2593.0,Stadion am Kehrweg,Kevin Van Damme,Match Report,,20,B1
+6.0,Sat,2019-08-31,20:00,Kortrijk,2–2,Oostende,6764.0,Guldensporenstadion,Christof Dierick,Match Report,,20,B1
+6.0,Sat,2019-08-31,20:30,Waasland-Bev,0–4,Charleroi,2829.0,Freethiel-Stadion,Wesli De Cremer,Match Report,,20,B1
+6.0,Sun,2019-09-01,14:30,Club Brugge,1–1,Genk,27774.0,Jan Breydelstadion,Erik Lambrechts,Match Report,,20,B1
+6.0,Sun,2019-09-01,18:00,Anderlecht,1–0,Standard Liège,19500.0,Lotto Park,Nicolas Laforge,Match Report,,20,B1
+6.0,Sun,2019-09-01,20:00,Zulte Waregem,2–0,Antwerp,7411.0,Regenboogstadion,Jan Boterberg,Match Report,,20,B1
+6.0,Sun,2019-09-01,20:00,Gent,3–2,Cercle Brugge,17525.0,GHELAMCO-arena,Bram Van Driessche,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+7.0,Fri,2019-09-13,20:30,Charleroi,2–1,Genk,9508.0,Stade du Pays de Charleroi,Nathan Verboomen,Match Report,,20,B1
+7.0,Sat,2019-09-14,18:00,Oostende,1–4,Standard Liège,5242.0,Versluys Arena,Lothar D'Hondt,Match Report,,20,B1
+7.0,Sat,2019-09-14,20:00,Eupen,1–1,Zulte Waregem,2438.0,Stadion am Kehrweg,Alexandre Boucaut,Match Report,,20,B1
+7.0,Sat,2019-09-14,20:00,Sint-Truiden,1–1,Waasland-Bev,5456.0,Stayen,Bert Put,Match Report,,20,B1
+7.0,Sat,2019-09-14,20:30,Cercle Brugge,0–2,Club Brugge,12120.0,Jan Breydelstadion,Nicolas Laforge,Match Report,,20,B1
+7.0,Sun,2019-09-15,14:30,Anderlecht,1–2,Antwerp,19263.0,Lotto Park,Lawrence Visser,Match Report,,20,B1
+7.0,Sun,2019-09-15,18:00,Gent,3–0,Mechelen,16718.0,GHELAMCO-arena,Jonathan Lardot,Match Report,,20,B1
+7.0,Sun,2019-09-15,20:30,Excel Mouscron,2–0,Kortrijk,3492.0,Stade Le Canonnier,Wesley Alen,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+8.0,Fri,2019-09-20,20:30,Kortrijk,2–3,Mechelen,6518.0,Guldensporenstadion,Erik Lambrechts,Match Report,,20,B1
+8.0,Sat,2019-09-21,18:00,Charleroi,0–3,Sint-Truiden,7501.0,Stade du Pays de Charleroi,Frederik Geldhof,Match Report,,20,B1
+8.0,Sat,2019-09-21,20:00,Antwerp,3–1,Cercle Brugge,11398.0,Bosuilstadion,Kevin Van Damme,Match Report,,20,B1
+8.0,Sat,2019-09-21,20:00,Waasland-Bev,1–1,Excel Mouscron,3729.0,Freethiel-Stadion,Jasper Vergoote,Match Report,,20,B1
+8.0,Sat,2019-09-21,20:30,Genk,3–1,Oostende,18114.0,Luminus Arena,Bram Van Driessche,Match Report,,20,B1
+8.0,Sun,2019-09-22,14:30,Standard Liège,3–0,Eupen,25204.0,Stade Maurice Dufrasne,Wesley Alen,Match Report,,20,B1
+8.0,Sun,2019-09-22,18:00,Club Brugge,2–1,Anderlecht,26500.0,Jan Breydelstadion,Alexandre Boucaut,Match Report,,20,B1
+8.0,Sun,2019-09-22,20:00,Zulte Waregem,2–2,Gent,8237.0,Regenboogstadion,Wim Smet,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+9.0,Sat,2019-09-28,18:00,Mechelen,0–5,Club Brugge,16500.0,AFAS-stadion Achter de Kazerne,Nicolas Laforge,Match Report,,20,B1
+9.0,Sat,2019-09-28,20:00,Cercle Brugge,1–2,Eupen,4215.0,Jan Breydelstadion,Wesli De Cremer,Match Report,,20,B1
+9.0,Sat,2019-09-28,20:00,Excel Mouscron,2–2,Zulte Waregem,3622.0,Stade Le Canonnier,Christof Dierick,Match Report,,20,B1
+9.0,Sat,2019-09-28,20:00,Gent,2–0,Kortrijk,18311.0,GHELAMCO-arena,Alexandre Boucaut,Match Report,,20,B1
+9.0,Sat,2019-09-28,20:30,Sint-Truiden,3–3,Genk,8000.0,Stayen,Lawrence Visser,Match Report,,20,B1
+9.0,Sun,2019-09-29,14:30,Anderlecht,0–0,Waasland-Bev,18751.0,Lotto Park,Jan Boterberg,Match Report,,20,B1
+9.0,Sun,2019-09-29,18:00,Standard Liège,1–1,Charleroi,26932.0,Stade Maurice Dufrasne,Bram Van Driessche,Match Report,,20,B1
+9.0,Sun,2019-09-29,20:00,Oostende,1–1,Antwerp,4721.0,Versluys Arena,Wim Smet,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+10.0,Fri,2019-10-04,20:30,Charleroi,1–2,Anderlecht,13332.0,Stade du Pays de Charleroi,Wesley Alen,Match Report,,20,B1
+10.0,Sat,2019-10-05,18:00,Eupen,0–2,Mechelen,2693.0,Stadion am Kehrweg,Nathan Verboomen,Match Report,,20,B1
+10.0,Sat,2019-10-05,20:00,Waasland-Bev,3–1,Oostende,3119.0,Freethiel-Stadion,Frederik Geldhof,Match Report,,20,B1
+10.0,Sat,2019-10-05,20:00,Zulte Waregem,6–0,Cercle Brugge,7535.0,Regenboogstadion,Bert Put,Match Report,,20,B1
+10.0,Sat,2019-10-05,20:30,Kortrijk,4–0,Sint-Truiden,5582.0,Guldensporenstadion,Lothar D'Hondt,Match Report,,20,B1
+10.0,Sun,2019-10-06,14:30,Club Brugge,4–0,Gent,24382.0,Jan Breydelstadion,Jonathan Lardot,Match Report,,20,B1
+10.0,Sun,2019-10-06,18:00,Antwerp,2–2,Standard Liège,12978.0,Bosuilstadion,Erik Lambrechts,Match Report,,20,B1
+10.0,Sun,2019-10-06,20:00,Genk,2–1,Excel Mouscron,17834.0,Luminus Arena,Kevin Van Damme,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+11.0,Fri,2019-10-18,20:30,Excel Mouscron,0–1,Club Brugge,8500.0,Stade Le Canonnier,Lothar D'Hondt,Match Report,,20,B1
+11.0,Sat,2019-10-19,18:00,Standard Liège,1–0,Genk,26876.0,Stade Maurice Dufrasne,Nicolas Laforge,Match Report,,20,B1
+11.0,Sat,2019-10-19,20:00,Oostende,2–3,Eupen,3450.0,Versluys Arena,Christof Dierick,Match Report,,20,B1
+11.0,Sat,2019-10-19,20:00,Kortrijk,2–0,Zulte Waregem,8784.0,Guldensporenstadion,Lawrence Visser,Match Report,,20,B1
+11.0,Sat,2019-10-19,20:30,Gent,2–0,Waasland-Bev,19016.0,GHELAMCO-arena,Wim Smet,Match Report,,20,B1
+11.0,Sun,2019-10-20,14:30,Mechelen,3–1,Antwerp,16500.0,AFAS-stadion Achter de Kazerne,Bram Van Driessche,Match Report,,20,B1
+11.0,Sun,2019-10-20,18:00,Anderlecht,4–1,Sint-Truiden,19000.0,Lotto Park,Alexandre Boucaut,Match Report,,20,B1
+11.0,Sun,2019-10-20,20:00,Cercle Brugge,0–3,Charleroi,2996.0,Jan Breydelstadion,Jasper Vergoote,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+12.0,Fri,2019-10-25,20:30,Eupen,0–0,Anderlecht,5082.0,Stadion am Kehrweg,Frederik Geldhof,Match Report,,20,B1
+12.0,Sat,2019-10-26,18:00,Charleroi,1–0,Excel Mouscron,9026.0,Stade du Pays de Charleroi,Kevin Van Damme,Match Report,,20,B1
+12.0,Sat,2019-10-26,20:00,Antwerp,3–1,Kortrijk,11426.0,Bosuilstadion,Alexandre Boucaut,Match Report,,20,B1
+12.0,Sat,2019-10-26,20:00,Zulte Waregem,2–0,Oostende,7951.0,Regenboogstadion,Wesli De Cremer,Match Report,,20,B1
+12.0,Sat,2019-10-26,20:30,Genk,1–0,Cercle Brugge,16745.0,Luminus Arena,Bert Put,Match Report,,20,B1
+12.0,Sun,2019-10-27,14:30,Club Brugge,1–1,Standard Liège,25400.0,Jan Breydelstadion,Lawrence Visser,Match Report,,20,B1
+12.0,Sun,2019-10-27,18:00,Sint-Truiden,0–0,Gent,6000.0,Stayen,Jan Boterberg,Match Report,,20,B1
+12.0,Sun,2019-10-27,20:00,Waasland-Bev,1–3,Mechelen,4892.0,Freethiel-Stadion,Erik Lambrechts,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+13.0,Tue,2019-10-29,20:30,Oostende,0–1,Charleroi,3562.0,Versluys Arena,Lothar D'Hondt,Match Report,,20,B1
+13.0,Tue,2019-10-29,20:30,Kortrijk,1–2,Eupen,4962.0,Guldensporenstadion,Jasper Vergoote,Match Report,,20,B1
+13.0,Tue,2019-10-29,20:30,Cercle Brugge,2–2,Excel Mouscron,3000.0,Jan Breydelstadion,Christof Dierick,Match Report,,20,B1
+13.0,Wed,2019-10-30,20:30,Genk,2–2,Antwerp,18974.0,Luminus Arena,Wesley Alen,Match Report,,20,B1
+13.0,Wed,2019-10-30,20:30,Mechelen,1–2,Sint-Truiden,15627.0,AFAS-stadion Achter de Kazerne,Wim Smet,Match Report,,20,B1
+13.0,Wed,2019-10-30,20:30,Zulte Waregem,0–2,Club Brugge,11000.0,Regenboogstadion,Erik Lambrechts,Match Report,,20,B1
+13.0,Wed,2019-10-30,20:30,Standard Liège,2–0,Waasland-Bev,25536.0,Stade Maurice Dufrasne,Nathan Verboomen,Match Report,,20,B1
+13.0,Thu,2019-10-31,20:30,Anderlecht,3–3,Gent,21500.0,Lotto Park,Bram Van Driessche,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+14.0,Sat,2019-11-02,18:00,Eupen,2–0,Genk,3407.0,Stadion am Kehrweg,Wesli De Cremer,Match Report,,20,B1
+14.0,Sat,2019-11-02,20:00,Sint-Truiden,1–0,Oostende,5000.0,Stayen,Kevin Van Damme,Match Report,,20,B1
+14.0,Sat,2019-11-02,20:00,Waasland-Bev,1–2,Zulte Waregem,3047.0,Freethiel-Stadion,Wim Smet,Match Report,,20,B1
+14.0,Sat,2019-11-02,20:00,Excel Mouscron,3–1,Antwerp,3569.0,Stade Le Canonnier,Jan Boterberg,Match Report,,20,B1
+14.0,Sat,2019-11-02,20:30,Club Brugge,3–0,Kortrijk,21539.0,Jan Breydelstadion,Nathan Verboomen,Match Report,,20,B1
+14.0,Sun,2019-11-03,14:30,Anderlecht,2–1,Cercle Brugge,19000.0,Lotto Park,Nicolas Laforge,Match Report,,20,B1
+14.0,Sun,2019-11-03,18:00,Gent,3–1,Standard Liège,19441.0,GHELAMCO-arena,Lothar D'Hondt,Match Report,,20,B1
+14.0,Sun,2019-11-03,20:00,Mechelen,2–2,Charleroi,14604.0,AFAS-stadion Achter de Kazerne,Jonathan Lardot,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+15.0,Fri,2019-11-08,20:30,Zulte Waregem,1–2,Anderlecht,10068.0,Regenboogstadion,Lawrence Visser,Match Report,,20,B1
+15.0,Sat,2019-11-09,18:00,Charleroi,1–0,Eupen,8021.0,Stade du Pays de Charleroi,Wesley Alen,Match Report,,20,B1
+15.0,Sat,2019-11-09,20:00,Kortrijk,1–3,Waasland-Bev,4899.0,Guldensporenstadion,Frederik Geldhof,Match Report,,20,B1
+15.0,Sat,2019-11-09,20:00,Cercle Brugge,2–1,Sint-Truiden,3500.0,Jan Breydelstadion,Jonathan Lardot,Match Report,,20,B1
+15.0,Sat,2019-11-09,20:30,Oostende,2–2,Excel Mouscron,4193.0,Versluys Arena,Jasper Vergoote,Match Report,,20,B1
+15.0,Sun,2019-11-10,14:30,Antwerp,2–1,Club Brugge,14000.0,Bosuilstadion,Bram Van Driessche,Match Report,,20,B1
+15.0,Sun,2019-11-10,18:00,Genk,0–2,Gent,19962.0,Luminus Arena,Erik Lambrechts,Match Report,,20,B1
+15.0,Sun,2019-11-10,20:00,Standard Liège,1–2,Mechelen,26987.0,Stade Maurice Dufrasne,Alexandre Boucaut,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+5.0,Thu,2019-11-21,20:30,Antwerp,3–2,Gent,12500.0,Bosuilstadion,Nicolas Laforge,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+16.0,Fri,2019-11-22,20:30,Club Brugge,2–0,Oostende,21307.0,Jan Breydelstadion,Jan Boterberg,Match Report,,20,B1
+16.0,Sat,2019-11-23,18:00,Eupen,1–2,Standard Liège,7463.0,Stadion am Kehrweg,Christof Dierick,Match Report,,20,B1
+16.0,Sat,2019-11-23,20:00,Mechelen,0–2,Zulte Waregem,15922.0,AFAS-stadion Achter de Kazerne,Lothar D'Hondt,Match Report,,20,B1
+16.0,Sat,2019-11-23,20:00,Waasland-Bev,1–1,Cercle Brugge,6143.0,Freethiel-Stadion,Nathan Verboomen,Match Report,,20,B1
+16.0,Sat,2019-11-23,20:30,Excel Mouscron,2–2,Genk,3204.0,Stade Le Canonnier,Wim Smet,Match Report,,20,B1
+16.0,Sun,2019-11-24,14:30,Gent,1–1,Antwerp,19491.0,GHELAMCO-arena,Lawrence Visser,Match Report,,20,B1
+16.0,Sun,2019-11-24,18:00,Anderlecht,0–0,Kortrijk,19503.0,Lotto Park,Wesley Alen,Match Report,,20,B1
+16.0,Sun,2019-11-24,20:00,Sint-Truiden,1–3,Charleroi,4674.0,Stayen,Wesli De Cremer,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+17.0,Fri,2019-11-29,20:45,Antwerp,1–0,Mechelen,13471.0,Bosuilstadion,Jonathan Lardot,Match Report,,20,B1
+17.0,Sat,2019-11-30,18:00,Club Brugge,1–0,Excel Mouscron,19827.0,Jan Breydelstadion,Wesley Alen,Match Report,,20,B1
+17.0,Sat,2019-11-30,20:00,Charleroi,2–0,Waasland-Bev,7872.0,Stade du Pays de Charleroi,Frederik Geldhof,Match Report,,20,B1
+17.0,Sat,2019-11-30,20:00,Zulte Waregem,1–0,Eupen,6662.0,Regenboogstadion,Bert Put,Match Report,,20,B1
+17.0,Sat,2019-11-30,20:30,Genk,1–2,Sint-Truiden,18254.0,Luminus Arena,Bram Van Driessche,Match Report,,20,B1
+17.0,Sun,2019-12-01,14:30,Oostende,3–2,Anderlecht,6079.0,Versluys Arena,Nicolas Laforge,Match Report,,20,B1
+17.0,Sun,2019-12-01,18:00,Standard Liège,2–1,Cercle Brugge,25592.0,Stade Maurice Dufrasne,Erik Lambrechts,Match Report,,20,B1
+17.0,Sun,2019-12-01,20:00,Kortrijk,0–2,Gent,7352.0,Guldensporenstadion,Nathan Verboomen,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+18.0,Fri,2019-12-06,20:30,Waasland-Bev,0–4,Antwerp,5600.0,Freethiel-Stadion,Wim Smet,Match Report,,20,B1
+18.0,Sat,2019-12-07,18:00,Mechelen,1–1,Kortrijk,15430.0,AFAS-stadion Achter de Kazerne,Wesli De Cremer,Match Report,,20,B1
+18.0,Sat,2019-12-07,20:00,Cercle Brugge,1–2,Genk,5400.0,Jan Breydelstadion,Nathan Verboomen,Match Report,,20,B1
+18.0,Sat,2019-12-07,20:00,Gent,2–0,Zulte Waregem,19100.0,GHELAMCO-arena,Jonathan Lardot,Match Report,,20,B1
+18.0,Sat,2019-12-07,20:30,Sint-Truiden,1–2,Club Brugge,7000.0,Stayen,Lothar D'Hondt,Match Report,,20,B1
+18.0,Sun,2019-12-08,14:30,Excel Mouscron,2–2,Standard Liège,5346.0,Stade Le Canonnier,Jan Boterberg,Match Report,,20,B1
+18.0,Sun,2019-12-08,18:00,Anderlecht,0–0,Charleroi,19000.0,Lotto Park,Bram Van Driessche,Match Report,,20,B1
+18.0,Sun,2019-12-08,20:00,Eupen,1–0,Oostende,3500.0,Stadion am Kehrweg,Lawrence Visser,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+19.0,Fri,2019-12-13,20:30,Kortrijk,1–2,Excel Mouscron,5519.0,Guldensporenstadion,Christof Dierick,Match Report,,20,B1
+19.0,Sat,2019-12-14,18:00,Antwerp,1–0,Eupen,16649.0,Bosuilstadion,Frederik Geldhof,Match Report,,20,B1
+19.0,Sat,2019-12-14,20:00,Zulte Waregem,5–1,Sint-Truiden,6861.0,Regenboogstadion,Jasper Vergoote,Match Report,,20,B1
+19.0,Sat,2019-12-14,20:00,Charleroi,3–0,Cercle Brugge,7616.0,Stade du Pays de Charleroi,Nicolas Laforge,Match Report,,20,B1
+19.0,Sat,2019-12-14,20:30,Genk,4–1,Waasland-Bev,24956.0,Luminus Arena,Erik Lambrechts,Match Report,,20,B1
+19.0,Sun,2019-12-15,14:30,Standard Liège,1–1,Anderlecht,26972.0,Stade Maurice Dufrasne,Jonathan Lardot,Match Report,,20,B1
+19.0,Sun,2019-12-15,18:00,Club Brugge,3–0,Mechelen,27404.0,Jan Breydelstadion,Nathan Verboomen,Match Report,,20,B1
+19.0,Sun,2019-12-15,20:00,Oostende,2–1,Gent,4530.0,Versluys Arena,Bert Put,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+20.0,Fri,2019-12-20,20:30,Mechelen,1–0,Oostende,15619.0,AFAS-stadion Achter de Kazerne,Wim Smet,Match Report,,20,B1
+20.0,Sat,2019-12-21,18:00,Excel Mouscron,1–1,Charleroi,3300.0,Stade Le Canonnier,Jasper Vergoote,Match Report,,20,B1
+20.0,Sat,2019-12-21,20:00,Eupen,1–2,Kortrijk,2376.0,Stadion am Kehrweg,Bert Put,Match Report,,20,B1
+20.0,Sat,2019-12-21,20:00,Cercle Brugge,2–0,Zulte Waregem,3694.0,Jan Breydelstadion,Wesley Alen,Match Report,,20,B1
+20.0,Sat,2019-12-21,20:30,Waasland-Bev,2–1,Standard Liège,4000.0,Freethiel-Stadion,Christof Dierick,Match Report,,20,B1
+20.0,Sun,2019-12-22,14:30,Gent,1–1,Club Brugge,20000.0,GHELAMCO-arena,Lawrence Visser,Match Report,,20,B1
+20.0,Sun,2019-12-22,18:00,Sint-Truiden,1–1,Antwerp,5679.0,Stayen,Alexandre Boucaut,Match Report,,20,B1
+20.0,Sun,2019-12-22,20:00,Anderlecht,2–0,Genk,19000.0,Lotto Park,Nicolas Laforge,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+21.0,Thu,2019-12-26,14:30,Genk,2–1,Eupen,17104.0,Luminus Arena,Lothar D'Hondt,Match Report,,20,B1
+21.0,Thu,2019-12-26,14:30,Kortrijk,1–0,Cercle Brugge,7335.0,Guldensporenstadion,Erik Lambrechts,Match Report,,20,B1
+21.0,Thu,2019-12-26,14:30,Waasland-Bev,1–0,Sint-Truiden,4268.0,Freethiel-Stadion,Jan Boterberg,Match Report,,20,B1
+21.0,Thu,2019-12-26,14:30,Excel Mouscron,1–2,Mechelen,3200.0,Stade Le Canonnier,Frederik Geldhof,Match Report,,20,B1
+21.0,Thu,2019-12-26,18:00,Club Brugge,4–0,Zulte Waregem,27408.0,Jan Breydelstadion,Jonathan Lardot,Match Report,,20,B1
+21.0,Thu,2019-12-26,20:30,Standard Liège,0–1,Gent,26761.0,Stade Maurice Dufrasne,Bram Van Driessche,Match Report,,20,B1
+21.0,Fri,2019-12-27,18:00,Charleroi,5–0,Oostende,9444.0,Stade du Pays de Charleroi,Wesli De Cremer,Match Report,,20,B1
+21.0,Fri,2019-12-27,20:30,Antwerp,0–0,Anderlecht,14075.0,Bosuilstadion,Nathan Verboomen,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+22.0,Fri,2020-01-17,20:30,Mechelen,2–3,Standard Liège,16200.0,AFAS-stadion Achter de Kazerne,Wesley Alen,Match Report,,20,B1
+22.0,Sat,2020-01-18,18:00,Eupen,1–1,Charleroi,2458.0,Stadion am Kehrweg,Wim Smet,Match Report,,20,B1
+22.0,Sat,2020-01-18,20:00,Oostende,0–1,Waasland-Bev,5231.0,Versluys Arena,Bram Van Driessche,Match Report,,20,B1
+22.0,Sat,2020-01-18,20:00,Sint-Truiden,2–0,Kortrijk,4236.0,Stayen,Wesli De Cremer,Match Report,,20,B1
+22.0,Sat,2020-01-18,20:30,Gent,3–1,Excel Mouscron,18604.0,GHELAMCO-arena,Nicolas Laforge,Match Report,,20,B1
+22.0,Sun,2020-01-19,14:30,Cercle Brugge,1–2,Antwerp,4200.0,Jan Breydelstadion,Jan Boterberg,Match Report,,20,B1
+22.0,Sun,2020-01-19,18:00,Anderlecht,1–2,Club Brugge,20000.0,Lotto Park,Lawrence Visser,Match Report,,20,B1
+22.0,Sun,2020-01-19,20:00,Zulte Waregem,0–3,Genk,8043.0,Regenboogstadion,Alexandre Boucaut,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+23.0,Fri,2020-01-24,20:30,Standard Liège,2–1,Oostende,26402.0,Stade Maurice Dufrasne,Jasper Vergoote,Match Report,,20,B1
+23.0,Sat,2020-01-25,20:00,Excel Mouscron,1–3,Sint-Truiden,1392.0,Stade Le Canonnier,Bert Put,Match Report,,20,B1
+23.0,Sat,2020-01-25,20:00,Waasland-Bev,0–1,Eupen,3033.0,Freethiel-Stadion,Frederik Geldhof,Match Report,,20,B1
+23.0,Sat,2020-01-25,20:30,Gent,4–1,Genk,19144.0,GHELAMCO-arena,Erik Lambrechts,Match Report,,20,B1
+23.0,Sun,2020-01-26,14:30,Cercle Brugge,1–2,Anderlecht,5192.0,Jan Breydelstadion,Alexandre Boucaut,Match Report,,20,B1
+23.0,Sun,2020-01-26,18:00,Kortrijk,2–2,Club Brugge,9399.0,Guldensporenstadion,Bram Van Driessche,Match Report,,20,B1
+23.0,Sun,2020-01-26,20:00,Antwerp,2–1,Zulte Waregem,10619.0,Bosuilstadion,Lothar D'Hondt,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+5.0,Wed,2020-01-29,20:30,Charleroi,0–0,Club Brugge,12090.0,Stade du Pays de Charleroi,Nicolas Laforge,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+24.0,Fri,2020-01-31,20:30,Kortrijk,3–1,Standard Liège,7333.0,Guldensporenstadion,Lothar D'Hondt,Match Report,,20,B1
+24.0,Sat,2020-02-01,18:00,Genk,1–0,Charleroi,14650.0,Luminus Arena,Jonathan Lardot,Match Report,,20,B1
+24.0,Sat,2020-02-01,20:00,Oostende,1–0,Sint-Truiden,4423.0,Versluys Arena,Wim Smet,Match Report,,20,B1
+24.0,Sat,2020-02-01,20:00,Eupen,1–0,Cercle Brugge,3327.0,Stadion am Kehrweg,Wesley Alen,Match Report,,20,B1
+24.0,Sat,2020-02-01,20:30,Mechelen,0–3,Gent,16069.0,AFAS-stadion Achter de Kazerne,Jan Boterberg,Match Report,,20,B1
+24.0,Sun,2020-02-02,14:30,Club Brugge,1–0,Antwerp,27000.0,Jan Breydelstadion,Erik Lambrechts,Match Report,,20,B1
+24.0,Sun,2020-02-02,18:00,Anderlecht,1–0,Excel Mouscron,18000.0,Lotto Park,Bram Van Driessche,Match Report,,20,B1
+24.0,Sun,2020-02-02,20:00,Zulte Waregem,5–0,Waasland-Bev,6693.0,Regenboogstadion,Wesli De Cremer,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+25.0,Fri,2020-02-07,20:30,Gent,1–1,Anderlecht,20000.0,GHELAMCO-arena,Wesley Alen,Match Report,,20,B1
+25.0,Sat,2020-02-08,18:00,Charleroi,4–0,Zulte Waregem,8356.0,Stade du Pays de Charleroi,Jasper Vergoote,Match Report,,20,B1
+25.0,Sat,2020-02-08,20:00,Cercle Brugge,3–2,Mechelen,3940.0,Jan Breydelstadion,Frederik Geldhof,Match Report,,20,B1
+25.0,Sat,2020-02-08,20:00,Sint-Truiden,5–2,Eupen,4194.0,Stayen,Christof Dierick,Match Report,,20,B1
+25.0,Sat,2020-02-08,20:30,Excel Mouscron,3–1,Oostende,1792.0,Stade Le Canonnier,Wesli De Cremer,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+23.0,Tue,2020-02-11,20:30,Charleroi,2–1,Mechelen,12928.0,Stade du Pays de Charleroi,Erik Lambrechts,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+25.0,Wed,2020-02-12,20:30,Waasland-Bev,1–2,Kortrijk,2543.0,Freethiel-Stadion,Bert Put,Match Report,,20,B1
+25.0,Wed,2020-02-12,20:30,Standard Liège,0–0,Club Brugge,27145.0,Stade Maurice Dufrasne,Lawrence Visser,Match Report,,20,B1
+25.0,Thu,2020-02-13,20:30,Antwerp,1–1,Genk,11480.0,Bosuilstadion,Jan Boterberg,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+26.0,Fri,2020-02-14,20:30,Eupen,2–3,Gent,2337.0,Stadion am Kehrweg,Jonathan Lardot,Match Report,,20,B1
+26.0,Sat,2020-02-15,18:00,Club Brugge,2–1,Waasland-Bev,26771.0,Jan Breydelstadion,Nathan Verboomen,Match Report,,20,B1
+26.0,Sat,2020-02-15,20:00,Oostende,0–3,Kortrijk,3456.0,Versluys Arena,Christof Dierick,Match Report,,20,B1
+26.0,Sat,2020-02-15,20:00,Sint-Truiden,0–1,Cercle Brugge,4336.0,Stayen,Bert Put,Match Report,,20,B1
+26.0,Sat,2020-02-15,20:30,Mechelen,2–0,Anderlecht,16500.0,AFAS-stadion Achter de Kazerne,Lawrence Visser,Match Report,,20,B1
+26.0,Sun,2020-02-16,14:30,Antwerp,1–1,Charleroi,12091.0,Bosuilstadion,Bram Van Driessche,Match Report,,20,B1
+26.0,Sun,2020-02-16,18:00,Genk,1–3,Standard Liège,20108.0,Luminus Arena,Nicolas Laforge,Match Report,,20,B1
+26.0,Sun,2020-02-16,20:00,Zulte Waregem,1–2,Excel Mouscron,7090.0,Regenboogstadion,Kevin Van Damme,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+27.0,Fri,2020-02-21,20:00,Kortrijk,0–1,Genk,5124.0,Guldensporenstadion,Wesley Alen,Match Report,,20,B1
+27.0,Sat,2020-02-22,18:00,Standard Liège,1–0,Antwerp,27143.0,Stade Maurice Dufrasne,Nathan Verboomen,Match Report,,20,B1
+27.0,Sat,2020-02-22,20:00,Oostende,1–1,Zulte Waregem,5238.0,Versluys Arena,Frederik Geldhof,Match Report,,20,B1
+27.0,Sat,2020-02-22,20:00,Excel Mouscron,0–1,Cercle Brugge,3161.0,Stade Le Canonnier,Jonathan Lardot,Match Report,,20,B1
+27.0,Sat,2020-02-22,20:30,Mechelen,4–0,Waasland-Bev,15900.0,AFAS-stadion Achter de Kazerne,Wim Smet,Match Report,,20,B1
+27.0,Sun,2020-02-23,14:30,Club Brugge,1–0,Charleroi,27039.0,Jan Breydelstadion,Lothar D'Hondt,Match Report,,20,B1
+27.0,Sun,2020-02-23,18:00,Anderlecht,6–1,Eupen,20000.0,Lotto Park,Alexandre Boucaut,Match Report,,20,B1
+27.0,Sun,2020-02-23,20:00,Gent,4–1,Sint-Truiden,18743.0,GHELAMCO-arena,Jasper Vergoote,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+28.0,Fri,2020-02-28,20:30,Sint-Truiden,0–3,Mechelen,4000.0,Stayen,Kevin Van Damme,Match Report,,20,B1
+28.0,Sat,2020-02-29,18:00,Waasland-Bev,0–3,Anderlecht,7253.0,Freethiel-Stadion,Nicolas Laforge,Match Report,,20,B1
+28.0,Sat,2020-02-29,20:00,Zulte Waregem,2–2,Kortrijk,9285.0,Regenboogstadion,Bram Van Driessche,Match Report,,20,B1
+28.0,Sat,2020-02-29,20:00,Eupen,2–1,Excel Mouscron,1670.0,Stadion am Kehrweg,Wesli De Cremer,Match Report,,20,B1
+28.0,Sat,2020-02-29,20:30,Antwerp,3–1,Oostende,11012.0,Bosuilstadion,Bert Put,Match Report,,20,B1
+28.0,Sun,2020-03-01,14:30,Genk,1–2,Club Brugge,21897.0,Luminus Arena,Erik Lambrechts,Match Report,,20,B1
+28.0,Sun,2020-03-01,18:00,Charleroi,2–0,Standard Liège,13304.0,Stade du Pays de Charleroi,Alexandre Boucaut,Match Report,,20,B1
+28.0,Sun,2020-03-01,20:00,Cercle Brugge,1–0,Gent,5586.0,Jan Breydelstadion,Lawrence Visser,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+29.0,Sat,2020-03-07,20:00,Mechelen,1–1,Eupen,15524.0,AFAS-stadion Achter de Kazerne,Jasper Vergoote,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Gent,1–4,Charleroi,19464.0,GHELAMCO-arena,Jan Boterberg,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Standard Liège,0–0,Sint-Truiden,26007.0,Stade Maurice Dufrasne,Frederik Geldhof,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Excel Mouscron,1–0,Waasland-Bev,3400.0,Stade Le Canonnier,Lawrence Visser,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Anderlecht,7–0,Zulte Waregem,17000.0,Lotto Park,Nathan Verboomen,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Club Brugge,2–1,Cercle Brugge,28593.0,Jan Breydelstadion,Wesley Alen,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Oostende,2–4,Genk,4000.0,Versluys Arena,Jonathan Lardot,Match Report,,20,B1
+29.0,Sat,2020-03-07,20:00,Kortrijk,0–1,Antwerp,6318.0,Guldensporenstadion,Wim Smet,Match Report,,20,B1
+,,,,,,,,,,,,20,B1
+30.0,Sun,2020-03-15,18:00,Cercle Brugge,,Oostende,,Jan Breydelstadion,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Sint-Truiden,,Anderlecht,,Stayen,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Waasland-Bev,,Gent,,Freethiel-Stadion,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Antwerp,,Excel Mouscron,,Bosuilstadion,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Genk,,Mechelen,,Luminus Arena,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Eupen,,Club Brugge,,Stadion am Kehrweg,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Zulte Waregem,,Standard Liège,,Regenboogstadion,,Match Report,Match Cancelled,20,B1
+30.0,Sun,2020-03-15,18:00,Charleroi,,Kortrijk,,Stade du Pays de Charleroi,,Match Report,Match Cancelled,20,B1

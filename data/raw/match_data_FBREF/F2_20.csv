@@ -1,0 +1,418 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee,Match Report,Notes,season,Div
+1.0,Fri,2019-07-26,20:00,Niort,0–2,Troyes,2959.0,Stade René Gaillard,Pierre Gaillouste,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Nancy,0–0,Orléans,10642.0,Stade Marcel Picot,Gaël Angoula,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Clermont Foot,3–0,Châteauroux,2557.0,Stade Gabriel Montpied,Mehdi Mokhtari,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Sochaux,0–0,Caen,6429.0,Stade Auguste-Bonal,Franck Schneider,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Rodez Aveyron,2–0,Auxerre,2727.0,Stade Paul Lignon,Bastien Dechepy,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Chambly Oise,1–0,Valenciennes,3130.0,Stade des Marais,Remi Landry,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Guingamp,3–3,Grenoble,8599.0,Stade du Roudourou,Mikael Lesage,Match Report,,20,F2
+1.0,Fri,2019-07-26,20:00,Ajaccio,2–2,Le Havre,3027.0,Stade François Coty,Benoît Millot,Match Report,,20,F2
+1.0,Sat,2019-07-27,15:00,Le Mans,1–2,Lens,17731.0,MMArena,Arnaud Baert,Match Report,,20,F2
+1.0,Mon,2019-07-29,20:45,Lorient,3–0,Paris FC,9065.0,Stade Yves Allainmat - Le Moustoir,Nicolas Rainville,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+2.0,Fri,2019-08-02,20:00,Valenciennes,1–1,Nancy,5985.0,Stade du Hainaut,Pierre Gaillouste,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Orléans,0–1,Chambly Oise,3694.0,Stade de la Source,Aurélien Petit,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Auxerre,2–0,Le Mans,7430.0,Stade de l'Abbé Deschamps,Cédric Dos Santos,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Châteauroux,0–0,Rodez Aveyron,2729.0,Stade Gaston Petit,Romain Lissorgue,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Le Havre,1–1,Niort,6256.0,Stade Océane,Bartolomeu Varela,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Troyes,1–2,Clermont Foot,5628.0,Stade de l'Aube,Benjamin Lepaysant,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Paris FC,1–1,Sochaux,2117.0,Stade Sébastien Charléty,Thierry Bouille,Match Report,,20,F2
+2.0,Fri,2019-08-02,20:00,Grenoble,0–1,Ajaccio,5343.0,Stade des Alpes,Alexandre Perreau Niel,Match Report,,20,F2
+2.0,Sat,2019-08-03,16:30,Lens,2–0,Guingamp,28671.0,Stade Bollaert-Delelis,Nicolas Rainville,Match Report,,20,F2
+2.0,Mon,2019-08-05,20:45,Caen,1–2,Lorient,10191.0,Stade Michel d'Ornano,Sylvain Palhies,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+3.0,Fri,2019-08-09,20:00,Niort,3–0,Châteauroux,2874.0,Stade René Gaillard,Arnaud Baert,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Guingamp,1–0,Orléans,8936.0,Stade du Roudourou,Stéphanie Frappart,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Le Mans,1–2,Valenciennes,7724.0,MMArena,Romain Lissorgue,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Chambly Oise,0–0,Grenoble,2920.0,Stade des Marais,Cédric Dos Santos,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Sochaux,1–0,Auxerre,7268.0,Stade Auguste-Bonal,Gaël Angoula,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Rodez Aveyron,2–1,Paris FC,2495.0,Stade Paul Lignon,Remi Landry,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Ajaccio,1–2,Caen,3111.0,Stade François Coty,Benoît Bastien,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Troyes,1–2,Le Havre,5302.0,Stade de l'Aube,Mehdi Mokhtari,Match Report,,20,F2
+3.0,Fri,2019-08-09,20:00,Nancy,1–1,Lorient,11155.0,Stade Marcel Picot,Bastien Dechepy,Match Report,,20,F2
+3.0,Sat,2019-08-10,15:00,Clermont Foot,1–1,Lens,6304.0,Stade Gabriel Montpied,Pierre Gaillouste,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+4.0,Fri,2019-08-16,20:00,Orléans,0–1,Clermont Foot,3549.0,Stade de la Source,Thierry Bouille,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Lorient,1–0,Sochaux,8529.0,Stade Yves Allainmat - Le Moustoir,Pierre Gaillouste,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Caen,0–0,Chambly Oise,9762.0,Stade Michel d'Ornano,Arnaud Baert,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Valenciennes,1–0,Rodez Aveyron,5332.0,Stade du Hainaut,Alexandre Perreau Niel,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Nancy,2–1,Le Mans,10093.0,Stade Marcel Picot,Mehdi Mokhtari,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Grenoble,1–1,Troyes,4722.0,Stade des Alpes,Nicolas Rainville,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Châteauroux,0–1,Ajaccio,2693.0,Stade Gaston Petit,Aurélien Petit,Match Report,,20,F2
+4.0,Fri,2019-08-16,20:00,Paris FC,0–1,Niort,1541.0,Stade Sébastien Charléty,Benjamin Lepaysant,Match Report,,20,F2
+4.0,Sat,2019-08-17,15:00,Lens,1–3,Le Havre,29706.0,Stade Bollaert-Delelis,Sylvain Palhies,Match Report,,20,F2
+4.0,Mon,2019-08-19,20:45,Auxerre,2–2,Guingamp,7077.0,Stade de l'Abbé Deschamps,Jeremy Stinat,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+5.0,Fri,2019-08-23,20:00,Sochaux,3–0,Nancy,8524.0,Stade Auguste-Bonal,Willy Delajod,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Rodez Aveyron,3–3,Orléans,2019.0,Stade Paul Lignon,Benjamin Lepaysant,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Clermont Foot,1–1,Auxerre,4100.0,Stade Gabriel Montpied,Bastien Dechepy,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Niort,1–1,Caen,3456.0,Stade René Gaillard,Olivier Thual,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Le Havre,3–1,Grenoble,7810.0,Stade Océane,Arnaud Baert,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Le Mans,1–2,Lorient,8060.0,MMArena,Remi Landry,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Ajaccio,1–0,Paris FC,3175.0,Stade François Coty,Jérémie Pignard,Match Report,,20,F2
+5.0,Fri,2019-08-23,20:00,Chambly Oise,0–0,Châteauroux,3103.0,Stade des Marais,Nicolas Rainville,Match Report,,20,F2
+5.0,Sat,2019-08-24,15:00,Troyes,2–0,Lens,6492.0,Stade de l'Aube,Thomas Léonard,Match Report,,20,F2
+5.0,Mon,2019-08-26,20:45,Guingamp,0–1,Valenciennes,9100.0,Stade du Roudourou,Cédric Dos Santos,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+6.0,Fri,2019-08-30,20:00,Auxerre,3–1,Ajaccio,5583.0,Stade de l'Abbé Deschamps,Sylvain Palhies,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Le Mans,2–0,Sochaux,6357.0,MMArena,Benjamin Lepaysant,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Nancy,1–1,Rodez Aveyron,10117.0,Stade Marcel Picot,Aurélien Petit,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Orléans,0–1,Niort,3348.0,Stade de la Source,Pierre Gaillouste,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Valenciennes,1–0,Clermont Foot,6843.0,Stade du Hainaut,Gaël Angoula,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Caen,0–3,Le Havre,14578.0,Stade Michel d'Ornano,Thierry Bouille,Match Report,,20,F2
+6.0,Fri,2019-08-30,20:00,Châteauroux,0–1,Troyes,2680.0,Stade Gaston Petit,Cédric Dos Santos,Match Report,,20,F2
+6.0,Sat,2019-08-31,15:00,Lorient,0–1,Guingamp,13753.0,Stade Yves Allainmat - Le Moustoir,Mikael Lesage,Match Report,,20,F2
+6.0,Mon,2019-09-02,19:00,Paris FC,0–3,Chambly Oise,1545.0,Stade Sébastien Charléty,Bartolomeu Varela,Match Report,,20,F2
+6.0,Mon,2019-09-02,20:45,Grenoble,2–2,Lens,6651.0,Stade des Alpes,Romain Lissorgue,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+7.0,Fri,2019-09-13,20:00,Ajaccio,0–0,Orléans,2826.0,Stade François Coty,Hakim Ben El Hadj Salem,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Le Havre,0–0,Paris FC,8594.0,Stade Océane,Mehdi Mokhtari,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Guingamp,1–1,Nancy,7861.0,Stade du Roudourou,Nicolas Rainville,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Troyes,2–1,Caen,5465.0,Stade de l'Aube,Bartolomeu Varela,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Rodez Aveyron,4–1,Le Mans,1425.0,Stade Paul Lignon,Pierre Gaillouste,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Chambly Oise,1–4,Auxerre,3627.0,Stade des Marais,Benjamin Lepaysant,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Sochaux,0–0,Valenciennes,6627.0,Stade Auguste-Bonal,Arnaud Baert,Match Report,,20,F2
+7.0,Fri,2019-09-13,20:00,Niort,0–1,Grenoble,2745.0,Stade René Gaillard,Sylvain Palhies,Match Report,,20,F2
+7.0,Sat,2019-09-14,14:45,Clermont Foot,0–2,Lorient,3577.0,Stade Gabriel Montpied,Jérôme Brisard,Match Report,,20,F2
+7.0,Mon,2019-09-16,20:45,Lens,1–0,Châteauroux,21089.0,Stade Bollaert-Delelis,Bastien Dechepy,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+8.0,Fri,2019-09-20,20:00,Châteauroux,1–1,Grenoble,2448.0,Stade Gaston Petit,Mehdi Mokhtari,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Nancy,3–0,Chambly Oise,10062.0,Stade Marcel Picot,Romain Lissorgue,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Auxerre,1–2,Troyes,10054.0,Stade de l'Abbé Deschamps,Stéphanie Frappart,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Valenciennes,1–1,Niort,7690.0,Stade du Hainaut,Bartolomeu Varela,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Paris FC,0–2,Clermont Foot,1493.0,Stade Sébastien Charléty,Thierry Bouille,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Sochaux,3–1,Guingamp,6869.0,Stade Auguste-Bonal,Aurélien Petit,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Orléans,2–2,Le Havre,4037.0,Stade de la Source,Gaël Angoula,Match Report,,20,F2
+8.0,Fri,2019-09-20,20:00,Le Mans,2–4,Ajaccio,7177.0,MMArena,Cédric Dos Santos,Match Report,,20,F2
+8.0,Sat,2019-09-21,15:00,Caen,0–2,Lens,11786.0,Stade Michel d'Ornano,Johan Hamel,Match Report,,20,F2
+8.0,Mon,2019-09-23,20:45,Lorient,2–1,Rodez Aveyron,6973.0,Stade Yves Allainmat - Le Moustoir,Sylvain Palhies,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+9.0,Fri,2019-09-27,20:00,Niort,2–2,Auxerre,3129.0,Stade René Gaillard,Mehdi Mokhtari,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Rodez Aveyron,0–2,Sochaux,1828.0,Stade Paul Lignon,Bartolomeu Varela,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Ajaccio,2–0,Valenciennes,2580.0,Stade François Coty,Thierry Bouille,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Chambly Oise,0–1,Lorient,2981.0,Stade des Marais,Aurélien Petit,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Grenoble,1–0,Caen,5742.0,Stade des Alpes,Bastien Dechepy,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Le Havre,0–1,Châteauroux,6935.0,Stade Océane,Benjamin Lepaysant,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Clermont Foot,2–2,Nancy,2488.0,Stade Gabriel Montpied,Arnaud Baert,Match Report,,20,F2
+9.0,Fri,2019-09-27,20:00,Troyes,1–2,Orléans,5363.0,Stade de l'Aube,Jeremy Stinat,Match Report,,20,F2
+9.0,Sat,2019-09-28,14:45,Lens,2–1,Paris FC,23111.0,Stade Bollaert-Delelis,Nicolas Rainville,Match Report,,20,F2
+9.0,Mon,2019-09-30,20:45,Guingamp,3–0,Le Mans,7582.0,Stade du Roudourou,Sylvain Palhies,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+10.0,Fri,2019-10-04,20:00,Sochaux,4–0,Clermont Foot,7042.0,Stade Auguste-Bonal,Nicolas Rainville,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Valenciennes,0–2,Grenoble,10323.0,Stade du Hainaut,Romain Lissorgue,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Guingamp,4–1,Rodez Aveyron,7035.0,Stade du Roudourou,Benjamin Lepaysant,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Paris FC,1–0,Troyes,1565.0,Stade Sébastien Charléty,Remi Landry,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Nancy,2–1,Niort,10039.0,Stade Marcel Picot,Bastien Dechepy,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Le Mans,1–0,Chambly Oise,5032.0,MMArena,Thierry Bouille,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Lorient,0–0,Ajaccio,7759.0,Stade Yves Allainmat - Le Moustoir,Gaël Angoula,Match Report,,20,F2
+10.0,Fri,2019-10-04,20:00,Caen,1–1,Châteauroux,9277.0,Stade Michel d'Ornano,Eric Wattellier,Match Report,,20,F2
+10.0,Sat,2019-10-05,14:45,Auxerre,2–0,Le Havre,6726.0,Stade de l'Abbé Deschamps,Sylvain Palhies,Match Report,,20,F2
+10.0,Mon,2019-10-07,20:45,Orléans,1–4,Lens,5684.0,Stade de la Source,Aurélien Petit,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+11.0,Fri,2019-10-18,20:00,Châteauroux,0–1,Paris FC,6749.0,Stade Gaston Petit,Amaury Delerue,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Niort,0–0,Guingamp,3771.0,Stade René Gaillard,Remi Landry,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Clermont Foot,0–1,Rodez Aveyron,3809.0,Stade Gabriel Montpied,Thierry Bouille,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Troyes,2–1,Le Mans,8224.0,Stade de l'Aube,Cédric Dos Santos,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Ajaccio,0–0,Nancy,2839.0,Stade François Coty,Romain Lissorgue,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Caen,0–0,Valenciennes,8945.0,Stade Michel d'Ornano,Bartolomeu Varela,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Grenoble,0–0,Orléans,4905.0,Stade des Alpes,Mehdi Mokhtari,Match Report,,20,F2
+11.0,Fri,2019-10-18,20:00,Chambly Oise,0–0,Sochaux,3392.0,Stade des Marais,Arnaud Baert,Match Report,,20,F2
+11.0,Sat,2019-10-19,15:00,Le Havre,2–2,Lorient,8633.0,Stade Océane,Thomas Léonard,Match Report,,20,F2
+11.0,Mon,2019-10-21,20:45,Lens,0–0,Auxerre,28592.0,Stade Bollaert-Delelis,Gaël Angoula,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+12.0,Fri,2019-10-25,20:00,Auxerre,0–1,Grenoble,6176.0,Stade de l'Abbé Deschamps,Nicolas Rainville,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Orléans,1–1,Châteauroux,4380.0,Stade de la Source,Alexandre Perreau Niel,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Le Mans,1–0,Niort,5652.0,MMArena,Aurélien Petit,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Guingamp,1–2,Clermont Foot,8589.0,Stade du Roudourou,Pierre Gaillouste,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Nancy,0–0,Lens,12479.0,Stade Marcel Picot,Benjamin Lepaysant,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Rodez Aveyron,2–0,Chambly Oise,1096.0,Stade Paul Lignon,Bastien Dechepy,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Paris FC,2–4,Caen,3052.0,Stade Sébastien Charléty,Mehdi Mokhtari,Match Report,,20,F2
+12.0,Fri,2019-10-25,20:00,Sochaux,0–2,Ajaccio,10302.0,Stade Auguste-Bonal,Sylvain Palhies,Match Report,,20,F2
+12.0,Sat,2019-10-26,15:00,Lorient,0–1,Troyes,11615.0,Stade Yves Allainmat - Le Moustoir,Arnaud Baert,Match Report,,20,F2
+12.0,Mon,2019-10-28,20:45,Valenciennes,0–0,Le Havre,7653.0,Stade du Hainaut,Remi Landry,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+13.0,Fri,2019-11-01,20:00,Chambly Oise,1–5,Guingamp,3172.0,Stade des Marais,Cédric Dos Santos,Match Report,,20,F2
+13.0,Fri,2019-11-01,20:00,Troyes,1–0,Valenciennes,5967.0,Stade de l'Aube,Alexandre Perreau Niel,Match Report,,20,F2
+13.0,Fri,2019-11-01,20:00,Châteauroux,1–0,Auxerre,4229.0,Stade Gaston Petit,Thierry Bouille,Match Report,,20,F2
+13.0,Fri,2019-11-01,20:00,Caen,2–1,Orléans,10135.0,Stade Michel d'Ornano,Sylvain Palhies,Match Report,,20,F2
+13.0,Fri,2019-11-01,20:00,Ajaccio,1–0,Rodez Aveyron,2935.0,Stade François Coty,Bartolomeu Varela,Match Report,,20,F2
+13.0,Sat,2019-11-02,15:00,Lens,1–0,Lorient,32011.0,Stade Bollaert-Delelis,Benoît Millot,Match Report,,20,F2
+13.0,Sat,2019-11-02,15:00,Niort,0–2,Sochaux,2896.0,Stade René Gaillard,Gaël Angoula,Match Report,,20,F2
+13.0,Sat,2019-11-02,15:00,Clermont Foot,0–1,Le Mans,2646.0,Stade Gabriel Montpied,Romain Lissorgue,Match Report,,20,F2
+13.0,Sat,2019-11-02,15:00,Grenoble,0–0,Paris FC,7141.0,Stade des Alpes,Bastien Dechepy,Match Report,,20,F2
+13.0,Mon,2019-11-04,20:45,Le Havre,1–1,Nancy,6147.0,Stade Océane,Nicolas Rainville,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+14.0,Fri,2019-11-08,20:00,Sochaux,2–0,Le Havre,7384.0,Stade Auguste-Bonal,Thierry Bouille,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Orléans,0–1,Paris FC,3803.0,Stade de la Source,Gaël Angoula,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Le Mans,0–0,Grenoble,5587.0,MMArena,Benjamin Lepaysant,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Valenciennes,0–1,Châteauroux,7884.0,Stade du Hainaut,Pierre Gaillouste,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Chambly Oise,0–1,Clermont Foot,668.0,Stade des Marais,Alexandre Perreau Niel,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Lorient,4–1,Niort,7049.0,Stade Yves Allainmat - Le Moustoir,Mehdi Mokhtari,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Nancy,0–0,Troyes,10290.0,Stade Marcel Picot,Remi Landry,Match Report,,20,F2
+14.0,Fri,2019-11-08,20:00,Auxerre,1–1,Caen,4567.0,Stade de l'Abbé Deschamps,Cédric Dos Santos,Match Report,,20,F2
+14.0,Sat,2019-11-09,14:45,Guingamp,1–1,Ajaccio,8286.0,Stade du Roudourou,Karim Abed,Match Report,,20,F2
+14.0,Mon,2019-11-11,20:45,Rodez Aveyron,1–2,Lens,5348.0,Stade Paul Lignon,Aurélien Petit,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+15.0,Fri,2019-11-22,20:00,Niort,2–1,Rodez Aveyron,2683.0,Stade René Gaillard,Romain Lissorgue,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Ajaccio,1–1,Clermont Foot,3016.0,Stade François Coty,Olivier Thual,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Paris FC,2–0,Auxerre,3040.0,Stade Sébastien Charléty,Mehdi Mokhtari,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Troyes,0–4,Chambly Oise,5198.0,Stade de l'Aube,Gaël Angoula,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Grenoble,1–1,Nancy,5083.0,Stade des Alpes,Pierre Gaillouste,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Orléans,0–1,Valenciennes,3810.0,Stade de la Source,Bartolomeu Varela,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Châteauroux,1–3,Lorient,2691.0,Stade Gaston Petit,Aurélien Petit,Match Report,,20,F2
+15.0,Fri,2019-11-22,20:00,Caen,3–3,Le Mans,10664.0,Stade Michel d'Ornano,Bastien Dechepy,Match Report,,20,F2
+15.0,Sat,2019-11-23,15:00,Lens,4–0,Sochaux,25206.0,Stade Bollaert-Delelis,Nicolas Rainville,Match Report,,20,F2
+15.0,Mon,2019-11-25,20:45,Le Havre,4–0,Guingamp,6151.0,Stade Océane,Jérémie Pignard,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+16.0,Fri,2019-11-29,20:00,Guingamp,1–1,Caen,9224.0,Stade du Roudourou,Arnaud Baert,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Rodez Aveyron,1–2,Le Havre,3498.0,Stade Paul Lignon,Alexandre Perreau Niel,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Clermont Foot,1–0,Niort,2559.0,Stade Gabriel Montpied,Bartolomeu Varela,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Le Mans,1–2,Châteauroux,8690.0,MMArena,Cédric Dos Santos,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Auxerre,2–2,Orléans,6101.0,Stade de l'Abbé Deschamps,Remi Landry,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Chambly Oise,0–2,Ajaccio,2141.0,Stade des Marais,Mehdi Mokhtari,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Valenciennes,2–0,Lens,17415.0,Stade du Hainaut,Willy Delajod,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Nancy,2–0,Paris FC,9078.0,Stade Marcel Picot,Benjamin Lepaysant,Match Report,,20,F2
+16.0,Fri,2019-11-29,20:00,Lorient,2–1,Grenoble,6284.0,Stade Yves Allainmat - Le Moustoir,Thierry Bouille,Match Report,,20,F2
+16.0,Sat,2019-11-30,14:30,Sochaux,0–1,Troyes,8196.0,Stade Auguste-Bonal,Olivier Thual,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+17.0,Mon,2019-12-02,20:45,Caen,1–0,Nancy,8798.0,Stade Michel d'Ornano,Johan Hamel,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Le Havre,2–0,Le Mans,6054.0,Stade Océane,Arnaud Baert,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Niort,0–1,Ajaccio,2568.0,Stade René Gaillard,Bastien Dechepy,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Orléans,0–4,Lorient,3462.0,Stade de la Source,Romain Lissorgue,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Troyes,1–0,Rodez Aveyron,5418.0,Stade de l'Aube,Bartolomeu Varela,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Lens,3–0,Chambly Oise,29551.0,Stade Bollaert-Delelis,Pierre Gaillouste,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Grenoble,1–1,Clermont Foot,4369.0,Stade des Alpes,Mehdi Mokhtari,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Paris FC,0–3,Guingamp,2023.0,Stade Sébastien Charléty,Aurélien Petit,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Auxerre,1–1,Valenciennes,4057.0,Stade de l'Abbé Deschamps,Jeremy Stinat,Match Report,,20,F2
+17.0,Tue,2019-12-03,21:05,Châteauroux,1–1,Sochaux,2151.0,Stade Gaston Petit,Stéphanie Frappart,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+18.0,Fri,2019-12-13,20:00,Rodez Aveyron,2–1,Caen,2793.0,Stade Paul Lignon,Thierry Bouille,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Nancy,2–1,Châteauroux,9019.0,Stade Marcel Picot,Remi Landry,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Valenciennes,1–0,Paris FC,8141.0,Stade du Hainaut,Sylvain Palhies,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Le Mans,3–2,Orléans,17918.0,MMArena,Mehdi Mokhtari,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Clermont Foot,2–1,Le Havre,2270.0,Stade Gabriel Montpied,Gaël Angoula,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Chambly Oise,3–2,Niort,668.0,Stade des Marais,Alexandre Perreau Niel,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Sochaux,1–1,Grenoble,6080.0,Stade Auguste-Bonal,Cédric Dos Santos,Match Report,,20,F2
+18.0,Fri,2019-12-13,20:00,Lorient,1–0,Auxerre,6844.0,Stade Yves Allainmat - Le Moustoir,Benjamin Lepaysant,Match Report,,20,F2
+18.0,Sat,2019-12-14,16:00,Ajaccio,1–2,Lens,4536.0,Stade François Coty,Amaury Delerue,Match Report,,20,F2
+18.0,Mon,2019-12-16,20:45,Guingamp,0–1,Troyes,8950.0,Stade du Roudourou,Nicolas Rainville,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+19.0,Fri,2019-12-20,20:00,Auxerre,0–0,Nancy,4282.0,Stade de l'Abbé Deschamps,Bartolomeu Varela,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Grenoble,2–1,Rodez Aveyron,5579.0,Stade des Alpes,Romain Lissorgue,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Orléans,1–0,Sochaux,3274.0,Stade de la Source,Arnaud Baert,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Valenciennes,3–0,Lorient,5884.0,Stade du Hainaut,Bastien Dechepy,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Le Havre,1–1,Chambly Oise,7156.0,Stade Océane,Sylvain Palhies,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Châteauroux,1–5,Guingamp,5599.0,Stade Gaston Petit,Mehdi Mokhtari,Match Report,,20,F2
+19.0,Fri,2019-12-20,20:00,Caen,0–0,Clermont Foot,9529.0,Stade Michel d'Ornano,Pierre Gaillouste,Match Report,,20,F2
+19.0,Sat,2019-12-21,15:00,Lens,1–0,Niort,28819.0,Stade Bollaert-Delelis,Aurélien Petit,Match Report,,20,F2
+19.0,Sat,2019-12-21,15:00,Paris FC,0–3,Le Mans,2058.0,Stade Sébastien Charléty,Franck Schneider,Match Report,,20,F2
+19.0,Sat,2019-12-21,16:00,Troyes,2–1,Ajaccio,8979.0,Stade de l'Aube,Antony Gautier,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+20.0,Fri,2020-01-10,20:00,Nancy,1–0,Valenciennes,9275.0,Stade Marcel Picot,Cédric Dos Santos,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Niort,0–1,Le Havre,2749.0,Stade René Gaillard,Thierry Bouille,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Rodez Aveyron,1–2,Châteauroux,2891.0,Stade Paul Lignon,Bartolomeu Varela,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Sochaux,1–1,Paris FC,5703.0,Stade Auguste-Bonal,Gaël Angoula,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Ajaccio,3–1,Grenoble,2703.0,Stade François Coty,Bastien Dechepy,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Chambly Oise,1–0,Orléans,472.0,Stade des Marais,Remi Landry,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Clermont Foot,3–2,Troyes,3001.0,Stade Gabriel Montpied,Florent Batta,Match Report,,20,F2
+20.0,Fri,2020-01-10,20:00,Le Mans,0–1,Auxerre,5718.0,MMArena,Benjamin Lepaysant,Match Report,,20,F2
+20.0,Mon,2020-01-13,20:45,Lorient,2–1,Caen,7110.0,Stade Yves Allainmat - Le Moustoir,Nicolas Rainville,Match Report,,20,F2
+20.0,Sat,2020-01-18,18:30,Guingamp,1–1,Lens,10641.0,Stade du Roudourou,Jérôme Miguelgorry,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+21.0,Fri,2020-01-24,20:00,Auxerre,2–1,Sochaux,5666.0,Stade de l'Abbé Deschamps,Mehdi Mokhtari,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Orléans,2–0,Guingamp,3695.0,Stade de la Source,Aurélien Petit,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Châteauroux,1–1,Niort,2427.0,Stade Gaston Petit,Pierre Gaillouste,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Lorient,2–1,Nancy,8124.0,Stade Yves Allainmat - Le Moustoir,Ruddy Buquet,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Caen,0–1,Ajaccio,10880.0,Stade Michel d'Ornano,Bartolomeu Varela,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Grenoble,0–0,Chambly Oise,4250.0,Stade des Alpes,Arnaud Baert,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Paris FC,0–0,Rodez Aveyron,1844.0,Stade Sébastien Charléty,Alexandre Perreau Niel,Match Report,,20,F2
+21.0,Fri,2020-01-24,20:00,Valenciennes,1–0,Le Mans,5653.0,Stade du Hainaut,Gaël Angoula,Match Report,,20,F2
+21.0,Sat,2020-01-25,15:00,Lens,1–1,Clermont Foot,24625.0,Stade Bollaert-Delelis,Bastien Dechepy,Match Report,,20,F2
+21.0,Mon,2020-01-27,20:45,Le Havre,1–0,Troyes,6053.0,Stade Océane,Sylvain Palhies,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+22.0,Fri,2020-01-31,20:00,Guingamp,1–0,Auxerre,8812.0,Stade du Roudourou,Thierry Bouille,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Le Havre,0–0,Lens,10438.0,Stade Océane,Clément Turpin,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Le Mans,1–1,Nancy,5500.0,MMArena,Arnaud Baert,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Chambly Oise,0–1,Caen,2333.0,Stade des Marais,Aurélien Petit,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Clermont Foot,3–1,Orléans,2616.0,Stade Gabriel Montpied,Benjamin Lepaysant,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Ajaccio,0–1,Châteauroux,2908.0,Stade François Coty,Remi Landry,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Rodez Aveyron,1–1,Valenciennes,3314.0,Stade Paul Lignon,Eric Wattellier,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Troyes,1–2,Grenoble,5375.0,Stade de l'Aube,Cédric Dos Santos,Match Report,,20,F2
+22.0,Fri,2020-01-31,20:00,Niort,4–4,Paris FC,2635.0,Stade René Gaillard,Nicolas Rainville,Match Report,,20,F2
+22.0,Sat,2020-02-01,15:30,Sochaux,0–4,Lorient,6660.0,Stade Auguste-Bonal,Jeremy Stinat,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+23.0,Mon,2020-02-03,20:45,Grenoble,1–1,Le Havre,4864.0,Stade des Alpes,Gaël Angoula,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Valenciennes,0–0,Guingamp,10020.0,Stade du Hainaut,Remi Landry,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Lens,1–0,Troyes,23807.0,Stade Bollaert-Delelis,Jérémie Pignard,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Orléans,1–2,Rodez Aveyron,3559.0,Stade de la Source,Sylvain Palhies,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Châteauroux,0–3,Chambly Oise,2319.0,Stade Gaston Petit,Cédric Dos Santos,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Caen,4–3,Niort,8316.0,Stade Michel d'Ornano,Mehdi Mokhtari,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Nancy,1–1,Sochaux,10085.0,Stade Marcel Picot,Bartolomeu Varela,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Lorient,4–2,Le Mans,6363.0,Stade Yves Allainmat - Le Moustoir,Thomas Léonard,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Paris FC,2–3,Ajaccio,1875.0,Stade Sébastien Charléty,Pierre Gaillouste,Match Report,,20,F2
+23.0,Tue,2020-02-04,21:05,Auxerre,0–0,Clermont Foot,4094.0,Stade de l'Abbé Deschamps,Arnaud Baert,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+24.0,Fri,2020-02-07,20:00,Niort,2–0,Orléans,2716.0,Stade René Gaillard,Arnaud Baert,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Chambly Oise,1–2,Paris FC,604.0,Stade des Marais,Sylvain Palhies,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Rodez Aveyron,1–1,Nancy,3147.0,Stade Paul Lignon,Benjamin Lepaysant,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Clermont Foot,3–1,Valenciennes,2521.0,Stade Gabriel Montpied,Pierre Gaillouste,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Ajaccio,2–3,Auxerre,2619.0,Stade François Coty,Gaël Angoula,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Sochaux,1–0,Le Mans,5516.0,Stade Auguste-Bonal,Aurélien Petit,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Troyes,2–0,Châteauroux,7302.0,Stade de l'Aube,Mikael Lesage,Match Report,,20,F2
+24.0,Fri,2020-02-07,20:00,Le Havre,1–1,Caen,12125.0,Stade Océane,Bastien Dechepy,Match Report,,20,F2
+24.0,Sat,2020-02-08,15:00,Guingamp,2–1,Lorient,13069.0,Stade du Roudourou,Benoît Millot,Match Report,,20,F2
+24.0,Mon,2020-02-10,20:45,Lens,0–0,Grenoble,23022.0,Stade Bollaert-Delelis,Nicolas Rainville,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+25.0,Fri,2020-02-14,20:00,Orléans,0–3,Ajaccio,3160.0,Stade de la Source,Alexandre Perreau Niel,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Grenoble,3–1,Niort,4269.0,Stade des Alpes,Thierry Bouille,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Valenciennes,3–2,Sochaux,6464.0,Stade du Hainaut,Benjamin Lepaysant,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Auxerre,0–0,Chambly Oise,4032.0,Stade de l'Abbé Deschamps,Remi Landry,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Paris FC,1–0,Le Havre,1850.0,Stade Sébastien Charléty,Aurélien Petit,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Le Mans,0–0,Rodez Aveyron,5800.0,MMArena,Bartolomeu Varela,Match Report,,20,F2
+25.0,Fri,2020-02-14,20:00,Caen,0–1,Troyes,9239.0,Stade Michel d'Ornano,Nicolas Rainville,Match Report,,20,F2
+25.0,Sat,2020-02-15,15:00,Nancy,0–1,Guingamp,9000.0,Stade Marcel Picot,Cédric Dos Santos,Match Report,,20,F2
+25.0,Sat,2020-02-15,15:00,Lorient,0–1,Clermont Foot,7463.0,Stade Yves Allainmat - Le Moustoir,Mehdi Mokhtari,Match Report,,20,F2
+25.0,Mon,2020-02-17,20:45,Châteauroux,3–2,Lens,7048.0,Stade Gaston Petit,Willy Delajod,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+26.0,Fri,2020-02-21,20:00,Chambly Oise,2–1,Nancy,2097.0,Stade des Marais,Alexandre Perreau Niel,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Le Havre,1–2,Orléans,6118.0,Stade Océane,Remi Landry,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Niort,1–0,Valenciennes,3051.0,Stade René Gaillard,Aurélien Petit,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Guingamp,1–1,Sochaux,10612.0,Stade du Roudourou,Gaël Angoula,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Grenoble,0–1,Châteauroux,5199.0,Stade des Alpes,Bartolomeu Varela,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Rodez Aveyron,0–1,Lorient,4020.0,Stade Paul Lignon,Bastien Dechepy,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Ajaccio,2–0,Le Mans,2888.0,Stade François Coty,Benjamin Lepaysant,Match Report,,20,F2
+26.0,Fri,2020-02-21,20:00,Clermont Foot,0–1,Paris FC,4892.0,Stade Gabriel Montpied,Clément Turpin,Match Report,,20,F2
+26.0,Sat,2020-02-22,15:00,Lens,1–4,Caen,27711.0,Stade Bollaert-Delelis,Sylvain Palhies,Match Report,,20,F2
+26.0,Mon,2020-02-24,20:45,Troyes,3–1,Auxerre,8367.0,Stade de l'Aube,Pierre Gaillouste,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+27.0,Fri,2020-02-28,20:00,Orléans,0–2,Troyes,3570.0,Stade de la Source,Mehdi Mokhtari,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Caen,2–0,Grenoble,9845.0,Stade Michel d'Ornano,Ruddy Buquet,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Valenciennes,0–0,Ajaccio,6449.0,Stade du Hainaut,Sylvain Palhies,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Le Mans,2–1,Guingamp,6283.0,MMArena,Alexandre Perreau Niel,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Auxerre,3–1,Niort,4091.0,Stade de l'Abbé Deschamps,Romain Lissorgue,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Nancy,1–2,Clermont Foot,8867.0,Stade Marcel Picot,Nicolas Rainville,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Châteauroux,0–3,Le Havre,4662.0,Stade Gaston Petit,Pierre Gaillouste,Match Report,,20,F2
+27.0,Fri,2020-02-28,20:00,Sochaux,1–1,Rodez Aveyron,5445.0,Stade Auguste-Bonal,Cédric Dos Santos,Match Report,,20,F2
+27.0,Sat,2020-02-29,15:00,Lorient,1–2,Chambly Oise,7041.0,Stade Yves Allainmat - Le Moustoir,Arnaud Baert,Match Report,,20,F2
+27.0,Mon,2020-03-02,20:45,Paris FC,0–2,Lens,6439.0,Stade Sébastien Charléty,Thierry Bouille,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+28.0,Fri,2020-03-06,20:00,Chambly Oise,2–2,Le Mans,,Stade des Marais,Nicolas Rainville,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Grenoble,1–3,Valenciennes,4764.0,Stade des Alpes,Romain Lissorgue,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Clermont Foot,2–0,Sochaux,3862.0,Stade Gabriel Montpied,Bartolomeu Varela,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Rodez Aveyron,2–1,Guingamp,3308.0,Stade Paul Lignon,Hakim Ben El Hadj Salem,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Châteauroux,2–1,Caen,6600.0,Stade Gaston Petit,Aurélien Petit,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Le Havre,1–0,Auxerre,5948.0,Stade Océane,Thierry Bouille,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Niort,1–1,Nancy,2774.0,Stade René Gaillard,Remi Landry,Match Report,,20,F2
+28.0,Fri,2020-03-06,20:00,Troyes,1–1,Paris FC,6730.0,Stade de l'Aube,Benjamin Lepaysant,Match Report,,20,F2
+28.0,Sat,2020-03-07,15:00,Ajaccio,1–0,Lorient,3250.0,Stade François Coty,Eric Wattellier,Match Report,,20,F2
+28.0,Mon,2020-03-09,20:45,Lens,1–0,Orléans,,Stade Bollaert-Delelis,Pierre Gaillouste,Match Report,,20,F2
+,,,,,,,,,,,,20,F2
+29.0,Fri,2020-03-13,20:00,Guingamp,,Niort,,Stade du Roudourou,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Sochaux,,Chambly Oise,,Stade Auguste-Bonal,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Rodez Aveyron,,Clermont Foot,,Stade Paul Lignon,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Paris FC,,Châteauroux,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Nancy,,Ajaccio,,Stade Marcel Picot,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Orléans,,Grenoble,,Stade de la Source,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Valenciennes,,Caen,,Stade du Hainaut,,Match Report,Match Cancelled,20,F2
+29.0,Fri,2020-03-13,20:00,Le Mans,,Troyes,,MMArena,,Match Report,Match Cancelled,20,F2
+29.0,Sat,2020-03-14,15:00,Auxerre,,Lens,,Stade de l'Abbé Deschamps,,Match Report,Match Cancelled,20,F2
+29.0,Mon,2020-03-16,20:45,Lorient,,Le Havre,,Stade Yves Allainmat - Le Moustoir,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+30.0,Fri,2020-03-20,20:00,Clermont Foot,,Guingamp,,Stade Gabriel Montpied,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Châteauroux,,Orléans,,Stade Gaston Petit,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Le Havre,,Valenciennes,,Stade Océane,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Grenoble,,Auxerre,,Stade des Alpes,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Caen,,Paris FC,,Stade Michel d'Ornano,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Niort,,Le Mans,,Stade René Gaillard,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Ajaccio,,Sochaux,,Stade François Coty,,Match Report,Match Cancelled,20,F2
+30.0,Fri,2020-03-20,20:00,Chambly Oise,,Rodez Aveyron,,Stade des Marais,,Match Report,Match Cancelled,20,F2
+30.0,Sat,2020-03-21,15:00,Troyes,,Lorient,,Stade de l'Aube,,Match Report,Match Cancelled,20,F2
+30.0,Mon,2020-03-23,20:45,Lens,,Nancy,,Stade Bollaert-Delelis,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+31.0,Fri,2020-04-03,20:00,Le Mans,,Clermont Foot,,MMArena,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Rodez Aveyron,,Ajaccio,,Stade Paul Lignon,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Orléans,,Caen,,Stade de la Source,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Guingamp,,Chambly Oise,,Stade du Roudourou,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Paris FC,,Grenoble,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Auxerre,,Châteauroux,,Stade de l'Abbé Deschamps,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Valenciennes,,Troyes,,Stade du Hainaut,,Match Report,Match Cancelled,20,F2
+31.0,Fri,2020-04-03,20:00,Sochaux,,Niort,,Stade Auguste-Bonal,,Match Report,Match Cancelled,20,F2
+31.0,Sat,2020-04-04,15:00,Lorient,,Lens,,Stade Yves Allainmat - Le Moustoir,,Match Report,Match Cancelled,20,F2
+31.0,Mon,2020-04-06,20:45,Nancy,,Le Havre,,Stade Marcel Picot,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+32.0,Fri,2020-04-10,,Troyes,,Nancy,,Stade de l'Aube,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Caen,,Auxerre,,Stade Michel d'Ornano,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Grenoble,,Le Mans,,Stade des Alpes,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Le Havre,,Sochaux,,Stade Océane,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Ajaccio,,Guingamp,,Stade François Coty,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Clermont Foot,,Chambly Oise,,Stade Gabriel Montpied,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Niort,,Lorient,,Stade René Gaillard,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Châteauroux,,Valenciennes,,Stade Gaston Petit,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Paris FC,,Orléans,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+32.0,Fri,2020-04-10,,Lens,,Rodez Aveyron,,Stade Bollaert-Delelis,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+33.0,Fri,2020-04-17,,Valenciennes,,Orléans,,Stade du Hainaut,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Chambly Oise,,Troyes,,Stade des Marais,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Nancy,,Grenoble,,Stade Marcel Picot,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Guingamp,,Le Havre,,Stade du Roudourou,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Lorient,,Châteauroux,,Stade Yves Allainmat - Le Moustoir,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Clermont Foot,,Ajaccio,,Stade Gabriel Montpied,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Sochaux,,Lens,,Stade Auguste-Bonal,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Auxerre,,Paris FC,,Stade de l'Abbé Deschamps,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Le Mans,,Caen,,MMArena,,Match Report,Match Cancelled,20,F2
+33.0,Fri,2020-04-17,,Rodez Aveyron,,Niort,,Stade Paul Lignon,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+34.0,Tue,2020-04-21,,Caen,,Guingamp,,Stade Michel d'Ornano,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Châteauroux,,Le Mans,,Stade Gaston Petit,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Troyes,,Sochaux,,Stade de l'Aube,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Ajaccio,,Chambly Oise,,Stade François Coty,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Paris FC,,Nancy,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Niort,,Clermont Foot,,Stade René Gaillard,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Lens,,Valenciennes,,Stade Bollaert-Delelis,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Le Havre,,Rodez Aveyron,,Stade Océane,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Grenoble,,Lorient,,Stade des Alpes,,Match Report,Match Cancelled,20,F2
+34.0,Tue,2020-04-21,,Orléans,,Auxerre,,Stade de la Source,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+35.0,Fri,2020-04-24,,Guingamp,,Paris FC,,Stade du Roudourou,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Le Mans,,Le Havre,,MMArena,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Nancy,,Caen,,Stade Marcel Picot,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Clermont Foot,,Grenoble,,Stade Gabriel Montpied,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Valenciennes,,Auxerre,,Stade du Hainaut,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Sochaux,,Châteauroux,,Stade Auguste-Bonal,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Ajaccio,,Niort,,Stade François Coty,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Rodez Aveyron,,Troyes,,Stade Paul Lignon,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Lorient,,Orléans,,Stade Yves Allainmat - Le Moustoir,,Match Report,Match Cancelled,20,F2
+35.0,Fri,2020-04-24,,Chambly Oise,,Lens,,Stade des Marais,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+36.0,Fri,2020-05-01,,Orléans,,Le Mans,,Stade de la Source,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Troyes,,Guingamp,,Stade de l'Aube,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Caen,,Rodez Aveyron,,Stade Michel d'Ornano,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Grenoble,,Sochaux,,Stade des Alpes,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Lens,,Ajaccio,,Stade Bollaert-Delelis,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Auxerre,,Lorient,,Stade de l'Abbé Deschamps,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Châteauroux,,Nancy,,Stade Gaston Petit,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Le Havre,,Clermont Foot,,Stade Océane,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Niort,,Chambly Oise,,Stade René Gaillard,,Match Report,Match Cancelled,20,F2
+36.0,Fri,2020-05-01,,Paris FC,,Valenciennes,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+37.0,Fri,2020-05-08,,Lorient,,Valenciennes,,Stade Yves Allainmat - Le Moustoir,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Ajaccio,,Troyes,,Stade François Coty,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Rodez Aveyron,,Grenoble,,Stade Paul Lignon,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Le Mans,,Paris FC,,MMArena,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Clermont Foot,,Caen,,Stade Gabriel Montpied,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Niort,,Lens,,Stade René Gaillard,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Guingamp,,Châteauroux,,Stade du Roudourou,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Nancy,,Auxerre,,Stade Marcel Picot,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Chambly Oise,,Le Havre,,Stade des Marais,,Match Report,Match Cancelled,20,F2
+37.0,Fri,2020-05-08,,Sochaux,,Orléans,,Stade Auguste-Bonal,,Match Report,Match Cancelled,20,F2
+,,,,,,,,,,,,20,F2
+38.0,Fri,2020-05-15,,Valenciennes,,Chambly Oise,,Stade du Hainaut,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Orléans,,Nancy,,Stade de la Source,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Le Havre,,Ajaccio,,Stade Océane,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Paris FC,,Lorient,,Stade Sébastien Charléty,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Caen,,Sochaux,,Stade Michel d'Ornano,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Lens,,Le Mans,,Stade Bollaert-Delelis,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Auxerre,,Rodez Aveyron,,Stade de l'Abbé Deschamps,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Grenoble,,Guingamp,,Stade des Alpes,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Châteauroux,,Clermont Foot,,Stade Gaston Petit,,Match Report,Match Cancelled,20,F2
+38.0,Fri,2020-05-15,,Troyes,,Niort,,Stade de l'Aube,,Match Report,Match Cancelled,20,F2
